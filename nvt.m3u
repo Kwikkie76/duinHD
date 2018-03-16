@@ -258,8 +258,8 @@ http://media.streamone.net/hlslive/account=EbAIGq6LRMU2/livestream=9RBFKqaCTQ02/
 #EXTINF:-1 group_id=5 logo="plugin_file://logos/HalloGR.png,337 Hallo Gilze Rijen (NB)
 http://media.streamone.net/hlslive/account=FDZAM8cZD1w2/livestream=YgANN6-TZkUW/events(1488636636)/live-audio_1=96000-video=904000.m3u8
 
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/HTR.png,338 HTR Heusden (NB)
-http://hls.streamonecloud.net/livestream/amlst:h3kXcf2yyam/playlist.m3u8
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/SLOS.png,438 Slos TV (NB)
+http://media.streamone.net/hlslive/account=gzAIHu6ZTM8y/livestream=-iYMOqqATlc2/events(1488708262)/live-audio_1=96000-video=603968.m3u8
 
 #EXTINF:-1 group_id=5 logo="plugin_file://logos/LOM.png,339 LOM Mill (NB)
 http://media.streamone.net/hlslive/account=n6AAFYMLCAUW/livestream=l7JMj-YRB58w/l7JMj-YRB58w.m3u8
@@ -272,15 +272,6 @@ http://hls.streamonecloud.net/livestream/amlst:js2FsLiSaPLo/chunklist_w479280691
 
 #EXTINF:-1 group_id=5 logo="plugin_file://logos/OmroepDommelland.png,442 Omroep Dommelland TV (NB)
 http://media.streamone.net/hlslive/account=iAEhtK_T9hwE/livestream=GRMhto9Tut0k/events(1518000382)/live-audio_1=96000-video=904000.m3u8
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/ORTS.png,443 ORTS Oosterhout (NB)
-http://hls.streamonecloud.net/livestream/amlst:s4fa9kmgzp/playlist.m3u8
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/SirisTV.png,444 SIRIS TV (NB)
-rtmp://live.streamone.nl/livestream/H3KimsxZ98rR
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/SLOS.png,445 Slos TV (NB)
-http://media.streamone.net/hlslive/account=gzAIHu6ZTM8y/livestream=-iYMOqqATlc2/events(1488708262)/live-audio_1=96000-video=603968.m3u8
 
 #EXTINF:-1 group_id=5 logo="plugin_file://logos/TVELLEF.png,461 TV Ellef (LB)
 http://cdn22d.streampartner.nl/tvellef/livestream/playlist.m3u8
