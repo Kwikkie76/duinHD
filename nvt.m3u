@@ -364,17 +364,17 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chu
 
 
 
-#EXTINF:-1 group_id=11,Sky Sports Bundesliga 1
+#EXTINF:-1 group_id=12,Sky Sports Bundesliga 1
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
 
-#EXTINF:-1 group_id=11,Sky Sport 1 (DE) HD
+#EXTINF:-1 group_id=12,Sky Sport 1 (DE) HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
 
-#EXTINF:-1 group_id=11,Sky Sport 2 (DE) HD
+#EXTINF:-1 group_id=12,Sky Sport 2 (DE) HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
 
-#EXTINF:-1 group_id=11,Sport 1 HD (DE)
+#EXTINF:-1 group_id=12,Sport 1 HD (DE)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/701/index.m3u8
 
-#EXTINF:-1 group_id=11,Ziggo Sport Racing HD
+#EXTINF:-1 group_id=12,Ziggo Sport Racing HD
 http://62.210.82.102:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/539.ts
