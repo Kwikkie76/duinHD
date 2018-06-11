@@ -19,7 +19,7 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/chunklist_w14
 http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,007 RTV Oost
-https://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&output=manifest.mpd
+http://ngx.cr1.streamzilla.xlcdn.com/session/b77575968425c06515a0b313a0efe7b0/sz/rtv_oost/wowza4/live/tvoost.smil/chunklist_b2560000.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png",008 Omroep Gelderland
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -52,13 +52,13 @@ http://media.streampartner.nl/player.php?url=3j9xbox2afemt6yan69l&ref=podium.tv
 
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/ATV.png,051 ATV (BE)
-https://media.mediahuisvideo.be/hlslive/account=JIJgfIEK1MQE/livestream=voQFf8nRBx8S/voQFf8nRBx8S_480p1128kbs/index.m3u8
+http://media.mediahuisvideo.be/hlslive/account=JIJgfIEK1MQE/livestream=voQFf8nRBx8S/voQFf8nRBx8S_480p1128kbs/index.m3u8
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/TVO.png,052 TVO (BE)
 http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/master.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/TVL.png,053 TVL (BE)
-https://media.mediahuisvideo.be/hlslive/account=JLYpfMwK3Ewk/livestream=roYECewS1JQS/roYECewS1JQS_480p1128kbs/index.m3u8
+http://media.mediahuisvideo.be/hlslive/account=JLYpfMwK3Ewk/livestream=roYECewS1JQS/roYECewS1JQS_480p1128kbs/index.m3u8
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/Evenaar.png,054 Evenaar (BE)
 http://urtmpkal-f.akamaihd.net/i/12qekz6vu_1@180481/index_1_av-p.m3u8?sd=10&rebase=on
@@ -135,8 +135,8 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 #EXTINF:-1 group_id=12,901 5ky Sp0rts Bundesl1ga 1 (DE)
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/725/index.m3u8
 
-%#EXTINF:-1 group_id=12,902 5ky Sp0rt 1 (DE) HD
-%http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
+EXTINF:-1 group_id=12,902 5ky Sp0rt 1 (DE) HD
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/737/index.m3u8
 
 #EXTINF:-1 group_id=12,903 5ky Sp0rt 2 (DE) HD
 http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/733/index.m3u8
