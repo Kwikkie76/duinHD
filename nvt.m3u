@@ -19,7 +19,7 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/chunklist_w14
 http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,007 RTV Oost
-http://ngx.cr2.streamzilla.xlcdn.com/session/0c2ef6ce39c686f1a752f661cbdf85f1/sz/rtv_oost/wowza4/live/tvoost.smil/chunklist_b2560000.m3u8
+http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&output=manifest.mpd
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png",008 Omroep Gelderland
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -53,7 +53,7 @@ http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.
 http://media.mediahuisvideo.be/hlslive/account=JIJgfIEK1MQE/livestream=voQFf8nRBx8S/voQFf8nRBx8S_480p1128kbs/index.m3u8
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/TVO.png,052 TVO (BE)
-http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/master.m3u8?sd=10&rebase=on
+https://media.mediahuisvideo.be/hlslive/account=tqIhfOEY3U0A/livestream=1RRI7aXA60ww/1RRI7aXA60ww_1080p3728kbs/index.m3u8
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/TVL.png,053 TVL (BE)
 http://media.mediahuisvideo.be/hlslive/account=JLYpfMwK3Ewk/livestream=roYECewS1JQS/roYECewS1JQS_480p1128kbs/index.m3u8
@@ -100,11 +100,11 @@ http://cdn22d.streampartner.nl/tvellef/livestream/playlist.m3u8
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,201 MLB Network (USA)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,202 Real Madrid TV
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,201 Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,202 MLB Network (USA)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,203 PAC12 Arizona (USA)
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
