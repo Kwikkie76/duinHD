@@ -53,7 +53,7 @@ http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.
 http://media.mediahuisvideo.be/hlslive/account=JIJgfIEK1MQE/livestream=voQFf8nRBx8S/voQFf8nRBx8S_480p1128kbs/index.m3u8
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/TVO.png,052 TVO (BE)
-https://media.mediahuisvideo.be/hlslive/account=tqIhfOEY3U0A/livestream=1RRI7aXA60ww/1RRI7aXA60ww_1080p3728kbs/index.m3u8
+http://media.mediahuisvideo.be/hlslive/account=tqIhfOEY3U0A/livestream=1RRI7aXA60ww/1RRI7aXA60ww_1080p3728kbs/index.m3u8
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/TVL.png,053 TVL (BE)
 http://media.mediahuisvideo.be/hlslive/account=JLYpfMwK3Ewk/livestream=roYECewS1JQS/roYECewS1JQS_480p1128kbs/index.m3u8
