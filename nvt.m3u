@@ -19,7 +19,7 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/chunklist_w14
 http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,007 RTV Oost
-http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&output=playlist.m3u8
+http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png",008 Omroep Gelderland
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -104,7 +104,7 @@ http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/index_3776_av-b.m3u
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
 
 #EXTINF:-1 group_id=8 logo="plugin_file://logos/BRS.png,204 BR Sud (DU)
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_1216_av-b.m3u8
 
 #EXTINF:-1 group_id=8 logo="plugin_file://logos/DW.png,205 Deutsche Welle (DU)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
@@ -136,4 +136,5 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,307 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
 
