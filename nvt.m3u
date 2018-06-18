@@ -116,25 +116,25 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,201 Real Madrid TV (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,301 Real Madrid TV (UK)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,202 MLB Network (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,302 MLB Network (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,203 PAC12 Arizona (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,303 PAC12 Arizona (USA)
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,204 PAC12 Oregon (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,304 PAC12 Oregon (USA)
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,205 PAC12 Washington (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,305 PAC12 Washington (USA)
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,206 Pac12 Los Angeles (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,306 Pac12 Los Angeles (USA)
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,207 Pac12 Mountain (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,307 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
 
