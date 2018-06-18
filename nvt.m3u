@@ -19,7 +19,7 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/chunklist_w14
 http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,007 RTV Oost
-http://ngx.of2.streamzilla.xlcdn.com/session/24f5cd8666732d77e4aa987bcb2271de/sz/rtv_oost/wowza4/live/tvoost.smil/chunklist_b1536000.m3u8
+http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&output=playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png",008 Omroep Gelderland
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -81,30 +81,42 @@ http://media.streamone.net/hlslive/account=j4QJMY4bCVU2/livestream=krINAu6TPoQQ/
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/OpenRotterdam.png,106 OPEN Rotterdam (ZH)
 http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/RotterdamPodium.png,107 Rotterdam Podium (ZH)
-http://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/AT5.png,108 AT5 (NH)
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/AT5.png,107 AT5 (NH)
 http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/chunklist_w1296079852_b1628000.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/SALTO1.png,109 Salto 1 (NH)
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/SALTO1.png,108 Salto 1 (NH)
 http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/SALTO2.png,110 Salto 2 (NH)
-http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=cgYEH-MAKNUy/cgYEH-MAKNUy.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/TVELLEF.png,111 TV Ellef (LB)
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/TVELLEF.png,109 TV Ellef (LB)
 http://cdn22d.streampartner.nl/tvellef/livestream/playlist.m3u8
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/192TV.png,192 TV
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
 
-#EXTINF:-1 group_id=8,201 NDR Fernsehen HD
+#EXTINF:-1 group_id=8,201 NDR (DU)
 http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 
+#EXTINF:-1 group_id=8,202 WDR (DU)
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/index_3776_av-b.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,201 Real Madrid TV
+#EXTINF:-1 group_id=8,203 HR (DU)
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+
+#EXTINF:-1 group_id=8,204 BR Sud (DU)
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+
+#EXTINF:-1 group_id=8,205 Deutsche Welle (DU))
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
+
+#EXTINF:-1 group_id=8,206 Deutsche Welle (UK)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 group_id=8,207 TG 4 (IRL)
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,201 Real Madrid TV (UK)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,202 MLB Network (USA)
