@@ -104,7 +104,7 @@ http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/index_3776_av-b.m3u
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
 
 #EXTINF:-1 group_id=8 logo="plugin_file://logos/BRS.png,204 BR Sud (DU)
-https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_1216_av-b.m3u8
+http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_1216_av-b.m3u8
 
 #EXTINF:-1 group_id=8 logo="plugin_file://logos/DW.png,205 Deutsche Welle (DU)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
