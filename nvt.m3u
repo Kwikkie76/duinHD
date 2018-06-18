@@ -19,7 +19,7 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/chunklist_w14
 http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,007 RTV Oost
-http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&protocol=http&output=playlist.m3u8
+http://ngx.cr1.streamzilla.xlcdn.com/session/a1c6bc70385ea8f793f0de64d3f26b48/sz/rtv_oost/wowza4/live/tvoost.smil/chunklist_b2560000.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png",008 Omroep Gelderland
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
