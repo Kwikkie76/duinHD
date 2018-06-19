@@ -61,6 +61,9 @@ http://media.mediahuisvideo.be/hlslive/account=JLYpfMwK3Ewk/livestream=roYECewS1
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/Evenaar.png,054 Evenaar (BE)
 http://urtmpkal-f.akamaihd.net/i/12qekz6vu_1@180481/index_1_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 group_id=9,BRUZZ (Brussel)
+http://hls-origin01-bruzz.cdn02.rambla.be/adliveorigin-bruzz/_definst_/Vy8bzJ.smil/chunklist_b3000000.m3u8
+
 
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/RTVMeppel.png,101 RTV Meppel (Dr)
@@ -141,35 +144,11 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 #EXTINF:-1,CVM (Jamaica)
 http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBQU29OvUayFIJiGOZCgrkdXWwDIzxrtAl9mGmmC64HpEOM4Ge8KI-27SGqX_DJHyg==/a_n1eeiwgzyg0g.m3u8
 
-#EXTINF:-1,MTM TV (Jamaica)
-http://media.btbn.tv/mtmtv/live/playlist.m3u8
-
-#EXTINF:-1,21Bis (België)
-http://bhutan.thomasmore.be/elemental_hls/hls_stream_iphone_med.m3u8
-
-#EXTINF:-1,BRUZZ (Brussel)
-http://hls-origin01-bruzz.cdn02.rambla.be/adliveorigin-bruzz/_definst_/Vy8bzJ.smil/chunklist_b3000000.m3u8
-
-#EXTINF:-1,RTL (Luxemburg)
-http://live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8 
-
-#EXTINF:-1,RTL 2 Tele Letzebourg (Luxemburg)
-http://live-edge01.rtl.lu/channel2/smil:channel2/chunklist_b2168000_slltz.m3u8
-
 #EXTINF:-1,Three (Nieuw Zeeland)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
-#EXTINF:-1,TVSN (Nieuw-Zeeland)
-http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
-
-#EXTINF:-1,Wairarapa TV (Nieuw-Zeeland)
-http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
-
 #EXTINF:-1,BLK TV (Oostenrijk)
 http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8
-
-#EXTINF:-1,Dorf TV (Linz - Oostenrijk)
-http://stream.openplayout.org/hls/dorf_high/index.m3u8
 
 #EXTINF:-1,DRF 1 (Oostenrijk)
 http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8
@@ -180,29 +159,14 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1,GoTV (Oostenrijk)
 http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
 
-#EXTINF:-1,Katholisches Fernsehen (Oostenrijk)
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-
-#EXTINF:-1,KIT = Kirche ist toll (Oostenrijk)
-http://146.185.16.10:1935/kit/kitstream/playlist.m3u8
-
 #EXTINF:-1,M1 HD (Oostenrijk)
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
-
-#EXTINF:-1,OE24TV (Oostenrijk)
-http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 
 #EXTINF:-1,OKTO 8 (Oostenrijk)
 http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
 
 #EXTINF:-1,Okto TV - Oostenrijk
 http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
-
-#EXTINF:-1,ORF 2 HD (Oostenrijk)
-http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/chunklist.m3u8
-
-#EXTINF:-1,ORF2E (Oostenrijk)
-http://apasfiisl.apa.at/ipad/orf2e_q6a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1,P3tv HD  (Oostenrijk)
 http://p3-6.mov.at:1935/live/weekstream/master.m3u8
@@ -216,17 +180,8 @@ http://www.reeins.tv:1935/live/re1/chunklist_w1448095330.m3u8
 #EXTINF:-1,reeins TV (Oostenrijk)
 http://www.reeins.tv:1935/live/re1/playlist.m3u8
 
-#EXTINF:-1,Swamiji TV Austria  (Oostenrijk)
-http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
-
 #EXTINF:-1,Tirol TV (Oostenrijk)
 http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
 
-#EXTINF:-1,tvm 3 (Oostenrijk)
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-
 #EXTINF:-1,W24 TV (Oostenrijk)
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
-
-#EXTINF:-1,Zell am See - Schmitten (Oostenrijk)
-http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
