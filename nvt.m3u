@@ -137,3 +137,66 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,307 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
+
+#EXTINF:-1,Dorf TV (Linz - Oostenrijk)
+http://stream.openplayout.org/hls/dorf_high/index.m3u8
+
+#EXTINF:-1,DRF 1 (Oostenrijk)
+http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8
+
+#EXTINF:-1,FS1 HD - Salzburg (Oostenrijk)
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1,GoTV (Oostenrijk)
+http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
+
+#EXTINF:-1,Katholisches Fernsehen (Oostenrijk)
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1,KIT = Kirche ist toll (Oostenrijk)
+http://146.185.16.10:1935/kit/kitstream/playlist.m3u8
+
+#EXTINF:-1,M1 HD (Oostenrijk)
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+
+#EXTINF:-1,OE24TV (Oostenrijk)
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+
+#EXTINF:-1,OKTO 8 (Oostenrijk)
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
+
+#EXTINF:-1,Okto TV - Oostenrijk
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
+
+#EXTINF:-1,ORF 2 HD (Oostenrijk)
+http://orf2.orf.cdn.ors.at/orf2/q8c.sdp/chunklist.m3u8
+
+#EXTINF:-1,ORF2E (Oostenrijk)
+http://apasfiisl.apa.at/ipad/orf2e_q6a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1,P3tv HD  (Oostenrijk)
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+
+#EXTINF:-1,RE eins TV (Oostenrijk)
+http://www.reeins.tv:1935/live/re1/playlist.m3u8
+
+#EXTINF:-1,RE eins TV (Oostenrijk)
+http://www.reeins.tv:1935/live/re1/chunklist_w1448095330.m3u8
+
+#EXTINF:-1,reeins TV (Oostenrijk)
+http://www.reeins.tv:1935/live/re1/playlist.m3u8
+
+#EXTINF:-1,Swamiji TV Austria  (Oostenrijk)
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+
+#EXTINF:-1,Tirol TV (Oostenrijk)
+http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
+
+#EXTINF:-1,tvm 3 (Oostenrijk)
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+
+#EXTINF:-1,W24 TV (Oostenrijk)
+http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+
+#EXTINF:-1,Zell am See - Schmitten (Oostenrijk)
+http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
