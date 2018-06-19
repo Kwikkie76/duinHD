@@ -147,41 +147,11 @@ http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBQU29OvUayFIJiGOZCgrkdXWwDIz
 #EXTINF:-1,Three (Nieuw Zeeland)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
-#EXTINF:-1,BLK TV (Oostenrijk)
-http://62.113.210.250/medienasa-live/BLKonline_high/master.m3u8
-
 #EXTINF:-1,DRF 1 (Oostenrijk)
 http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8
-
-#EXTINF:-1,FS1 HD - Salzburg (Oostenrijk)
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-
-#EXTINF:-1,GoTV (Oostenrijk)
-http://nstream17.gotv.at:1938/live/gotvlive_576p/playlist.m3u8
 
 #EXTINF:-1,M1 HD (Oostenrijk)
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
 
-#EXTINF:-1,OKTO 8 (Oostenrijk)
-http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
 
-#EXTINF:-1,Okto TV - Oostenrijk
-http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
 
-#EXTINF:-1,P3tv HD  (Oostenrijk)
-http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-
-#EXTINF:-1,RE eins TV (Oostenrijk)
-http://www.reeins.tv:1935/live/re1/playlist.m3u8
-
-#EXTINF:-1,RE eins TV (Oostenrijk)
-http://www.reeins.tv:1935/live/re1/chunklist_w1448095330.m3u8
-
-#EXTINF:-1,reeins TV (Oostenrijk)
-http://www.reeins.tv:1935/live/re1/playlist.m3u8
-
-#EXTINF:-1,Tirol TV (Oostenrijk)
-http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w1178744335.m3u8
-
-#EXTINF:-1,W24 TV (Oostenrijk)
-http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
