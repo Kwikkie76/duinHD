@@ -58,12 +58,11 @@ http://media.mediahuisvideo.be/hlslive/account=tqIhfOEY3U0A/livestream=1RRI7aXA6
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/TVL.png,053 TVL (BE)
 http://media.mediahuisvideo.be/hlslive/account=JLYpfMwK3Ewk/livestream=roYECewS1JQS/roYECewS1JQS_480p1128kbs/index.m3u8
 
-#EXTINF:-1 group_id=9 logo="plugin_file://logos/Evenaar.png,054 Evenaar (BE)
-http://urtmpkal-f.akamaihd.net/i/12qekz6vu_1@180481/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group_id=9,BRUZZ (Brussel)
+#EXTINF:-1 group_id=9 logo="plugin_file://logos/BRUZZ.png,054 BRUZZ (BE)
 http://hls-origin01-bruzz.cdn02.rambla.be/adliveorigin-bruzz/_definst_/Vy8bzJ.smil/chunklist_b3000000.m3u8
 
+#EXTINF:-1 group_id=9 logo="plugin_file://logos/Evenaar.png,055 Evenaar (BE)
+http://urtmpkal-f.akamaihd.net/i/12qekz6vu_1@180481/index_1_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/RTVMeppel.png,101 RTV Meppel (Dr)
@@ -97,61 +96,104 @@ http://cdn22d.streampartner.nl/tvellef/livestream/playlist.m3u8
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/NDR.png,201 NDR (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/NDR.png,NDR (DU)
 http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/WDR.png,202 WDR (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/NDR.png,NDR Hamburg (DU)
+http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/NDR.png,NDR Niedersachsen (DU)
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/NDR.png,NDR Schleswig-Holstein (DU)
+http://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/WDR.png,WDR (DU)
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/index_3776_av-b.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/HR.png,203 HR (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/HR.png,HR (DU)
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/BRS.png,204 BR Sud (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/BRS.png,BR Sud (DU)
 http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_1216_av-b.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/DW.png,205 Deutsche Welle (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/DW.png,Deutsche Welle (DU)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/DW.png,206 Deutsche Welle (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/FRF1.png,FRF 1 (DU)
+http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/MDF1.png,MDF 1 (DU)
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/TVBERLIN.png,TV Berlin (DU)
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/TS24.png,Tagesschau 24 (DU)
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/DW.png,206 Deutsche Welle (UK)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/TG4.png,207 TG 4 (IRL)
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/LL.png,London Live (UK)
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/SMS.png,Cinema Action (UK)
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_showcase/tracks-v1a1/index.m3u8
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,301 Real Madrid TV (UK)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 group_id=8 logo="plugin_file://logos/NOSP.png,Nos Pais TV (SUR)
+http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w1798703532_b2000000.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,302 MLB Network (USA)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group_id=8 logo="plugin_file://logos/TVD13.png,TV Direct 13 (SUR)
+http://nlengine1.cur.watch/direct/auto/playlist.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,303 PAC12 Arizona (USA)
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,304 PAC12 Oregon (USA)
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,305 PAC12 Washington (USA)
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,306 Pac12 Los Angeles (USA)
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,307 Pac12 Mountain (USA)
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-
-
-#EXTINF:-1,CVM (Jamaica)
+#EXTINF:-1 group_id=8 logo="plugin_file://logos/CVM.png,CVM (JAM)
 http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBQU29OvUayFIJiGOZCgrkdXWwDIzxrtAl9mGmmC64HpEOM4Ge8KI-27SGqX_DJHyg==/a_n1eeiwgzyg0g.m3u8
 
-#EXTINF:-1,Three (Nieuw Zeeland)
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
-#EXTINF:-1,DRF 1 (Oostenrijk)
-http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,Real Madrid TV (UK)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1,M1 HD (Oostenrijk)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SFC.png,Sevilla FC TV (ESP)
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/TDTV.png,Todo Deporte TV (ESP)
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,Abu Dhabi Sports 1 (AE)
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,Abu Dhabi Sports 2 (AE)
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/COS.png,CableOnda Sports FC (PAN)
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/COS.png,CableOnda Sports (PAN)
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,MLB Network (USA)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NFL.png,NFL NOW (USA)
+http://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,PAC12 Bayarea (USA)
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,PAC12 Arizona (USA)
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,PAC12 Oregon (USA)
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,PAC12 Washington (USA)
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,Pac12 Los Angeles (USA)
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,Pac12 Mountain (USA)
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
