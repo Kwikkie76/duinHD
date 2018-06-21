@@ -99,37 +99,28 @@ http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/NDR.png,201 NDR (DU)
 http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/NDR.png,202 NDR Hamburg (DU)
-http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/NDR.png,203 NDR Niedersachsen (DU)
-http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/NDR.png,204 NDR Schleswig-Holstein (DU)
-http://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/WDR.png,205 WDR (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/WDR.png,202 WDR (DU)
 http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/index_3776_av-b.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/HR.png,206 HR (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/HR.png,203 HR (DU)
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/BRS.png,207 BR Sud (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/BRS.png,204 BR Sud (DU)
 http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_1216_av-b.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/FRF1.png,208 FRF 1 (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/FRF1.png,205 FRF 1 (DU)
 http://62.113.221.100/friesischerRundfunk-live/_definst_/mp4:livestream/playlist.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/MDF1.png,209 MDF 1 (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/MDF1.png,206 MDF 1 (DU)
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/TVBERLIN.png,210 TV Berlin (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/TVBERLIN.png,207 TV Berlin (DU)
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:7649-sbr/playlist.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/TS24.png,211 Tagesschau 24 (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/TS24.png,208 Tagesschau 24 (DU)
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/DW.png,212 Deutsche Welle (DU)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/DW.png,209 Deutsche Welle (DU)
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
 
 
