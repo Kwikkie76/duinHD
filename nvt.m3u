@@ -196,25 +196,23 @@ http://51.15.226.205:1935/live/espn2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" logo="http://x.pac-12.com/sites/default/files/DigitalOpen_2015.mov.00_00_04_23.Still001__1457742519.jpg",Pac-12 National
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
 
-#EXTINF:-1 logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg"Pluto TV Movies 1
+#EXTINF:-1 logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",Pluto TV Movies 1
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
  
 #EXTINF:-1 logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",Pluto TV Movies 2
 http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="" tvg-name="" logo="http://i.imgur.com/A4GMBN6.png",Red Bull TV (Updated)
-http://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
 #EXTINF:-1 logo="http://upload.wikimedia.org/wikipedia/commons/8/85/Sony_Movie_Channel.png",Sony Movie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 logo="http://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg",Stadium Sports Network (Updated)
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
 #EXTINF:-1 logo="http://ondomedia.com/wp-content/uploads/2012/11/wosn-steel-master-711x533.jpg",West Ohio Sports Network
 http://tv.bmx-tv.top:1935/live/1.smil/playlist.m3u8
-http://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" logo="http://i.imgur.com/qj9MV9F.jpg",History
+
+#EXTINF:-1 logo="http://i.imgur.com/qj9MV9F.jpg",History
 http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
 
 #EXTINF:-1 logo="http://i.imgur.com/Yml4K3g.png",FNTSY Sports Network
