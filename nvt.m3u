@@ -139,7 +139,7 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,321 Discovery Channel (USA)
 http://51.15.226.205:1935/live/discovery/playist.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,422 Discovery World (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,322 Discovery World (UK)
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/H2.png,323 History 2 (UK)
@@ -161,7 +161,7 @@ http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,522 Abu Dhabi Sports 2 (UAE)
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/DubaiSports.png ,Dubai Sports (UAE)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/DubaiSports.png,523 Dubai Sports (UAE)
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/COS.png,531 CableOnda Sports FC (PAN)
