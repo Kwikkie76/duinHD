@@ -203,9 +203,9 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,567 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/WOSN.png,568 West Ohio Sports Network
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/WOSN.png,568 West Ohio Sports Network (USA)
 http://tv.bmx-tv.top:1935/live/1.smil/playlist.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FNTSY.png,571 FNTSY Sports Network
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FNTSY.png,571 FNTSY Sports Network (USA)
 http://tv.bmx-tv.top:1935/live/7.smil/playlist.m3u8
 
