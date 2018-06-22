@@ -133,36 +133,36 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/SMS.png,311 Cinema Action (UK)
 http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_showcase/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/Sony.png,312 Sony Movie Channel (USA)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Sony.png,312 Sony Movie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/.png",321 Discovery Channel (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,321 Discovery Channel (USA)
 http://51.15.226.205:1935/live/discovery/playist.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/H2.png",322 History 2 (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,422 Discovery World (UK)
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/H2.png,323 History 2 (UK)
 http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/NOSP.png,401 Nos Pais TV (SUR)
-http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w1798703532_b2000000.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/TVD13.png,402 TV Direct 13 (SUR)
-http://nlengine1.cur.watch/direct/auto/playlist.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,501 BT Sport ESPN (UK)
+http://sport7.pw/lba/NWQ4OGRiYzA3NzFlMWUxOWU0NDU5YWYyMTZiZmIzNmI=/g6/btsportespn.m3u8
 
-#EXTINF:-1 group_id=8 logo="plugin_file://logos/CVM.png,403 CVM (JAM)
-http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eBQU29OvUayFIJiGOZCgrkdXWwDIzxrtAl9mGmmC64HpEOM4Ge8KI-27SGqX_DJHyg==/a_n1eeiwgzyg0g.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SkySports,502 Sky Sports (UK)
+http://sport7.pw/lba/123/g8/SkyMainEvent.m3u8
 
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,501 Real Madrid TV (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,511 Real Madrid TV (UK)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SFC.png,511 Sevilla FC TV (ESP)
-http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,521 Abu Dhabi Sports 1 (AE)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,521 Abu Dhabi Sports 1 (UAE)
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,522 Abu Dhabi Sports 2 (AE)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,522 Abu Dhabi Sports 2 (UAE)
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/DubaiSports.png ,Dubai Sports (UAE)
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/COS.png,531 CableOnda Sports FC (PAN)
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
@@ -170,10 +170,10 @@ http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-4
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/COS.png,532 CableOnda Sports (PAN)
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,551 ESPN
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,551 ESPN
 http://51.15.226.205:1935/live/espn/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,552 ESPN 2
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN2.png,552 ESPN 2
 http://51.15.226.205:1935/live/espn2/master.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,553 MLB Network (USA)
