@@ -189,6 +189,18 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png",558 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
+#EXTINF:-1 logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab1857ba-26d5-6f07-0e5d-4c45700e2389-ClassicMovies_featured.jpg",Classic Movies
+http://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg",Action Movies
+http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 logo="http://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png",Discovery Channel
+http://51.15.226.205:1935/live/discovery/playist.m3u8
+
+#EXTINF:-1 logo="http://s3.amazonaws.com/freebiesupply/thumbs/2x/espn-logo.png",ESPN
+http://51.15.226.205:1935/live/espn/master.m3u8
+ 
 
 #EXTINF:-1 logo="http://icanadvertising.com/wp-content/uploads/2014/11/ESPN2_Logo-whiteback.png",ESPN 2
 http://51.15.226.205:1935/live/espn2/master.m3u8
@@ -210,7 +222,6 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 
 #EXTINF:-1 logo="http://ondomedia.com/wp-content/uploads/2012/11/wosn-steel-master-711x533.jpg",West Ohio Sports Network
 http://tv.bmx-tv.top:1935/live/1.smil/playlist.m3u8
-
 
 #EXTINF:-1 logo="http://i.imgur.com/qj9MV9F.jpg",History
 http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
