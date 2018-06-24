@@ -130,8 +130,20 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/H2.png,323 History 2 (UK)
 http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,501 BT E5PN (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,501 Sony Ten 1 (IND) (ENG)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,502 Sony Ten 2 (IND) (ENG)
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,503 Sony Ten 3 (IND) (ENG)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,504 Sony Six (IND) (ENG)
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,505 Sony ESPN (IND) (ENG)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,511 Real Madrid TV (UK)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
@@ -151,10 +163,10 @@ http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-4
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/COS.png,532 CableOnda Sports (PAN)
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,551 E5PN
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,551 ESPN
 http://51.15.226.205:1935/live/espn/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN2.png,552 E5PN 2
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN2.png,552 ESPN 2
 http://51.15.226.205:1935/live/espn2/master.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,553 MLB Network (USA)
