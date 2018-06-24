@@ -130,20 +130,6 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/H2.png,323 History 2 (UK)
 http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,501 Sony Ten 1 (IND) (ENG)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,502 Sony Ten 2 (IND) (ENG)
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,503 Sony Ten 3 (IND) (ENG)
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,504 Sony Six (IND) (ENG)
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/Sony Ten.png,505 Sony ESPN (IND) (ENG)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,511 Real Madrid TV (UK)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
@@ -199,3 +185,17 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/WOSN.png,568 West Ohio Sports Network (USA)
 http://tv.bmx-tv.top:1935/live/1.smil/playlist.m3u8
 
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,571 Sony Ten 1 (IND)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,572 Sony Ten 2 (IND)
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,573 Sony Ten 3 (IND)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonySix.png,574 Sony Six (IND)
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,575 Sony ESPN (IND)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
