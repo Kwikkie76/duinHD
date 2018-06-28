@@ -85,18 +85,6 @@ http://217.120.149.135:4008/listen.pls
 
 
 
-#EXTINF:-1,AIR Schiphol Tower EHAM Arrival (Primary)
-http://d.liveatc.net/eham01_arr_p
-
-#EXTINF:-1,AIR Schiphol Tower EHAM Main 18L/36R - 22/04 (TWR1)
-http://d.liveatc.net/eham01_twr_main1
-
-#EXTINF:-1,AIR Schiphol Tower EHAM Main 06/24
-http://d.liveatc.net/eham01_twr_main3
-
-#EXTINF:-1,AIR Schiphol EHAM Clearance Delivery
-http://d.liveatc.net/eham01_del
-
 #EXTINF:-1,AIR Schiphol (IJmuiden)
 http://84.106.255.110:88/broadwave.m3u?src=2&rate=1
 
@@ -115,8 +103,20 @@ http://d.liveatc.net/eheh3_app
 #EXTINF:-1,AIR Eindhoven Airport (EHEH) Tower
 http://d.liveatc.net/eheh3_twr
 
-#EXTINF:-1,AIR Militaire luchtvaart communicatie (Harlingen)
-http://217.120.149.135:4004/listen.pls
+#EXTINF:-1,AIR Eelde Airport (EHGG) Approach
+http://d.liveatc.net/ehgg1_app
+
+#EXTINF:-1,AIR Eelde Airport (EHGG)	133.555 MHz
+http://d.liveatc.net/ehgg1_atis
+
+#EXTINF:-1,AIR Eelde Airport (EHGG) Clearance Delivery/Ground 121.705 MHz
+http://d.liveatc.net/ehgg1_gnd
+
+#EXTINF:-1,AIR Eelde Airport (EHGG) Emergency/Guard	121.500 MHz
+http://d.liveatc.net/ehgg1_guard
+
+#EXTINF:-1,AIR Eelde Airport (EHGG) Tower	118.705 MHz
+http://d.liveatc.net/ehgg1_twr
 
 #EXTINF:-1,AIR Civiele luchtvaart communicatie (Harlingen)
 http://217.120.149.135:4006/listen.pls
@@ -124,11 +124,20 @@ http://217.120.149.135:4006/listen.pls
 #EXTINF:-1,AIR Maastricht Upper Area Control Centre (MUAC)
 http://audio2.broadcastify.com/1m2p7qt3cx6hjnf.mp3?nc=27847003
 
-#EXTINF:-1,AIR Groningen Eelde Airport (EHGG)
-http://audio10.broadcastify.com/3j4p2w6cz9d8xbq.mp3?nc=97181562
-
 #EXTINF:-1,AIR Hoogeveen Airport (EHHO)
 http://audio10.broadcastify.com/wxfhnq194c256p7.mp3?nc=46200578
+
+#EXTINF:-1,AIR Militaire luchtvaart communicatie Dutch Mil
+http://d.liveatc.net/ehle_dutchmil
+
+#EXTINF:-1,AIR Militaire luchtvaart communicatie (Harlingen)
+http://217.120.149.135:4004/listen.pls
+
+#EXTINF:-1,AIR Gilze-Rijen Air Base (EHGR) Twr/TMA/App
+http://d.liveatc.net/ehgr
+
+#EXTINF:-1,AIR Vlieland Heliport (EHVL) CTAF/Range Control
+http://d.liveatc.net/ehvl1
 
 
 
