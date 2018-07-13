@@ -7,7 +7,7 @@ http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/NHNieuws.png,003 NH
-http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/chunklist_b2628000.m3u8
+http://lsw-global.offload.streamzilla.xlcdn.com/session/00000000000000000000000000000000/sz/NHMediaTrial/wowza4/live/NHnieuws.smil/chunklist_b2097152.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVNoord.png,004 RTV Noord
 http://livestreams.omroep.nl/live/npo/regionaal/rtvnoord/rtvnoord.isml/rtvnoord.m3u8?
@@ -62,7 +62,7 @@ http://media.mediahuisvideo.be/hlslive/account=JLYpfMwK3Ewk/livestream=roYECewS1
 http://hls-origin01-bruzz.cdn02.rambla.be/adliveorigin-bruzz/_definst_/Vy8bzJ.smil/chunklist_b3000000.m3u8
 
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/Evenaar.png,055 Evenaar (BE)
-http://urtmpkal-f.akamaihd.net/i/12qekz6vu_1@180481/index_1_av-p.m3u8?sd=10&rebase=on
+http://media.mediahuisvideo.be/hlslive/account=pLZoWOCK3VYk/livestream=o7cIPayJF4eQ/o7cIPayJF4eQ_1080p3728kbs/index.m3u8
 
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/RTVMeppel.png,101 RTV Meppel (Dr)
@@ -84,7 +84,7 @@ http://media.streamone.net/hlslive/account=j4QJMY4bCVU2/livestream=krINAu6TPoQQ/
 http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/AT5.png,107 AT5 (NH)
-http://lb-at5-live.cdn.streamgate.nl/at5/video/at5.smil/chunklist_w1296079852_b1628000.m3u8
+http://lsw-global.offload.streamzilla.xlcdn.com/session/00000000000000000000000000000000/sz/NHMediaTrial/wowza4/live/AT5.smil/chunklist_b2097152.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/SALTO1.png,108 Salto 1 (NH)
 http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
