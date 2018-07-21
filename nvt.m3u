@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,099 texel
-https://www.youtube.com/embed/j57JMNTDKPY?ecver=2
-
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVRijnmond.png,001 RTV Rijnmond
 http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 
