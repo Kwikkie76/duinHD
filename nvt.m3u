@@ -13,7 +13,7 @@ http://lsw-global.offload.streamzilla.xlcdn.com/session/000000000000000000000000
 http://livestreams.omroep.nl/live/npo/regionaal/rtvnoord/rtvnoord.isml/rtvnoord.m3u8?
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmropFryslan.png,005 Omrop Fryslan
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/chunklist_w14022126_b2000000.m3u8
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDrenthe.png,006 RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
@@ -84,7 +84,7 @@ http://media.streamone.net/hlslive/account=j4QJMY4bCVU2/livestream=krINAu6TPoQQ/
 http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/AT5.png,107 AT5 (NH)
-http://lsw-global.offload.streamzilla.xlcdn.com/session/00000000000000000000000000000000/sz/NHMediaTrial/wowza4/live/AT5.smil/chunklist_b2097152.m3u8
+http://ngx.cr6.streamzilla.xlcdn.com/session/35fe592209cae2b9edf640df87928396/sz/atvijf/wowza4/live/live.smil/chunklist_.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/SALTO1.png,108 Salto 1 (NH)
 http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
