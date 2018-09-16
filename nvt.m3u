@@ -31,7 +31,7 @@ http://lb-omroepflevoland-live.cdn.streamgate.nl/omroepflevoland/livestream1.mp4
 http://livestreams.omroep.nl/live/regionaal/rtvutrecht/rtvutrecht/rtvutrecht.isml/rtvutrecht.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepZeeland.png,011 Omroep Zeeland
-http://livestream.zeelandnet.nl/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8
+http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepBrabant.png,012 Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/omroepbrabantTv/index.m3u8
