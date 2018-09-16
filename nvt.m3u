@@ -64,6 +64,9 @@ http://hls-origin01-bruzz.cdn02.rambla.be/adliveorigin-bruzz/_definst_/Vy8bzJ.sm
 #EXTINF:-1 group_id=9 logo="plugin_file://logos/Evenaar.png,055 Evenaar (BE)
 http://media.mediahuisvideo.be/hlslive/account=pLZoWOCK3VYk/livestream=o7cIPayJF4eQ/o7cIPayJF4eQ_1080p3728kbs/index.m3u8
 
+#EXTINF:-1 group_id=9,056 ROB TV (BE)
+http://media.mediahuisvideo.be/hlslive/account=pAJpWcgalA8g/livestream=hzup6slqsqw2/hzup6slqsqw2_1080p3728kbs/index.m3u8
+
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/RTVMeppel.png,101 RTV Meppel (Dr)
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
