@@ -7,7 +7,7 @@ http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/NHNieuws.png,003 NH
-http://lsw-global.offload.streamzilla.xlcdn.com/session/00000000000000000000000000000000/sz/NHMediaTrial/wowza4/live/NHnieuws.smil/chunklist_b2097152.m3u8
+http://ngx.of1.streamzilla.xlcdn.com/session/d57cd03b8cceedee290649cb30f2941e/sz/nhnieuws/wowza4/live/live.smil/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVNoord.png,004 RTV Noord
 http://livestreams.omroep.nl/live/npo/regionaal/rtvnoord/rtvnoord.isml/rtvnoord.m3u8?
