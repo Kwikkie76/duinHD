@@ -128,17 +128,20 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,511 Real Madrid TV (UK)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png,512 BT Sport 1
+#EXTINF:-1 group_id=7 logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png,512 BT Sport 1
 http://185.53.163.205:2700
  
-#EXTINF:-1 tvg-logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png,513 BT Sport 2
+#EXTINF:-1 group_id=7 logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png,513 BT Sport 2
 http://185.53.163.205:2506
  
-#EXTINF:-1 tvg-logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png,514 BT Sport 3
+#EXTINF:-1 group_id=7 logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png,514 BT Sport 3
 http://185.53.163.205:2701
  
-#EXTINF:-1 tvg-logo="http://pngimage.net/wp-content/uploads/2018/05/bt-sport-png-1.png",515 BT Sport ESPN
+#EXTINF:-1 group_id=7 logo="http://pngimage.net/wp-content/uploads/2018/05/bt-sport-png-1.png",515 BT Sport ESPN
 http://185.53.163.205:2507
+
+#EXTINF:-1 group_id=7 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/800px-BeIN_Sports.png,516 beIN Sports
+http://72.76.39.230:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,521 Abu Dhabi Sports 2 (UAE)
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
