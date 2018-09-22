@@ -128,15 +128,23 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,511 Real Madrid TV (UK)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,521 Abu Dhabi Sports 1 (UAE)
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,522 Abu Dhabi Sports 2 (UAE)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,521 Abu Dhabi Sports 2 (UAE)
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,551 MLB Network (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
+#EXTINF:-1 group_id=7 logo="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png,552 NBA TV
+http://72.76.39.230:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="http://wwwimage-secure.cbsstatic.com/thumbnails/photos/w1200-h630-c1200:630/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg,553 CBS Sports HQ
+http://cbssportsdc-i.akamaihd.net/hls/live/518856/dc_1/desktop.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 group_id=7 logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/800px-SNY_logo.svg.png,554 SportsNet
+http://72.76.39.230:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="http://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png,555vFox Sports
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,571 Sony Ten 1 (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
