@@ -191,7 +191,8 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,587 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
-
+#EXTINF:-1 group_id=7,998 Test1
+http://194.67.208.149/hls/109.m3u8
 
 #EXTINF:-1 group_id=7,999 Test2
 http://31.220.0.103:8081/live/EQ5Nb18q/chunks.m3u8?nimblesessionid=534458&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE4IDk6MDI6MzIgQU0maGFzaF92YWx1ZT1QNzJqcWRCQStaaG0yVlFYZ2VJTVpnPT0mdmFsaWRtaW51dGVzPTEyMA==
