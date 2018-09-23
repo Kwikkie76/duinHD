@@ -195,4 +195,4 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 http://video.assia.tv/hls/64.m3u8?md5=vSRNPo1hFRhFeJRkkwGReQ&expires=1537710933
 
 #EXTINF:-1 group_id=7,000 Test2
-https://p24.quest123.top:8088/live/socolive90005/playlist.m3u8?id=101200&pk=539e056ed375a9295515be9f6240f14e8d9d53ab544e5e46f2569d6eaa9a3f37
+http://103.194.168.199:8081/live/EQ5Nb18q/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE4IDExOjI3OjA5IEFNJmhhc2hfdmFsdWU9aVN1dVFsZ1dPQ1FEMFh0d25FODVvUT09JnZhbGlkbWludXRlcz0xMjA=
