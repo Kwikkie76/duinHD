@@ -21,7 +21,7 @@ http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,007 RTV Oost
 http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&output=playlist.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png",008 Omroep Gelderland
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png,008 Omroep Gelderland
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepFlevoland.png,009 Omroep Flevoland
