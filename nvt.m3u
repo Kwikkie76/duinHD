@@ -194,5 +194,5 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 #EXTINF:-1 group_id=7,998 Test1
 http://video.assia.tv/hls/64.m3u8?md5=vSRNPo1hFRhFeJRkkwGReQ&expires=1537710933
 
-#EXTINF:-1 group_id=7,999 Test2http://video.assia.tv/hls/63.m3u8?md5=Pl6j1rFX3f03Xo-jEJDjJw&expires=1537711032
+#EXTINF:-1 group_id=7,999 Test2
 http://video.assia.tv/hls/63.m3u8?md5=Pl6j1rFX3f03Xo-jEJDjJw&expires=1537711032
