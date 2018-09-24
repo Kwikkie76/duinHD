@@ -194,14 +194,61 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,587 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
-#EXTINF:-1 group_id=7,601 SEBN 5
+
+#EXTINF:-1 group_id=7,605 SEBN 5
 http://194.67.220.30/hls/sebn5.m3u8
 
-#EXTINF:-1 group_id=7,601 SEBN 6
+#EXTINF:-1 group_id=7,606 SEBN 6
 http://194.67.220.30/hls/sebn6.m3u8
 
-#EXTINF:-1 group_id=7,601 SEBN 13
+#EXTINF:-1 group_id=7,613 SEBN 13
 http://194.67.220.30/hls/103.m3u8
 
-#EXTINF:-1 group_id=7,601 SEBN 14
+#EXTINF:-1 group_id=7,614 SEBN 14
 http://185.172.110.39/hls/104.m3u8
+
+
+#EXTINF:-1 group_id=7,651 HD Streams 1
+http://cdn8.hdstreams.xyz/live/ch1/index.m3u8
+
+#EXTINF:-1 group_id=7,652 HD Streams 2
+http://cdn8.hdstreams.xyz/live/ch2/index.m3u8
+
+#EXTINF:-1 group_id=7,653 HD Streams 3
+http://cdn8.hdstreams.xyz/live/ch3/index.m3u8
+
+#EXTINF:-1 group_id=7,654 HD Streams 4
+http://cdn8.hdstreams.xyz/live/ch4/index.m3u8
+
+#EXTINF:-1 group_id=7,655 HD Streams 5
+http://cdn8.hdstreams.xyz/live/ch5/index.m3u8
+
+#EXTINF:-1 group_id=7,656 HD Streams 6
+http://cdn8.hdstreams.xyz/live/ch6/index.m3u8
+
+#EXTINF:-1 group_id=7,657 HD Streams 7
+http://cdn8.hdstreams.xyz/live/ch7/index.m3u8
+
+#EXTINF:-1 group_id=7,658 HD Streams 8
+http://cdn8.hdstreams.xyz/live/ch8/index.m3u8
+
+#EXTINF:-1 group_id=7,659 HD Streams 9
+http://cdn8.hdstreams.xyz/live/ch9/index.m3u8
+
+#EXTINF:-1 group_id=7,660 HD Streams 10
+http://cdn8.hdstreams.xyz/live/ch10/index.m3u8
+
+#EXTINF:-1 group_id=7,661 HD Streams 11
+http://cdn8.hdstreams.xyz/live/ch11/index.m3u8
+
+#EXTINF:-1 group_id=7,662 HD Streams 12
+http://cdn8.hdstreams.xyz/live/ch12/index.m3u8
+
+#EXTINF:-1 group_id=7,663 HD Streams 13
+http://cdn8.hdstreams.xyz/live/ch13/index.m3u8
+
+#EXTINF:-1 group_id=7,664 HD Streams 14
+http://cdn8.hdstreams.xyz/live/ch14/index.m3u8
+
+#EXTINF:-1 group_id=7,665 HD Streams 15
+http://cdn8.hdstreams.xyz/live/ch15/index.m3u8
