@@ -201,6 +201,4 @@ http://194.67.220.30/hls/sebn6.m3u8
 http://194.67.220.30/hls/103.m3u8
 
 #EXTINF:-1 group_id=7,601 SEBN 14
-http://194.67.220.30/hls/104.m3u8
-
-
+http://185.172.110.39/hls/104.m3u8
