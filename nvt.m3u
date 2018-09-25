@@ -210,6 +210,9 @@ http://194.67.220.30/hls/sebn7.m3u8
 #EXTINF:-1 group_id=7,608 SEBN 8
 http://194.67.220.30/hls/sebn8.m3u8
 
+#EXTINF:-1 group_id=7,612 SEBN 12
+http://194.67.208.149/hls/102.m3u8
+
 #EXTINF:-1 group_id=7,613a SEBN 13a
 http://194.67.220.30/hls/103.m3u8
 
