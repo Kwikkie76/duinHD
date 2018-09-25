@@ -225,3 +225,37 @@ http://185.172.110.39/hls/104.m3u8
 #EXTINF:-1 group_id=7,622 SEBN 22
 http://194.67.208.149/hls/112.m3u8
 
+#EXTINF:-1 group_id=7,701 cyfo 1
+http://173.249.45.253/vvv/s1/index.m3u8
+
+#EXTINF:-1 group_id=7,702 cyfo 2
+http://173.249.59.115/vvv/s2/index.m3u8
+
+#EXTINF:-1 group_id=7,703 cyfo 3
+http://213.136.79.65/vvv/s3/index.m3u8
+
+#EXTINF:-1 group_id=7,704 cyfo 4
+http://173.249.45.253/vvv/s4/index.m3u8
+
+#EXTINF:-1 group_id=7,705 cyfo 5
+http://173.249.59.115/live/s55/index.m3u8
+
+#EXTINF:-1 group_id=7,706 cyfo 6
+http://173.249.45.253/vvv/s66/index.m3u8
+
+#EXTINF:-1 group_id=7,707 cyfo 7
+http://173.249.45.253/vvv/s77/index.m3u8
+
+#EXTINF:-1 group_id=7,708 cyfo 8
+http://213.136.79.65/vvv/s88/index.m3u8
+
+#EXTINF:-1 group_id=7,709 cyfo 9
+http://173.249.27.33/vvv/s9/index.m3u8
+
+#EXTINF:-1 group_id=7,710 cyfo 10
+http://173.249.27.33/vvv/s10/index.m3u8
+
+#EXTINF:-1 group_id=7,711 cyfo 11
+http://173.249.27.33/vvv/s11/index.m3u8
+
+
