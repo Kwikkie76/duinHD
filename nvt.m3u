@@ -233,6 +233,27 @@ http://185.172.110.39/hls/103.m3u8
 #EXTINF:-1 group_id=7,614 SEBN 14
 http://185.172.110.39/hls/104.m3u8
 
+#EXTINF:-1 group_id=7,615 SEBN 15
+http://194.67.208.149/hls/105.m3u8
+
+#EXTINF:-1 group_id=7,616 SEBN 16
+http://194.67.208.149/hls/106.m3u8
+
+#EXTINF:-1 group_id=7,617 SEBN 17
+http://194.67.208.149/hls/107.m3u8
+
+#EXTINF:-1 group_id=7,618 SEBN 18
+http://194.67.208.149/hls/108.m3u8
+
+#EXTINF:-1 group_id=7,619 SEBN 19
+http://194.67.208.149/hls/109.m3u8
+
+#EXTINF:-1 group_id=7,620 SEBN 20
+http://194.67.208.149/hls/110.m3u8
+
+#EXTINF:-1 group_id=7,621 SEBN 21
+http://194.67.208.149/hls/111.m3u8
+
 #EXTINF:-1 group_id=7,622 SEBN 22
 http://194.67.208.149/hls/112.m3u8
 
