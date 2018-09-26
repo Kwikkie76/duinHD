@@ -197,6 +197,8 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,587 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
+#EXTINF:-1 group_id=7,603 SEBN 3
+http://194.67.220.30/hls/sebn3.m3u8
 
 #EXTINF:-1 group_id=7,604 SEBN 4
 http://194.67.220.30/hls/sebn4.m3u8
@@ -213,6 +215,12 @@ http://194.67.220.30/hls/sebn7.m3u8
 #EXTINF:-1 group_id=7,608 SEBN 8
 http://194.67.220.30/hls/sebn8.m3u8
 
+#EXTINF:-1 group_id=7,609 SEBN 9
+http://185.172.110.39/hls/sebn9.m3u8
+
+#EXTINF:-1 group_id=7,611 SEBN 11
+http://185.172.110.39/hls/101.m3u8
+
 #EXTINF:-1 group_id=7,612 SEBN 12
 http://194.67.208.149/hls/102.m3u8
 
@@ -227,6 +235,12 @@ http://185.172.110.39/hls/104.m3u8
 
 #EXTINF:-1 group_id=7,622 SEBN 22
 http://194.67.208.149/hls/112.m3u8
+
+#EXTINF:-1 group_id=7,623 SEBN 23
+http://194.67.208.149/hls/113.m3u8
+
+#EXTINF:-1 group_id=7,627 SEBN 27
+http://194.67.208.149/hls/117.m3u8
 
 #EXTINF:-1 group_id=7,701 cyfo 1
 http://173.249.45.253/vvv/s1/index.m3u8
