@@ -137,7 +137,7 @@ http://185.53.163.205:2506
 #EXTINF:-1 group_id=7 logo="http://home.bt.com/images/bt-sport-136426998885302601-180511110301.png,514 BT Sport 3
 http://185.53.163.205:2701
  
-#EXTINF:-1 group_id=7 logo="http://pngimage.net/wp-content/uploads/2018/05/bt-sport-png-1.png,515 BT Sport ESPN
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,515 BT Sport ESPN
 http://185.53.163.205:2507
 
 #EXTINF:-1 group_id=7 logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BeIN_Sports.png/800px-BeIN_Sports.png,516 beIN Sports
@@ -152,10 +152,10 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:-1 group_id=7 logo="http://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png,552 NBA TV
 http://72.76.39.230:8000/play/a00e/index.m3u8
 
-#EXTINF:-1 group_id=7,553 ESPN USA
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,553 ESPN USA
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 group_id=7,555 ESPN 2 (USA)
+#EXTINF:-1 group_id=7logo="plugin_file://logos/ESPN2.png,555 ESPN 2 (USA)
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1 group_id=7,556 Big Ten Network (USA)
