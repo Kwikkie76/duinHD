@@ -81,6 +81,21 @@ http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/Sony.png,301 Sony Movie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 group_id=4,Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 group_id=4,Fox Premium Comedy (Asia)
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 group_id=4,Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group_id=4,Fox Action Movies (UAE)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1 group_id=4,HBO 2 (Dual)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,311 Discovery World (UK)
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
