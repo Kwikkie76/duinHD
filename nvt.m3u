@@ -108,7 +108,7 @@ http://185.53.163.205:2701
 http://185.53.163.205:2507
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,522 Flow Sp0rts (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,421 Flow Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,423 Real Madrid TV (UK)
@@ -149,8 +149,11 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/FS2.png,514 F0x Sports 2 (USA)
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,515 NBC Sp0rts Network (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBCSN.png,515 NBC Sp0rts Network (USA)
 http://23.237.22.82:8086/udp/127.0.0.1:56016
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/STADIUM.png,516 Stadium Sports Network
+http://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,551 Pac-12 National (USA)
