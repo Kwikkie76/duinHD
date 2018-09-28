@@ -152,7 +152,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56047
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/NBCSN.png,515 NBC Sp0rts Network (USA)
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/STADIUM.png,516 Stadium Sports Network
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/STADIUM.png,516 Stadium Sports Network (USA)
 http://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
 
@@ -210,5 +210,3 @@ http://173.249.27.33/vvv/s10/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,611 cyfo 11
 http://173.249.27.33/vvv/s11/index.m3u8
-
-
