@@ -84,14 +84,12 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 #EXTINF:-1 group_id=4,302 Fox Premium Comedy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#!@#$%^&*()_+=-[]\';:"|}{?>< #EXTINF:-1 group_id=4,303 Fox Premium Movies (USA)
-# http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1 group_id=4,304 Fox Action Movies (UAE)
+#EXTINF:-1 group_id=4,303 Fox Action Movies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
 #EXTINF:-1 group_id=4,321 HBO 2 (Dual)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
 
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Discovery World (UK)
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
@@ -109,8 +107,6 @@ http://185.53.163.205:2701
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,414 BT Sport ESPN (UK)
 http://185.53.163.205:2507
 
-# #EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,421 beIN Sports (UK)
-# http://72.76.39.230:8000/play/a00z/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,522 Flow Sports (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
@@ -144,18 +140,8 @@ http://72.76.39.230:8000/play/a00e/index.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ESPN (USA)
 http://80.80.160.168/live/6/live.m3u8
 
-# #EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN2.png,512 ESPN 2 (USA)
-# http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-# #EXTINF:-1 group_id=7 logo="plugin_file://logos/BTN.png,513 Big Ten Network (USA)
-# http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-
-
-# #EXTINF:-1 group_id=7 logo="plugin_file://logos/STADIUM.png,514 Stadium (USA)
-# http://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-
-# #EXTINF:-1 group_id=7 logo="plugin_file://logos/FOXR.png,521 Fox Sports Racing (USA)
-# http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,513 Fox Sports 1 (USA)
+http://23.237.22.82:8086/udp/127.0.0.1:56046
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,551 Pac-12 National (USA)
