@@ -81,200 +81,136 @@ http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/Sony.png,301 Sony Movie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=4,Fox Premium Comedy (Asia)
+#EXTINF:-1 group_id=4,302 Fox Premium Comedy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 group_id=4,Fox Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+# #EXTINF:-1 group_id=4,303 Fox Premium Movies (USA)
+# http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF:-1 group_id=4,Fox Action Movies (UAE)
+#EXTINF:-1 group_id=4,304 Fox Action Movies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=4,HBO 2 (Dual)
+#EXTINF:-1 group_id=4,321 HBO 2 (Dual)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,311 Discovery World (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Discovery World (UK)
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,511 Real Madrid TV (UK)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,512 BT Sport 1
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,411 BT Sport 1 (UK)
 http://185.53.163.205:2700
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT2.png,513 BT Sport 2
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT2.png,412 BT Sport 2 (UK)
 http://185.53.163.205:2506
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,514 BT Sport 3
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,413 BT Sport 3 (UK)
 http://185.53.163.205:2701
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,515 BT Sport ESPN
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,414 BT Sport ESPN (UK)
 http://185.53.163.205:2507
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,516 beIN Sports
-http://72.76.39.230:8000/play/a00z/index.m3u8
+# #EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,421 beIN Sports (UK)
+# http://72.76.39.230:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ADS.png,521 Abu Dhabi Sports 2 (UAE)
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,551 MLB Network (USA)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBATV.png,552 NBA TV
-http://72.76.39.230:8000/play/a00e/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,553 ESPN USA
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN2.png,554 ESPN 2 (USA)
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTN.png,556 Big Ten Network (USA)
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,557 Flow Sports (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,522 Flow Sports (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/STADIUM.png,558 Stadium (USA)
-http://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,423 Real Madrid TV (UK)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FOXR.png,559 Fox Sports Racing (USA)
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,571 Sony Ten 1 (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,451 Sony Ten 1 (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,572 Sony Ten 2 (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,452 Sony Ten 2 (IND)
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,573 Sony Ten 3 (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,453 Sony Ten 3 (IND)
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonySix.png,574 Sony Six (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonySix.png,454 Sony Six (IND)
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,575 Sony ESPN (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,455 Sony ESPN (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,581 Pac-12 National (USA)
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,501 MLB Network (USA)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBATV.png,502 NBA TV (USA)
+http://72.76.39.230:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ESPN (USA)
+http://80.80.160.168/live/6/live.m3u8
+
+# #EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN2.png,512 ESPN 2 (USA)
+# http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+# #EXTINF:-1 group_id=7 logo="plugin_file://logos/BTN.png,513 Big Ten Network (USA)
+# http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+
+
+# #EXTINF:-1 group_id=7 logo="plugin_file://logos/STADIUM.png,514 Stadium (USA)
+# http://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+# #EXTINF:-1 group_id=7 logo="plugin_file://logos/FOXR.png,521 Fox Sports Racing (USA)
+# http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,551 Pac-12 National (USA)
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,582 PAC12 Bayarea (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,552 PAC12 Bayarea (USA)
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,583 PAC12 Arizona (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,553 PAC12 Arizona (USA)
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,584 PAC12 Oregon (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,554 PAC12 Oregon (USA)
 http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,585 PAC12 Washington (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,555 PAC12 Washington (USA)
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,586 Pac12 Los Angeles (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,556 Pac12 Los Angeles (USA)
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,587 Pac12 Mountain (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,557 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
-#EXTINF:-1 group_id=7,603 SEBN 3
-http://194.67.220.30/hls/sebn3.m3u8
 
-#EXTINF:-1 group_id=7,604 SEBN 4
-http://194.67.220.30/hls/sebn4.m3u8
-
-#EXTINF:-1 group_id=7,605 SEBN 5
-http://194.67.220.30/hls/sebn5.m3u8
-
-#EXTINF:-1 group_id=7,606 SEBN 6
-http://194.67.220.30/hls/sebn6.m3u8
-
-#EXTINF:-1 group_id=7,607 SEBN 7
-http://194.67.220.30/hls/sebn7.m3u8
-
-#EXTINF:-1 group_id=7,608 SEBN 8
-http://194.67.220.30/hls/sebn8.m3u8
-
-#EXTINF:-1 group_id=7,609 SEBN 9
-http://185.172.110.39/hls/sebn9.m3u8
-
-#EXTINF:-1 group_id=7,611 SEBN 11
-http://185.172.110.39/hls/101.m3u8
-
-#EXTINF:-1 group_id=7,612 SEBN 12
-http://194.67.208.149/hls/102.m3u8
-
-#EXTINF:-1 group_id=7,613a SEBN 13a
-http://194.67.220.30/hls/103.m3u8
-
-#EXTINF:-1 group_id=7,613b SEBN 13b
-http://185.172.110.39/hls/103.m3u8
-
-#EXTINF:-1 group_id=7,614 SEBN 14
-http://185.172.110.39/hls/104.m3u8
-
-#EXTINF:-1 group_id=7,615 SEBN 15
-http://194.67.208.149/hls/105.m3u8
-
-#EXTINF:-1 group_id=7,616 SEBN 16
-http://194.67.208.149/hls/106.m3u8
-
-#EXTINF:-1 group_id=7,617 SEBN 17
-http://194.67.208.149/hls/107.m3u8
-
-#EXTINF:-1 group_id=7,618 SEBN 18
-http://194.67.208.149/hls/108.m3u8
-
-#EXTINF:-1 group_id=7,619 SEBN 19
-http://194.67.208.149/hls/109.m3u8
-
-#EXTINF:-1 group_id=7,620 SEBN 20
-http://194.67.208.149/hls/110.m3u8
-
-#EXTINF:-1 group_id=7,621 SEBN 21
-http://194.67.208.149/hls/111.m3u8
-
-#EXTINF:-1 group_id=7,622 SEBN 22
-http://194.67.208.149/hls/112.m3u8
-
-#EXTINF:-1 group_id=7,623 SEBN 23
-http://194.67.208.149/hls/113.m3u8
-
-#EXTINF:-1 group_id=7,627 SEBN 27
-http://194.67.208.149/hls/117.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,701 cyfo 1
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,601 cyfo 1
 http://173.249.45.253/vvv/s1/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,702 cyfo 2
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,602 cyfo 2
 http://173.249.59.115/vvv/s2/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,703 cyfo 3
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,603 cyfo 3
 http://213.136.79.65/vvv/s3/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,704 cyfo 4
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,604 cyfo 4
 http://173.249.45.253/vvv/s4/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,705 cyfo 5
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,605 cyfo 5
 http://173.249.59.115/live/s55/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,706 cyfo 6
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,606 cyfo 6
 http://173.249.45.253/vvv/s66/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,707 cyfo 7
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,607 cyfo 7
 http://173.249.45.253/vvv/s77/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,708 cyfo 8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,608 cyfo 8
 http://213.136.79.65/vvv/s88/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,709 cyfo 9
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,609 cyfo 9
 http://173.249.27.33/vvv/s9/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,710 cyfo 10
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,610 cyfo 10
 http://173.249.27.33/vvv/s10/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,711 cyfo 11
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,611 cyfo 11
 http://173.249.27.33/vvv/s11/index.m3u8
 
 
