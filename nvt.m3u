@@ -78,70 +78,79 @@ http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/Sony.png,301 Sony Movie Channel (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Sony.png,301 S0ny Movie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=4,302 Fox Premium Comedy (Asia)
+#EXTINF:-1 group_id=4,302 F0x Premium Comedy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 group_id=4,303 Fox Action Movies (UAE)
+#EXTINF:-1 group_id=4,303 F0x Action Movies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=4,321 HBO 2 (Dual)
+#EXTINF:-1 group_id=4,321 HB0 2 (Dual)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Discovery World (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Disc0very World (UK)
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,411 BT Sport 1 (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,411 BT Sp0rt 1 (UK)
 http://185.53.163.205:2700
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT2.png,412 BT Sport 2 (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT2.png,412 BT Sp0rt 2 (UK)
 http://185.53.163.205:2506
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,413 BT Sport 3 (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,413 BT Sp0rt 3 (UK)
 http://185.53.163.205:2701
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,414 BT Sport ESPN (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,414 BT Sp0rt ESPN (UK)
 http://185.53.163.205:2507
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,522 Flow Sports (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,522 Flow Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,423 Real Madrid TV (UK)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,451 Sony Ten 1 (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,451 S0ny Ten 1 (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,452 Sony Ten 2 (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,452 S0ny Ten 2 (IND)
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,453 Sony Ten 3 (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,453 S0ny Ten 3 (IND)
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonySix.png,454 Sony Six (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonySix.png,454 S0ny Six (IND)
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,455 Sony ESPN (IND)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,455 S0ny ESPN (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,501 MLB Network (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,501 MLB Netw0rk (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBATV.png,502 NBA TV (USA)
-http://72.76.39.230:8000/play/a00e/index.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBATV.png,502 NBA1 TV (USA)
+http://23.237.22.82:8086/udp/127.0.0.1:56052
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ESPN (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NFL.png,503 NFL Netw0rk (USA)
+http://23.237.22.82:8086/udp/127.0.0.1:56050
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ESPN1 (USA)
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,513 Fox Sports 1 (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,513 F0x Sports 1 (USA)
 http://23.237.22.82:8086/udp/127.0.0.1:56046
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS2.png,514 F0x Sports 2 (USA)
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,515 NBC Sp0rts Network (USA)
+http://23.237.22.82:8086/udp/127.0.0.1:56016
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,551 Pac-12 National (USA)
