@@ -78,21 +78,40 @@ http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/Sony.png,301 S0ny Movie Channel (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=4,302 F0x Premium Comedy (Asia)
+#EXTINF:-1 group_id=4,302 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 group_id=4,303 F0x Action Movies (UAE)
+#EXTINF:-1 group_id=4,303 F0x Acti0n M0vies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=4,321 HB0 2 (Dual)
+#EXTINF:-1 group_id=4,321 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Disc0very World (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Disc0very W0rld (UK)
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,352 Disc0very Channel
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,353 Disc0very Channel
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,354 Hallmark Channel
+http://23.237.22.82:8086/udp/127.0.0.1:56067
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,355 SyFy
+http://23.237.22.82:8086/udp/127.0.0.1:56063
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,356 Brav0
+http://23.237.22.82:8086/udp/127.0.0.1:56060
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,357 Uniniversal Kids
+http://23.237.22.82:8086/udp/127.0.0.1:56076
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,411 BT Sp0rt 1 (UK)
@@ -108,7 +127,7 @@ http://185.53.163.205:2701
 http://185.53.163.205:2507
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,421 Flow Sp0rts (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,421 Fl0w Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,423 Real Madrid TV (UK)
@@ -143,17 +162,28 @@ http://23.237.22.82:8086/udp/127.0.0.1:56050
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ESPN1 (USA)
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,513 F0x Sports 1 (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,513 F0x Sp0rts 1 (USA)
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS2.png,514 F0x Sports 2 (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS2.png,514 F0x Sp0rts 2 (USA)
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBCSN.png,515 NBC Sp0rts Network (USA)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBCSN.png,515 NBC Sp0rts Netw0rk (USA)
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/STADIUM.png,516 Stadium Sports Network (USA)
-http://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBCSN.png,516 NBC G0lf
+http://23.237.22.82:8086/udp/127.0.0.1:56202
+
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBCSN.png,521 NBC
+http://23.237.22.82:8086/udp/127.0.0.1:56076
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/WLNY.png,522 WLNY
+http://23.237.22.82:8086/udp/127.0.0.1:56147
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FOX.png,523 F0X
+http://23.237.22.82:8086/udp/127.0.0.1:56163
+
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,551 Pac-12 National (USA)
@@ -176,6 +206,37 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,557 Pac12 Mountain (USA)
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/|BEIN.png,561 BE1N Sp0rts
+http://23.237.22.82:8086/udp/127.0.0.1:56021
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,562 BE1N LaLiga tv
+http://23.237.22.82:8086/udp/127.0.0.1:56022
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,563 BE1N Sp0rts 3
+http://23.237.22.82:8086/udp/127.0.0.1:56023
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,564 BE1N Sp0rts 4
+http://23.237.22.82:8086/udp/127.0.0.1:56024
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,565 BE1N Sp0rts 5
+http://23.237.22.82:8086/udp/127.0.0.1:56025
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,566 BE1N Sp0rts 6
+http://23.237.22.82:8086/udp/127.0.0.1:56026
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,567 BE1N sp0rts 7
+http://23.237.22.82:8086/udp/127.0.0.1:56027
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,568 BE1N Sp0rts 8
+http://23.237.22.82:8086/udp/127.0.0.1:56028
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,569 BE1N Sp0rts 9
+http://23.237.22.82:8086/udp/127.0.0.1:56029
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,570 BE1N Sp0rts 10
+http://23.237.22.82:8086/udp/127.0.0.1:56030
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,601 cyfo 1
@@ -210,3 +271,5 @@ http://173.249.27.33/vvv/s10/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,611 cyfo 11
 http://173.249.27.33/vvv/s11/index.m3u8
+
+
