@@ -87,7 +87,10 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 group_id=4,303 F0x Acti0n M0vies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=4,321 HB0 2 (USA)
+#EXTINF:-1 group_id=4,321 HB0 (USA)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:-1 group_id=4,322 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 
@@ -106,6 +109,24 @@ http://185.53.163.205:2701
  
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,414 BT Sp0rt ESPN (UK)
 http://185.53.163.205:2507
+
+#EXTINF:-1 group_id=7,415 BT Sp0rt Extra 1
+http://185.53.163.205:2707
+
+#EXTINF:-1 group_id=7,416 BT Sp0rt Extra 2
+http://185.53.163.205:2500
+
+#EXTINF:-1 group_id=7,417 BT Sp0rt Extra 3
+http://185.53.163.205:2501
+
+#EXTINF:-1 group_id=7,418 BT Sp0rt Extra 4
+http://185.53.163.205:2502
+
+#EXTINF:-1 group_id=7,419 BT Sp0rt Extra 5
+http://185.53.163.205:2503
+
+#EXTINF:-1 group_id=7,420 BT Sp0rt Extra 6
+http://185.53.163.205:2504
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,421 Fl0w Sp0rts (UK)
