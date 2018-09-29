@@ -94,24 +94,29 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Disc0very W0rld (UK)
 http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,352 Disc0very Channel
 http://80.80.160.168/live/8/live.m3u8
 
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,353 Disc0very Channel
 http://103.242.13.90:5555/udp/239.4.2.19:10000
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,354 Hallmark Channel
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/x.png,354 Hallmark Channel
 http://23.237.22.82:8086/udp/127.0.0.1:56067
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,355 SyFy
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/x.png,355 SyFy
 http://23.237.22.82:8086/udp/127.0.0.1:56063
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,356 Brav0
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/x.png,356 Brav0
 http://23.237.22.82:8086/udp/127.0.0.1:56060
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/Discovery.png,357 Uniniversal Kids
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/x.png,357 Uniniversal Kids
 http://23.237.22.82:8086/udp/127.0.0.1:56076
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBCSN.png,381 CNBC
+http://23.237.22.82:8086/udp/127.0.0.1:56081
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/WLNY.png,382 WLNY
+http://23.237.22.82:8086/udp/127.0.0.1:56147
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,411 BT Sp0rt 1 (UK)
@@ -175,13 +180,7 @@ http://23.237.22.82:8086/udp/127.0.0.1:56016
 http://23.237.22.82:8086/udp/127.0.0.1:56202
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/NBCSN.png,521 NBC
-http://23.237.22.82:8086/udp/127.0.0.1:56076
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/WLNY.png,522 WLNY
-http://23.237.22.82:8086/udp/127.0.0.1:56147
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FOX.png,523 F0X
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FOX.png,517 F0X
 http://23.237.22.82:8086/udp/127.0.0.1:56163
 
 
