@@ -90,6 +90,9 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 group_id=4,321 HB0 (USA)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 
+#EXTINF:-1 group_id=4,322 HB0 (CN)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
 #EXTINF:-1 group_id=4,322 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
