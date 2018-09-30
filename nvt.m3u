@@ -91,40 +91,40 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,401 cyfo 1
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,401 cyfo 1
 http://173.249.45.253/vvv/s1/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,402 cyfo 2
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,402 cyfo 2
 http://173.249.59.115/vvv/s2/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,403 cyfo 3
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,403 cyfo 3
 http://213.136.79.65/vvv/s3/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,404 cyfo 4
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,404 cyfo 4
 http://173.249.45.253/vvv/s4/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,405 cyfo 5
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,405 cyfo 5
 http://173.249.59.115/live/s55/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,406 cyfo 6
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,406 cyfo 6
 http://173.249.45.253/vvv/s66/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,407 cyfo 7
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,407 cyfo 7
 http://173.249.45.253/vvv/s77/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,408 cyfo 8
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,408 cyfo 8
 http://213.136.79.65/vvv/s88/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,409 cyfo 9
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,409 cyfo 9
 http://173.249.27.33/vvv/s9/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,410 cyfo 10
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,410 cyfo 10
 http://173.249.27.33/vvv/s10/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,411 cyfo 11
+#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,411 cyfo 11
 http://173.249.27.33/vvv/s11/index.m3u8
 
-#EXTINF:-1 group_id=7,412 Stream 01
+#EXTINF:-1 group_id=12,412 Stream 01
 http://4.futcast11.pro:1935/edge/ch140066/playlist.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,421 BT Sp0rt 1 (UK)
@@ -139,22 +139,22 @@ http://185.53.163.205:2701
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,424 BT Sp0rt ESPN (UK)
 http://185.53.163.205:2507
 
-#EXTINF:-1 group_id=7,425 BT Sp0rt Extra 1
+#EXTINF:-1 group_id=12,425 BT Sp0rt Extra 1
 http://185.53.163.205:2707
 
-#EXTINF:-1 group_id=7,426 BT Sp0rt Extra 2
+#EXTINF:-1 group_id=12,426 BT Sp0rt Extra 2
 http://185.53.163.205:2500
 
-#EXTINF:-1 group_id=7,427 BT Sp0rt Extra 3
+#EXTINF:-1 group_id=12,427 BT Sp0rt Extra 3
 http://185.53.163.205:2501
 
-#EXTINF:-1 group_id=7,428 BT Sp0rt Extra 4
+#EXTINF:-1 group_id=12,428 BT Sp0rt Extra 4
 http://185.53.163.205:2502
 
-#EXTINF:-1 group_id=7,429 BT Sp0rt Extra 5
+#EXTINF:-1 group_id=12,429 BT Sp0rt Extra 5
 http://185.53.163.205:2503
 
-#EXTINF:-1 group_id=7,430 BT Sp0rt Extra 6
+#EXTINF:-1 group_id=12,430 BT Sp0rt Extra 6
 http://185.53.163.205:2504
 
 
@@ -177,8 +177,6 @@ http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,455 S0ny ESPN (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/sport1.png,456 sp0rt1 (DU)
-http://sport124x7free-lh.akamaihd.net/i/Sport1_Free_1@585354/index_1_av-p.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,501 MLB Netw0rk (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
