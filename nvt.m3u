@@ -91,47 +91,75 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,401 cyfo 1
+http://173.249.45.253/vvv/s1/index.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Disc0very W0rld (UK)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,402 cyfo 2
+http://173.249.59.115/vvv/s2/index.m3u8
 
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,403 cyfo 3
+http://213.136.79.65/vvv/s3/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,411 BT Sp0rt 1 (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,404 cyfo 4
+http://173.249.45.253/vvv/s4/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,405 cyfo 5
+http://173.249.59.115/live/s55/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,406 cyfo 6
+http://173.249.45.253/vvv/s66/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,407 cyfo 7
+http://173.249.45.253/vvv/s77/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,408 cyfo 8
+http://213.136.79.65/vvv/s88/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,409 cyfo 9
+http://173.249.27.33/vvv/s9/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,410 cyfo 10
+http://173.249.27.33/vvv/s10/index.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,411 cyfo 11
+http://173.249.27.33/vvv/s11/index.m3u8
+
+#EXTINF:-1 group_id=7,412 Stream 01
+http://4.futcast11.pro:1935/edge/ch140066/playlist.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,421 BT Sp0rt 1 (UK)
 http://185.53.163.205:2700
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT2.png,412 BT Sp0rt 2 (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT2.png,422 BT Sp0rt 2 (UK)
 http://185.53.163.205:2506
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,413 BT Sp0rt 3 (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,423 BT Sp0rt 3 (UK)
 http://185.53.163.205:2701
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,414 BT Sp0rt ESPN (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,424 BT Sp0rt ESPN (UK)
 http://185.53.163.205:2507
 
-#EXTINF:-1 group_id=7,415 BT Sp0rt Extra 1
+#EXTINF:-1 group_id=7,425 BT Sp0rt Extra 1
 http://185.53.163.205:2707
 
-#EXTINF:-1 group_id=7,416 BT Sp0rt Extra 2
+#EXTINF:-1 group_id=7,426 BT Sp0rt Extra 2
 http://185.53.163.205:2500
 
-#EXTINF:-1 group_id=7,417 BT Sp0rt Extra 3
+#EXTINF:-1 group_id=7,427 BT Sp0rt Extra 3
 http://185.53.163.205:2501
 
-#EXTINF:-1 group_id=7,418 BT Sp0rt Extra 4
+#EXTINF:-1 group_id=7,428 BT Sp0rt Extra 4
 http://185.53.163.205:2502
 
-#EXTINF:-1 group_id=7,419 BT Sp0rt Extra 5
+#EXTINF:-1 group_id=7,429 BT Sp0rt Extra 5
 http://185.53.163.205:2503
 
-#EXTINF:-1 group_id=7,420 BT Sp0rt Extra 6
+#EXTINF:-1 group_id=7,430 BT Sp0rt Extra 6
 http://185.53.163.205:2504
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,421 Fl0w Sp0rts (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,431 Fl0w Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/RealMadridTV.png,423 Real Madrid TV (UK)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,451 S0ny Ten 1 (IND)
@@ -179,180 +207,4 @@ http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
 
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,601 cyfo 1
-http://173.249.45.253/vvv/s1/index.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,602 cyfo 2
-http://173.249.59.115/vvv/s2/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,603 cyfo 3
-http://213.136.79.65/vvv/s3/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,604 cyfo 4
-http://173.249.45.253/vvv/s4/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,605 cyfo 5
-http://173.249.59.115/live/s55/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,606 cyfo 6
-http://173.249.45.253/vvv/s66/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,607 cyfo 7
-http://173.249.45.253/vvv/s77/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,608 cyfo 8
-http://213.136.79.65/vvv/s88/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,609 cyfo 9
-http://173.249.27.33/vvv/s9/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,610 cyfo 10
-http://173.249.27.33/vvv/s10/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/CYFO.png,611 cyfo 11
-http://173.249.27.33/vvv/s11/index.m3u8
-
-#EXTINF:-1 group_id=7,621 Stream 01
-http://4.futcast11.pro:1935/edge/ch140066/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABC.png" tvg-id=" group-title="USA",ABC TV
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSNEWS.png" tvg-id=" group-title="USA",CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" tvg-id=" group-title="UK",CHANNEL 4
-http://62.210.93.115:80/live?channelId=9&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" tvg-id=" group-title="UK",CHANNEL 4 HD
-http://62.210.93.115:80/live?channelId=8&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL5UK.png" tvg-id=" group-title="UK",CHANNEL 5
-http://62.210.93.115:80/live?channelId=12&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" tvg-id=" group-title="UK",CNBC
-http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png" tvg-id=" group-title="UK",COMEDY CENTRAL
-http://62.210.93.115:80/live?channelId=39&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DAVE.png" tvg-id=" group-title="UK",DAVE
-http://62.210.93.115:80/live?channelId=51&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" tvg-id=" group-title="UK",DISCOVERY
-http://62.210.93.115:80/live?channelId=32&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHED.png" tvg-id=" group-title="UK",DISCOVERY SHED
-http://62.210.93.115:80/live?channelId=36&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYTURBO.png" tvg-id=" group-title="UK",DISCOVERY TURBO
-http://62.210.93.115:80/live?channelId=35&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png" tvg-id=" group-title="UK",DMAX
-http://62.210.93.115:80/live?channelId=37&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png" tvg-id=" group-title="USA",ESPN 2 USA
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",ESPN USA
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" tvg-id=" group-title="UK",FOX
-http://62.210.93.115:80/live?channelId=53&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX29.png" tvg-id=" group-title="USA",FOX 29
-http://api.new.livestream.com/accounts/6370754/events/2591860/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX31.png" tvg-id=" group-title="USA",FOX 31
-http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX32.png" tvg-id=" group-title="USA",FOX 32
-http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX5.png" tvg-id=" group-title="USA",FOX 5
-http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/H2.png" tvg-id=" group-title="UK",H2
-http://62.210.93.115:80/live?channelId=44&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV.png" tvg-id=" group-title="UK",ITV
-http://62.210.93.115:80/live?channelId=6&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" tvg-id=" group-title="UK",ITV 2
-http://62.210.93.115:80/live?channelId=14&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV3.png" tvg-id=" group-title="UK",ITV 3
-http://62.210.93.115:80/live?channelId=15&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png" tvg-id=" group-title="UK",RTE ONE
-http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" tvg-id=" group-title="UK",RTE TWO
-http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sky_Cinema_Action_HD_DE_Logo_2016.png" tvg-id=" group-title="UK",SKY CINEMA ACTION HD
-http://62.210.93.43:80/live?channelId=70&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCOMEDY.png" tvg-id=" group-title="UK",SKY CINEMA COMEDY
-http://62.210.93.43:80/live?channelId=81&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Sky_cinema_family_hd_2016.png" tvg-id=" group-title="UK",SKY CINEMA FAMILY HD
-http://62.210.93.43:80/live?channelId=73&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png/revision/latest?cb=20160709104253" tvg-id=" group-title="UK",SKY CINEMA GREATS
-http://62.210.93.43:80/live?channelId=85&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYHITS.png" tvg-id=" group-title="UK",SKY CINEMA HITS HD
-http://62.210.93.43:80/live?channelId=74&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/Sky_Cinema_Premiere.png/revision/latest?cb=20160708223437" tvg-id=" group-title="UK",SKY CINEMA PREMIERE
-http://62.210.93.43:80/live?channelId=86&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f4/Sky-Movies-Sci-Fi.png/revision/latest/scale-to-width-down/250?cb=20111118191753" tvg-id=" group-title="UK",SKY CINEMA SCI-FI & HORROR HD
-http://62.210.93.43:80/live?channelId=77&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Kcj5M1Q.png" tvg-id=" group-title="UK",SKY CINEMA SELECT
-http://62.210.93.43:80/live?channelId=78&deviceMac=00:1A:79:3C:CA:45&uid=6511
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSACTION.png" tvg-id=" group-title="UK",SKY SPORTS ACTION
-http://62.210.99.158:80/live?channelId=119&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSARENA.png" tvg-id=" group-title="UK",SKY SPORTS ARENA
-http://62.210.99.158:80/live?channelId=121&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSCRICKET.png" tvg-id=" group-title="UK",SKY SPORTS CRICKET
-http://62.210.99.158:80/live?channelId=123&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" tvg-id=" group-title="UK",SKY SPORTS F1
-http://62.210.99.158:80/live?channelId=135&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" tvg-id=" group-title="UK",SKY SPORTS F1 HD
-http://62.210.99.158:80/live?channelId=136&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSFOOTBALL.png" tvg-id=" group-title="UK",SKY SPORTS FOOTBALL
-http://62.210.99.158:80/live?channelId=125&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSGOLF.png" tvg-id=" group-title="UK",SKY SPORTS GOLF
-http://62.210.99.158:80/live?channelId=127&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" tvg-id=" group-title="UK",SKY SPORTS MAIN EVENT
-http://62.210.99.158:80/live?channelId=129&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMIX.png" tvg-id=" group-title="UK",SKY SPORTS MIX
-http://62.210.99.158:80/live?channelId=131&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMIX.png" tvg-id=" group-title="UK",SKY SPORTS MIX HD
-http://62.210.99.158:80/live?channelId=132&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id=" group-title="UK",SKY SPORTS NEWS
-http://62.210.99.158:80/live?channelId=137&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dQMc5EO.png" tvg-id=" group-title="UK",SKY SPORTS NEWS HD
-http://62.210.99.158:80/live?channelId=138&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSPL.png" tvg-id=" group-title="UK",SKY SPORTS PREMIER LEAGUE
-http://62.210.99.158:80/live?channelId=133&deviceMac=00:1A:79:3C:C9:5C&uid=3303
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5d/Sky_2_logo_2016.png/revision/latest?cb=20160626181053" tvg-id=" group-title="UK",SKY TWO
-http://62.210.93.115:80/live?channelId=27&deviceMac=00:1A:79:3C:CA:45&uid=6511
