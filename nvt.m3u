@@ -125,7 +125,7 @@ http://173.249.27.33/vvv/s10/index.m3u8
 http://173.249.27.33/vvv/s11/index.m3u8
 
 #EXTINF:-1 group_id=12,412 Stream 01
-http://4.futcast11.pro:1935/edge/ch140066/playlist.m3u8
+http://194.88.107.95:6204/live/rahma/rahma1234/9561.ts
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,421 BT Sp0rt 1 (UK)
 http://185.53.163.205:2700
