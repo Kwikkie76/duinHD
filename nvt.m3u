@@ -87,23 +87,9 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 group_id=4,303 F0x Acti0n M0vies (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=4,321 HB0 (USA)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-
-#EXTINF:-1 group_id=4,322 HB0 (CN)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-
 #EXTINF:-1 group_id=4,322 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1 group_id=4,323,HBO Movies (USA)
-http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
-
-#EXTINF:-1 group_id=4,324 Movies US:Movee (USA)
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-
-#EXTINF:-1 group_id=4,325 Sony Movie Channel (USA)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/DiscoveryW.png,351 Disc0very W0rld (UK)
