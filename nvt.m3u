@@ -204,5 +204,204 @@ http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="International",&flix
+http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="International",&flix HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.asiasat.com/channelguide/images/&privehd.jpg" group-title="International",&Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="24/7",24/7 Big Bang Theory 2
+http://163.172.105.25:80/live?channelId=390&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="ext" group-title="24/7",24/7 Friends 2
+http://62.210.114.98:80/live?channelId=316&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 1
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 10
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://pr24x7.files.wordpress.com/2013/06/movies-now-white-background.jpg" group-title="24/7",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" group-title="USA",Animal Planet (OPT-1)
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="UK",BT Sport 1
+http://62.210.214.28:80/live?channelId=140&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="UK",BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BTSPORT_ESPN_BLACK_RED.png/800px-BTSPORT_ESPN_BLACK_RED.png" group-title="UK",BT Sport ESPN
+http://62.210.214.28:80/live?channelId=146&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="OTHER CHANNELS",CELTIC TV (Matches Only)
+http://163.172.105.25:80/live?channelId=352&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",CINEMA ACTION & ADVENTURE HD
+http://62.210.93.43:80/live?channelId=70&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="UK",CINEMA SELECT HD
+http://62.210.93.43:80/live?channelId=78&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab1857ba-26d5-6f07-0e5d-4c45700e2389-ClassicMovies_featured.jpg" group-title="USA",Classic Movies Channel
+http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/800px-Comedy_Central_2011_Logo.svg.png" group-title="International",Comedy Central International
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ComedyCentral/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:0 tvg-id="Discovery.uk" group-title="UK",Discovery
+http://62.210.93.115:80/live?channelId=32&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel (OPT-1)
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="UK",Eleven 1 (uk)
+http://163.172.105.25:80/live?channelId=370&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",Eleven 2 (uk)
+http://163.172.105.25:80/live?channelId=375&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="ESPNHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/450px-ESPN_wordmark.svg.png" group-title="USA",ESPN (OPT-1)
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/800px-Extreme_Sports_Channel.svg.png" group-title="UK",Extreme Sports Channel
+http://persik.by/stream/1418/252987/10309.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/FilmBox_Extra_HD.svg/revision/latest?cb=20171210164807" group-title="International",Filmbox Extra
+http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+#EXTINF:-1 tvg-id="Fox.sb" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/800px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="International",Fox Movies International
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_cinema.jpg" group-title="International",FOX Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/FOXPremiumComedy.png" group-title="International",FOX Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="International",HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" group-title="International",HBO Asia
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/800px-History_Logo.svg.png" group-title="International",History International
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="UK",MUTV
+https://live3.intersteam-idc.com/iheartmovie41/0x444_mutv_360p/playlist.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="International",Nat Geo People
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_People/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/800px-Logo_Nat_Geo_Wild.svg.png" group-title="International",Nat Geo Wild 2
+http://cdn2.bear-tv.com/freetv/TOT_NATGEO_Wild_ENG/chunks.m3u8
+
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="UK",National Geographic
+http://62.210.93.115:80/live?channelId=46&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/800px-Natgeologo.svg.png" group-title="International",National Geographic Channel Asia
+http://cdn2.bear-tv.com/freetv/TOT_National_Geographic_eng/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Paramount_Channel.png" group-title="International",Paramount Channel HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b8prEVt.png" group-title="USA",Rev'n
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1570px-Showtime.svg.png" group-title="USA",Showtime (OPT-1)
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="UK",Sky Movies Premiere
+http://62.210.93.43:80/live?channelId=86&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/800px-Sky_Sports_logo_2017.svg.png" group-title="UK",Sky Sports Action
+http://62.210.99.158:80/live?channelId=119&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/800px-Sky_Sports_logo_2017.svg.png" group-title="UK",Sky Sports Arena
+http://62.210.99.158:80/live?channelId=121&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/800px-Sky_Sports_logo_2017.svg.png" group-title="UK",Sky Sports Cricket
+http://62.210.99.158:80/live?channelId=123&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",Sky Sports F1
+http://62.210.99.158:80/live?channelId=135&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/800px-Sky_Sports_logo_2017.svg.png" group-title="UK",Sky Sports Football
+http://62.210.99.158:80/live?channelId=125&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",Sky Sports Football HD
+http://62.210.99.158:80/live?channelId=126&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/800px-Sky_Sports_logo_2017.svg.png" group-title="UK",Sky Sports Golf
+http://62.210.99.158:80/live?channelId=127&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",Sky Sports Main
+http://62.210.99.158:80/live?channelId=129&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",Sky Sports Mix
+http://62.210.99.158:80/live?channelId=131&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",Sky Sports News
+http://62.210.99.158:80/live?channelId=137&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",Sky Sports News HD
+http://62.210.99.158:80/live?channelId=138&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/800px-Sky_Sports_logo_2017.svg.png" group-title="UK",Sky Sports Premier League
+http://62.210.99.158:80/live?channelId=133&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",SKYNET 3
+http://62.210.114.98:80/live?channelId=384&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",SKYNET 4
+http://62.210.114.98:80/live?channelId=385&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",SKYNET 5
+http://62.210.114.98:80/live?channelId=386&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="UK",SKYNET 6
+http://62.210.114.98:80/live?channelId=387&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/800px-TSN_Logo.svg.png" group-title="Canada",TSN1
+http://163.172.15.141:9732/live?channelId=217&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/800px-TSN_Logo.svg.png" group-title="Canada",TSN3
+http://163.172.15.141:9732/live?channelId=219&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/800px-TSN_Logo.svg.png" group-title="Canada",TSN4
+http://163.172.15.141:9732/live?channelId=220&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/800px-TSN_Logo.svg.png" group-title="Canada",TSN5
+http://163.172.15.141:9732/live?channelId=221&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:0 tvg-id="ext" group-title="OTHER CHANNELS",USA FOX SPORTS 2
+http://163.172.15.141:9732/live?channelId=238&deviceMac=00:1a:79:47:98:09&uid=4331
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Viasat_History-2014.png" group-title="International",Viasat History HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$ViasatHistory/6.m3u8/Level(1677721)?start=LIVE&end=END
 
