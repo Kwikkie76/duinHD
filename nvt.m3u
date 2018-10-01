@@ -93,10 +93,10 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 group_id=5,305 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1 group_id=5",306 &flix HD
+#EXTINF:-1 group_id=5",306 &flix HD (IND)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=5",307 Prive HD
+#EXTINF:-1 group_id=5",307 &Prive HD (IND)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
 #EXTINF:-1 group_id=5,308 Filmbox Extra
