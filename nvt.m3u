@@ -105,6 +105,19 @@ http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1 group_id=5,309 Showtime
 http://80.80.160.168/live/7/live.m3u8
 
+#EXTINF:-1 group_id=4,310 Sony Le Plex HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
+
+#EXTINF:-1 group_id=4,311 SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+
+#EXTINF:-1 group_id=4,312 HBO Hits
+http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
+
+#EXTINF:-1 group_id=4,313 Zee Cafe HD
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+
+
 #EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,401 cyfo 1
 http://173.249.45.253/vvv/s1/index.m3u8
 
@@ -185,10 +198,19 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/SonySix.png,454 S0ny Six (IND)
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,455 S0ny ESPN (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+
+#EXTINF:-1 group_id=7,456 D SPORT
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226392/index.m3u8
+
+#EXTINF:-1 group_id=7,457 Neo Prime
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+
+#EXTINF:-1 group_id=7,458 Neo Sports
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,501 MLB Netw0rk (USA)
