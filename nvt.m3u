@@ -87,7 +87,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 group_id=5,303 Fox Movies International (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=5,304 FOX Premium Cinema
+#EXTINF:-1 group_id=5,304 FOX Premium Cinema 
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
 #EXTINF:-1 group_id=5,305 HB0 2 (USA)
@@ -105,16 +105,13 @@ http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1 group_id=5,309 Showtime
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 group_id=4,310 Sony Le Plex HD
+#EXTINF:-1 group_id=5,310 Sony Le Plex HD (IND)
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
 
-#EXTINF:-1 group_id=4,311 SONY PIX HD
+#EXTINF:-1 group_id=5,311 SONY PIX HD (IND)
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 
-#EXTINF:-1 group_id=4,312 HBO Hits
-http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
-
-#EXTINF:-1 group_id=4,313 Zee Cafe HD
+#EXTINF:-1 group_id=5,313 Zee Cafe HD
 http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
 
