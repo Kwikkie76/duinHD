@@ -114,19 +114,19 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 #EXTINF:-1 group_id=5,313 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=5,321 SKY CINEMA PREMIERE (UK)
+#EXTINF:-1 group_id=5,321 SLY CINEMA PREMIERE (UK)
 http://82.46.138.46:5555/play/a00p/index.m3u8
 
-#EXTINF:-1 group_id=5,322 SKY CINEMA Disney (UK)
+#EXTINF:-1 group_id=5,322 SLY CINEMA Disney (UK)
 http://82.46.138.46:5555/play/a00b/index.m3u8
 
-#EXTINF:-1 group_id=5,323 SKY CINEMA ACTION (UK)
+#EXTINF:-1 group_id=5,323 SLY CINEMA ACTION (UK)
 http://82.46.138.46:5555/play/a00a/index.m3u8
 
-#EXTINF:-1 group_id=5,324 SKY CINEMA Comedy (UK)
+#EXTINF:-1 group_id=5,324 SLY CINEMA Comedy (UK)
 http://82.46.138.46:5555/play/a00c/index.m3u8
 
-#EXTINF:-1 group_id=5,325 SKY CINEMA Thriller (UK)
+#EXTINF:-1 group_id=5,325 SLY CINEMA Thriller (UK)
 http://82.46.138.46:5555/play/a00h/index.m3u8
 
 #EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,401 cyfo 1
