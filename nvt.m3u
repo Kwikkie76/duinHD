@@ -84,10 +84,10 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 #EXTINF:-1 group_id=5,302 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 group_id=5,303 Fox Movies International (UAE)
+#EXTINF:-1 group_id=5,303 F0x M0vies International (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=5,304 FOX Premium Cinema
+#EXTINF:-1 group_id=5,304 F0x Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
 #EXTINF:-1 group_id=5,305 HB0 2 (USA)
@@ -99,16 +99,16 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group_id=5",307 &Prive HD (IND)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 group_id=5,308 Filmbox Extra
+#EXTINF:-1 group_id=5,308 Filmb0x Extra
 http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
-#EXTINF:-1 group_id=5,309 Showtime
+#EXTINF:-1 group_id=5,309 Sh0wtime
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 group_id=5,310 Sony Le Plex HD (IND)
+#EXTINF:-1 group_id=5,310 S0ny Le Plex HD (IND)
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
 
-#EXTINF:-1 group_id=5,311 SONY PIX HD (IND)
+#EXTINF:-1 group_id=5,311 S0NY PIX HD (IND)
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 
 #EXTINF:-1 group_id=5,313 Zee Cafe (IND)
@@ -160,7 +160,7 @@ http://185.53.163.205:2506
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,423 BT Sp0rt 3 (UK)
 http://185.53.163.205:2701
  
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,424 BT Sp0rt ESPN (UK)
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,424 BT Sp0rt ÉSPN (UK)
 http://185.53.163.205:2507
 
 #EXTINF:-1 group_id=12,425 BT Sp0rt Extra 1 (UK)
@@ -200,21 +200,24 @@ http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,455 S0ny ESPN (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
 
-#EXTINF:-1 group_id=7,456 D SPORT (IND)
+#EXTINF:-1 group_id=7,456 D SP0RT (IND)
 http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226392/index.m3u8
 
-#EXTINF:-1 group_id=7,457 Neo Prime (IND)
+#EXTINF:-1 group_id=7,457 Ne0 Prime (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
 
-#EXTINF:-1 group_id=7,458 Neo Sports (IND)
+#EXTINF:-1 group_id=7,458 Ne0 Sp0rts (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,501 MLB Netw0rk (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ESPN (USA)
-http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,502 NBÁ Netw0rk (USA)
+http://163.172.137.46/live/nbatv-hq/playlist.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ÉSPN (USA)
+http://163.172.137.46/live/espnusa-hq/playlist.m3u8
 
 #EXTINF:-1 group_id=7,512 Extreme Sports Channel (USA)
 http://persik.by/stream/1418/252987/10309.m3u8?thebestfreeenglishchannels.m3u8
