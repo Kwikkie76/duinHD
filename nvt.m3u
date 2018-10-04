@@ -219,6 +219,15 @@ http://163.172.137.46/live/nbatv-hq/playlist.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ÉSPN (USA)
 http://163.172.137.46/live/espnusa-hq/playlist.m3u8
 
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,513 F0x Sp0rts 1 (USA)
+http://163.172.137.46/live/foxsports1-hq/playlist.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,514 F0x Sp0rts 1 (USA)
+http://163.172.137.46/live/foxsports2-hq/playlist.m3u8
+
+#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,515 BÉIN Sp0rts (USA)
+http://163.172.137.46/live/beinusa-hq/playlist.m3u8
+
 #EXTINF:-1 group_id=7,512 Extreme Sports Channel (USA)
 http://persik.by/stream/1418/252987/10309.m3u8?thebestfreeenglishchannels.m3u8
 
