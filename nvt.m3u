@@ -114,6 +114,20 @@ http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/32212
 #EXTINF:-1 group_id=5,313 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group_id=5,321 SKY CINEMA PREMIERE (UK)
+http://82.46.138.46:5555/play/a00p/index.m3u8
+
+#EXTINF:-1 group_id=5,322 SKY CINEMA Disney (UK)
+http://82.46.138.46:5555/play/a00b/index.m3u8
+
+#EXTINF:-1 group_id=5,323 SKY CINEMA ACTION (UK)
+http://82.46.138.46:5555/play/a00a/index.m3u8
+
+#EXTINF:-1 group_id=5,324 SKY CINEMA Comedy (UK)
+http://82.46.138.46:5555/play/a00c/index.m3u8
+
+#EXTINF:-1 group_id=5,325 SKY CINEMA Thriller (UK)
+http://82.46.138.46:5555/play/a00h/index.m3u8
 
 #EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,401 cyfo 1
 http://173.249.45.253/vvv/s1/index.m3u8
@@ -213,20 +227,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,501 MLB Netw0rk (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,502 NBÁ Netw0rk (USA)
-http://163.172.137.46/live/nbatv-hq/playlist.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/ESPN.png,511 ÉSPN (USA)
-http://163.172.137.46/live/espnusa-hq/playlist.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,513 F0x Sp0rts 1 (USA)
-http://163.172.137.46/live/foxsports1-hq/playlist.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FS1.png,514 F0x Sp0rts 1 (USA)
-http://163.172.137.46/live/foxsports2-hq/playlist.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BEIN.png,515 BÉIN Sp0rts (USA)
-http://163.172.137.46/live/beinusa-hq/playlist.m3u8
 
 #EXTINF:-1 group_id=7,512 Extreme Sports Channel (USA)
 http://persik.by/stream/1418/252987/10309.m3u8?thebestfreeenglishchannels.m3u8
