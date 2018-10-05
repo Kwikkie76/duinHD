@@ -129,6 +129,8 @@ http://82.46.138.46:5555/play/a00c/index.m3u8
 #EXTINF:-1 group_id=5,325 SLY CINEMA Thriller (UK)
 http://82.46.138.46:5555/play/a00h/index.m3u8
 
+
+
 #EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,401 cyfo 1
 http://173.249.45.253/vvv/s1/index.m3u8
 
@@ -165,39 +167,30 @@ http://173.249.27.33/vvv/s11/index.m3u8
 #EXTINF:-1 group_id=12,412 Stream 01
 http://163.172.137.46/live/nbatv-hq/playlist.m3u8
 
+
+
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,421 BT Sp0rt 1 (UK)
 http://185.53.163.205:2700
- 
+
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BT2.png,422 BT Sp0rt 2 (UK)
 http://185.53.163.205:2506
- 
+
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,423 BT Sp0rt 3 (UK)
 http://185.53.163.205:2701
- 
+
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,424 BT Sp0rt ÉSPN (UK)
 http://185.53.163.205:2507
 
-#EXTINF:-1 group_id=12,425 BT Sp0rt Extra 1 (UK)
-http://185.53.163.205:2707
-
-#EXTINF:-1 group_id=12,426 BT Sp0rt Extra 2 (UK)
-http://185.53.163.205:2500
-
-#EXTINF:-1 group_id=12,427 BT Sp0rt Extra 3 (UK)
-http://185.53.163.205:2501
-
-#EXTINF:-1 group_id=12,428 BT Sp0rt Extra 4 (UK)
-http://185.53.163.205:2502
-
-#EXTINF:-1 group_id=12,429 BT Sp0rt Extra 5 (UK)
-http://185.53.163.205:2503
-
-#EXTINF:-1 group_id=12,430 BT Sp0rt Extra 6 (UK)
-http://185.53.163.205:2504
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,431 Fl0w Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
+
+#EXTINF:-1 group_id=7,441 Ne0 Prime (IND)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+
+#EXTINF:-1 group_id=7,442 Ne0 Sp0rts (IND)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,451 S0ny Ten 1 (IND)
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
@@ -216,38 +209,3 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 
 #EXTINF:-1 group_id=7,456 D SP0RT (IND)
 http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226392/index.m3u8
-
-#EXTINF:-1 group_id=7,457 Ne0 Prime (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
-
-#EXTINF:-1 group_id=7,458 Ne0 Sp0rts (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
-
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/MLB.png,501 MLB Netw0rk (USA)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-
-#EXTINF:-1 group_id=7,512 Extreme Sports Channel (USA)
-http://persik.by/stream/1418/252987/10309.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,551 Pac-12 National (USA)
-http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,552 PAC12 Bayarea (USA)
-http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,553 PAC12 Arizona (USA)
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,554 PAC12 Oregon (USA)
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,555 PAC12 Washington (USA)
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,556 Pac12 Los Angeles (USA)
-http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/PAC12.png,557 Pac12 Mountain (USA)
-http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
