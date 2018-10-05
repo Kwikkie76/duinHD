@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:-1,SLY SP0RTS MAIN EVENT (UK)
+http://163.172.137.46/live/skysports1-hq/playlist.m3u8
+
+#EXTINF:-1,SLY SP0RTS F00TBAL (UK)
+http://163.172.137.46/live/skysportsfootball-hq/playlist.m3u8
+
+#EXTINF:-1,SLY SP0RTS F1 (UK)
+http://163.172.137.46/live/skysportsf1-hq/playlist.m3u8
+
+#EXTINF:-1,SLY SP0RTS MIX (UK)
+http://163.172.137.46/live/skysportsmix-hq/playlist.m3u8
+
+#EXTINF:-1,BT SP0RT 1 (UK) (opt 1)
+http://185.53.163.205:2700
+
+#EXTINF:-1,BT SP0RT 1 (UK) (opt 2)
+http://163.172.137.46/live/btsport1-hq/playlist.m3u8
+ 
+#EXTINF:-1,BT SP0RT 2 (UK)
+http://185.53.163.205:2506
+ 
+#EXTINF:-1,423 BT SP0RT 3 (UK) (opt 1)
+http://185.53.163.205:2701
+
+#EXTINF:-1,423 BT SP0RT 3 (UK) (opt 2)
+http://163.172.137.46/live/btsport3-hq/playlist.m3u8
+ 
+#EXTINF:-1,424 BT SP0RT ÉSPN (UK) (opt 1)
+http://185.53.163.205:2507
+
+#EXTINF:-1,424 BT SP0RT ÉSPN (UK) (opt 2)
+http://163.172.137.46/live/espnuk-hq/playlist.m3u8
+
+
+#EXTINF:-1,NBA NETW0RK (USA)
+http://163.172.137.46/live/nbatv-hq/playlist.m3u8
+
+#EXTINF:-1,MLB NETW0RK (USA)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,NFL NETW0RK (USA)
+http://163.172.137.46/live/nflnetwork-hq/playlist.m3u8
+
+
+#EXTINF:-1,ÉSPN (USA)
+http://163.172.137.46/live/espnusa-hq/playlist.m3u8
+
+#EXTINF:-1,ÉSPN 2 (USA)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1,F0X SP0RTS 1 (USA)
+http://163.172.137.46/live/foxsports1-hq/playlist.m3u8
+
+#EXTINF:-1,F0X SP0RTS 2 (USA)
+http://163.172.137.46/live/foxsports2-hq/playlist.m3u8
+
+#EXTINF:-1,BEIN SP0RTS (USA)
+http://www.liveonlinetv247.info/embed/beinsportsusa.php
+
+#EXTINF:-1,STADIÚM (USA)
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+
+#EXTINF:-1,Pac-12 National (USA)
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
+#EXTINF:-1,PAC12 Bayarea (USA)
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1,PAC12 Arizona (USA)
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1,PAC12 Oregon (USA)
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1,PAC12 Washington (USA)
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1,Pac12 Los Angeles (USA)
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1,Pac12 Mountain (USA)
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
