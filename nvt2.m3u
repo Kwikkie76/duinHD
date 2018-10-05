@@ -21,16 +21,16 @@ http://163.172.137.46/live/btsport1-hq/playlist.m3u8
 #EXTINF:-1,BT SP0RT 2 (UK)
 http://185.53.163.205:2506
  
-#EXTINF:-1,423 BT SP0RT 3 (UK) (opt 1)
+#EXTINF:-1,BT SP0RT 3 (UK) (opt 1)
 http://185.53.163.205:2701
 
-#EXTINF:-1,423 BT SP0RT 3 (UK) (opt 2)
+#EXTINF:-1,BT SP0RT 3 (UK) (opt 2)
 http://163.172.137.46/live/btsport3-hq/playlist.m3u8
  
-#EXTINF:-1,424 BT SP0RT ÉSPN (UK) (opt 1)
+#EXTINF:-1,BT SP0RT ÉSPN (UK) (opt 1)
 http://185.53.163.205:2507
 
-#EXTINF:-1,424 BT SP0RT ÉSPN (UK) (opt 2)
+#EXTINF:-1,BT SP0RT ÉSPN (UK) (opt 2)
 http://163.172.137.46/live/espnuk-hq/playlist.m3u8
 
 
