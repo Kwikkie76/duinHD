@@ -48,8 +48,60 @@ http://173.249.27.33/vvv/s9/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 10
 http://173.249.27.33/vvv/s10/index.m3u8
 
-#EXTINF:-1 group_id=12 logo="plugin_file://logos/CYFO.png,202 cyfo 11
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 11
 http://173.249.27.33/vvv/s11/index.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group_id=3,302 F0x Premium C0medy (Asia)
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
+#EXTINF:-1 group_id=3,303 F0x M0vies International (UAE)
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF:-1 group_id=3,304 F0x Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 group_id=3,305 HB0 2 (USA)
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 group_id=3",306 &flix HD (IND)
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group_id=3",307 &Prive HD (IND)
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+
+#EXTINF:-1 group_id=3,308 Filmb0x Extra
+http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+
+#EXTINF:-1 group_id=3,309 Sh0wtime
+http://80.80.160.168/live/7/live.m3u8
+
+#EXTINF:-1 group_id=3,310 S0ny Le Plex HD (IND)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
+
+#EXTINF:-1 group_id=3,311 S0NY PIX HD (IND)
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+
+#EXTINF:-1 group_id=3,313 Zee Cafe (IND)
+http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group_id=3,321 SLY CINEMA PREMIERE (UK)
+http://82.46.138.46:5555/play/a00p/index.m3u8
+
+#EXTINF:-1 group_id=3,322 SLY CINEMA Disney (UK)
+http://82.46.138.46:5555/play/a00b/index.m3u8
+
+#EXTINF:-1 group_id=3,323 SLY CINEMA ACTION (UK)
+http://82.46.138.46:5555/play/a00a/index.m3u8
+
+#EXTINF:-1 group_id=3,324 SLY CINEMA Comedy (UK)
+http://82.46.138.46:5555/play/a00c/index.m3u8
+
+#EXTINF:-1 group_id=3,325 SLY CINEMA Thriller (UK)
+http://82.46.138.46:5555/play/a00h/index.m3u8
+
 
 #EXTINF:-1,SLY SP0RTS MAIN EVENT (UK)
 http://163.172.137.46/live/skysports1-hq/playlist.m3u8
