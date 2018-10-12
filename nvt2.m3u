@@ -3,11 +3,21 @@
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 Norderney 192 
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVMeppel.png,101 RTV Meppel (Dr)
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVMeppel.png,102 RTV Meppel (Dr)
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDordrecht.png,101 RTV Dordrecht (ZH)
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDordrecht.png,102 RTV Dordrecht (ZH)
 http://ms7.mx-cd.net/tv/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OpenRotterdam.png,102 OPEN Rotterdam (ZH)
+http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/AT5.png,102 AT5 (NH)
+http://ngx.cr6.streamzilla.xlcdn.com/session/35fe592209cae2b9edf640df87928396/sz/atvijf/wowza4/live/live.smil/chunklist_.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/SALTO1.png,102 Salto 1 (NH)
+http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
+
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 1
 http://cdn22d.streampartner.nl/podiumbv/podiumbv_1080p/chunklist_w1834726622.m3u8
