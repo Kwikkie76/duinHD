@@ -54,73 +54,96 @@ http://hello4.somalia1.tk/vvv/s11/index.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=3,302 F0x Premium C0medy (Asia)
+#EXTINF:-1 group_id=3,301 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 group_id=3,303 F0x M0vies International (UAE)
+#EXTINF:-1 group_id=3,301 F0x M0vies International (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=3,304 F0x Premium Cinema
+#EXTINF:-1 group_id=3,301 F0x Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
-#EXTINF:-1 group_id=3,305 HB0 2 (USA)
+#EXTINF:-1 group_id=3,301 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:-1 group_id=3",306 &flix HD (IND)
+#EXTINF:-1 group_id=3",301 &flix HD (IND)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=3",307 &Prive HD (IND)
+#EXTINF:-1 group_id=3",301 &Prive HD (IND)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 group_id=3,308 Filmb0x Extra
+#EXTINF:-1 group_id=3,301 Filmb0x Extra
 http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 
-#EXTINF:-1 group_id=3,309 Sh0wtime
+#EXTINF:-1 group_id=3,301 Sh0wtime
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 group_id=3,310 S0ny Le Plex HD (IND)
+#EXTINF:-1 group_id=3,301 S0ny Le Plex HD (IND)
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
 
-#EXTINF:-1 group_id=3,311 S0NY PIX HD (IND)
+#EXTINF:-1 group_id=3,301 S0NY PIX HD (IND)
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
 
-#EXTINF:-1 group_id=3,313 Zee Cafe (IND)
+#EXTINF:-1 group_id=3,301 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=3,321 SLY CINEMA PREMIERE (UK)
+#EXTINF:-1 group_id=3,301 SLY CINEMA PREMIERE (UK)
 http://82.46.138.46:5555/play/a00p/index.m3u8
 
-#EXTINF:-1 group_id=3,322 SLY CINEMA Disney (UK)
+#EXTINF:-1 group_id=3,301 SLY CINEMA Disney (UK)
 http://82.46.138.46:5555/play/a00b/index.m3u8
 
-#EXTINF:-1 group_id=3,323 SLY CINEMA ACTION (UK)
+#EXTINF:-1 group_id=3,301 SLY CINEMA ACTION (UK)
 http://82.46.138.46:5555/play/a00a/index.m3u8
 
-#EXTINF:-1 group_id=3,324 SLY CINEMA Comedy (UK)
+#EXTINF:-1 group_id=3,301 SLY CINEMA Comedy (UK)
 http://82.46.138.46:5555/play/a00c/index.m3u8
 
-#EXTINF:-1 group_id=3,325 SLY CINEMA Thriller (UK)
+#EXTINF:-1 group_id=3,301 SLY CINEMA Thriller (UK)
 http://82.46.138.46:5555/play/a00h/index.m3u8
 
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT1.png,421 BT Sp0rt 1 (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT1.png,401 BT Sp0rt 1 (UK)
 http://185.53.163.205:2700
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT2.png,422 BT Sp0rt 2 (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT2.png,401 BT Sp0rt 2 (UK)
 http://185.53.163.205:2506
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT3.png,423 BT Sp0rt 3 (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT3.png,401 BT Sp0rt 3 (UK)
 http://185.53.163.205:2701
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/BTESPN.png,424 BT Sp0rt ÉSPN (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/BTESPN.png,401 BT Sp0rt ÉSPN (UK)
 http://185.53.163.205:2507
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,431 Fl0w Sp0rts (UK)
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 
+#EXTINF:-1 group_id=5,501 Ne0 Prime (IND)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,MLB NETW0RK (USA)
+#EXTINF:-1 group_id=5,501 Ne0 Sp0rts (IND)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
+
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonyTen.png,502 S0ny Ten 1 (IND)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonyTen.png,502 S0ny Ten 2 (IND)
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonyTen.png,502 S0ny Ten 3 (IND)
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonySix.png,502 S0ny Six (IND)
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonyESPN.png,502 S0ny ESPN (IND)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+
+#EXTINF:-1 group_id=5,502 D SP0RT (IND)
+http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226392/index.m3u8
+
+#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 
