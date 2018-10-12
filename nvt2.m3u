@@ -156,53 +156,53 @@ http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS
 http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 group_id=11,Fox Sports 1
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS 1
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
-#EXTINF:-1 group_id=11,Fox Sports 2
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
-#EXTINF:-1 group_id=11,Fox Sports Arizona
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS Arizona
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20995.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports Detroit
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS Detroit
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20994.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports Midwest
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS Midwest
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20993.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports North
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS North
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20992.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports Ohio
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS Ohio
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20991.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports Racing
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports San Diego
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS San Diego
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20989.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports South
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS South
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20988.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports Southeast
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS Southeast
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20987.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports Southwest
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS Southwest
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20986.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports Sun
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS Sun
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/17942.m3u8
 
-#EXTINF:-1 group_id=11,Fox Sports West
+#EXTINF:-1 group_id=11,1102 F0X SP0RTS West
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20990.m3u8
 
-#EXTINF:-1 group_id=11,NBA TV
+#EXTINF:-1 group_id=11,1101 NBA TV
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 
-#EXTINF:-1 group_id=11,NBCSN
+#EXTINF:-1 group_id=11,1101 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
