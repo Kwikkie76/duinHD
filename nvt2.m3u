@@ -206,3 +206,259 @@ http://23.237.22.82:8086/udp/127.0.0.1:56052
 
 #EXTINF:-1 group_id=11,1101 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
+
+#EXTINF:-1 group_id=11 group_id=11,USA: Eleven Sports
+http://149.56.241.232:8000/live/lu2/lu2/40639.ts
+
+#EXTINF:-1 group_id=11,USA: CSN Bay Area
+http://149.56.241.232:8000/live/lu2/lu2/40649.ts
+
+#EXTINF:-1 group_id=11,USA: CSN Boston
+http://149.56.241.232:8000/live/lu2/lu2/40648.ts
+
+#EXTINF:-1 group_id=11,USA: CSN California
+http://149.56.241.232:8000/live/lu2/lu2/40647.ts
+
+#EXTINF:-1 group_id=11,USA: CSN Chicago
+http://149.56.241.232:8000/live/lu2/lu2/40646.ts
+
+#EXTINF:-1 group_id=11,USA: CSN North West
+http://149.56.241.232:8000/live/lu2/lu2/40645.ts
+
+#EXTINF:-1 group_id=11,USA: CSN Philadelphia
+http://149.56.241.232:8000/live/lu2/lu2/40644.ts
+
+#EXTINF:-1 group_id=11,USA: GOL TV
+http://149.56.241.232:8000/live/lu2/lu2/40638.ts
+
+#EXTINF:-1 group_id=11,USA: Red Bull TV HD
+http://149.56.241.232:8000/live/lu2/lu2/35160.ts
+
+#EXTINF:-1 group_id=11,USA: Fox Sports 1 HD
+http://149.56.241.232:8000/live/lu2/lu2/17362.ts
+
+#EXTINF:-1 group_id=11,USA: Fox Sports 2 HD
+http://149.56.241.232:8000/live/lu2/lu2/17361.ts
+
+#EXTINF:-1 group_id=11,USA: ESPN HD
+http://149.56.241.232:8000/live/lu2/lu2/17365.ts
+
+#EXTINF:-1 group_id=11,USA: ESPN 2 HD
+http://149.56.241.232:8000/live/lu2/lu2/17364.ts
+
+#EXTINF:-1 group_id=11,USA: ESPN 3
+http://149.56.241.232:8000/live/lu2/lu2/35226.ts
+
+#EXTINF:-1 group_id=11,USA: ESPN U HD
+http://149.56.241.232:8000/live/lu2/lu2/17363.ts
+
+#EXTINF:-1 group_id=11,USA: ESPN Deportes
+http://149.56.241.232:8000/live/lu2/lu2/17382.ts
+
+#EXTINF:-1 group_id=11,USA: ESPN Goal Line
+http://149.56.241.232:8000/live/lu2/lu2/40643.ts
+
+#EXTINF:-1 group_id=11,USA: Univision Deportes
+http://149.56.241.232:8000/live/lu2/lu2/17384.ts
+
+#EXTINF:-1 group_id=11,USA: Bein Sports
+http://149.56.241.232:8000/live/lu2/lu2/17336.ts
+
+#EXTINF:-1 group_id=11,USA: CBS Sports Network HD
+http://149.56.241.232:8000/live/lu2/lu2/17358.ts
+
+#EXTINF:-1 group_id=11,USA: NBC Sports Network HD
+http://149.56.241.232:8000/live/lu2/lu2/17356.ts
+
+#EXTINF:-1 group_id=11,USA: Tennis Channel HD
+http://149.56.241.232:8000/live/lu2/lu2/17354.ts
+
+#EXTINF:-1 group_id=11,USA: NBC Golf Channel HD
+http://149.56.241.232:8000/live/lu2/lu2/17357.ts
+
+#EXTINF:-1 group_id=11,USA: SEC Network HD
+http://149.56.241.232:8000/live/lu2/lu2/35159.ts
+
+#EXTINF:-1 group_id=11,USA: NBA TV HD
+http://149.56.241.232:8000/live/lu2/lu2/17360.ts
+
+#EXTINF:-1 group_id=11,USA: NFL Network HD
+http://149.56.241.232:8000/live/lu2/lu2/17359.ts
+
+#EXTINF:-1 group_id=11,USA: NFL NOW HD
+http://149.56.241.232:8000/live/lu2/lu2/35170.ts
+
+#EXTINF:-1 group_id=11,USA: NHL Network HD
+http://149.56.241.232:8000/live/lu2/lu2/17355.ts
+
+#EXTINF:-1 group_id=11,USA: WWE Network HD
+http://149.56.241.232:8000/live/lu2/lu2/17353.ts
+
+#EXTINF:-1 group_id=11,USA: MLB Network HD
+http://149.56.241.232:8000/live/lu2/lu2/17318.ts
+
+#EXTINF:-1 group_id=11,USA: YES Network
+http://149.56.241.232:8000/live/lu2/lu2/36145.ts
+
+#EXTINF:-1 group_id=11,USA: PAC-12 Los Angeles HD
+http://149.56.241.232:8000/live/lu2/lu2/17312.ts
+
+#EXTINF:-1 group_id=11,USA: PAC-12 Arizona HD
+http://149.56.241.232:8000/live/lu2/lu2/17314.ts
+
+#EXTINF:-1 group_id=11,USA: PAC-12 Oregon HD
+http://149.56.241.232:8000/live/lu2/lu2/17310.ts
+
+#EXTINF:-1 group_id=11,USA: PAC-12 Washington HD
+http://149.56.241.232:8000/live/lu2/lu2/17309.ts
+
+#EXTINF:-1 group_id=11,USA: PAC-12 Mountain HD
+http://149.56.241.232:8000/live/lu2/lu2/35168.ts
+
+#EXTINF:-1 group_id=11,USA: PAC-12 Bay Area HD
+http://149.56.241.232:8000/live/lu2/lu2/17313.ts
+
+#EXTINF:-1 group_id=11,USA: UFC TV HD
+http://149.56.241.232:8000/live/lu2/lu2/35148.ts
+
+#EXTINF:-1 group_id=11,USA: UFC Network HD
+http://149.56.241.232:8000/live/lu2/lu2/35149.ts
+
+#EXTINF:-1 group_id=11,USA: UFC Fight Pass HD
+http://149.56.241.232:8000/live/lu2/lu2/35147.ts
+
+#EXTINF:-1 group_id=11,USA: Fight Box HD
+http://149.56.241.232:8000/live/lu2/lu2/35225.ts
+
+#EXTINF:-1 group_id=11,USA: Fight Sports HD
+http://149.56.241.232:8000/live/lu2/lu2/35224.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sport 1 SD
+http://149.56.241.232:8000/live/lu2/lu2/42970.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sport Arena HD
+http://149.56.241.232:8000/live/lu2/lu2/42854.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sport F1 HD
+http://149.56.241.232:8000/live/lu2/lu2/42971.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sport Football HD
+http://149.56.241.232:8000/live/lu2/lu2/42853.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sport News
+http://149.56.241.232:8000/live/lu2/lu2/42948.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports 1 HD 1080p
+http://149.56.241.232:8000/live/lu2/lu2/43005.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports 2 HD 1080p
+http://149.56.241.232:8000/live/lu2/lu2/43004.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports 3 HD 1080p
+http://149.56.241.232:8000/live/lu2/lu2/43003.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports 4 HD 1080p
+http://149.56.241.232:8000/live/lu2/lu2/43002.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports 5 HD 1080p
+http://149.56.241.232:8000/live/lu2/lu2/43001.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS ACTION
+http://149.56.241.232:8000/live/lu2/lu2/43103.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS ACTION HD
+http://149.56.241.232:8000/live/lu2/lu2/42945.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS CRICKET
+http://149.56.241.232:8000/live/lu2/lu2/43102.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS CRICKET HD
+http://149.56.241.232:8000/live/lu2/lu2/42944.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports F1 HD 1080p
+http://149.56.241.232:8000/live/lu2/lu2/43000.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS GOLF
+http://149.56.241.232:8000/live/lu2/lu2/43104.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS GOLF HD
+http://149.56.241.232:8000/live/lu2/lu2/42946.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS MAIN EVENT
+http://149.56.241.232:8000/live/lu2/lu2/43101.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS MAIN EVENT HD
+http://149.56.241.232:8000/live/lu2/lu2/42949.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Mix
+http://149.56.241.232:8000/live/lu2/lu2/43036.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports News HD 1080p
+http://149.56.241.232:8000/live/lu2/lu2/42999.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS PREMIER LEAGUE
+http://149.56.241.232:8000/live/lu2/lu2/43105.ts
+
+#EXTINF:-1 group_id=11,UK: SKY SPORTS PREMIER LEAGUE HD
+http://149.56.241.232:8000/live/lu2/lu2/42947.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports The Open
+http://149.56.241.232:8000/live/lu2/lu2/42848.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports The Open HD
+http://149.56.241.232:8000/live/lu2/lu2/42847.ts
+
+EXTINF:-1,UK: Premier Sports FHD 1080
+http://149.56.241.232:8000/live/lu2/lu2/42995.ts
+
+#EXTINF:-1 group_id=11,UK: Premier Sports HD
+http://149.56.241.232:8000/live/lu2/lu2/43035.ts
+
+#EXTINF:-1 group_id=11,UK: PREMIERE SPORT HD
+http://149.56.241.232:8000/live/lu2/lu2/43091.ts
+
+#EXTINF:-1 group_id=11,NL: Ziggo Sport Extra1
+http://149.56.241.232:8000/live/lu2/lu2/39800.ts
+
+#EXTINF:-1 group_id=11,NL: Ziggo Sport Racing
+http://149.56.241.232:8000/live/lu2/lu2/39803.ts
+
+#EXTINF:-1 group_id=11,NL: Ziggo Sport Select FHD 1080
+http://149.56.241.232:8000/live/lu2/lu2/39834.ts
+
+#EXTINF:-1 group_id=11,NL: Sport 1 Voetbal
+http://149.56.241.232:8000/live/lu2/lu2/39832.ts
+
+#EXTINF:-1 group_id=11,NL: Fox Sports 1
+http://149.56.241.232:8000/live/lu2/lu2/39818.ts
+
+#EXTINF:-1 group_id=11,NL: FOX Sports 1 FHD 1080
+http://149.56.241.232:8000/live/lu2/lu2/39814.ts
+
+#EXTINF:-1 group_id=11,NL: Fox Sports 2
+http://149.56.241.232:8000/live/lu2/lu2/39819.ts
+
+#EXTINF:-1 group_id=11,NL: FOX Sports 2 HD
+http://149.56.241.232:8000/live/lu2/lu2/39813.ts
+
+#EXTINF:-1 group_id=11,NL: Fox Sports 3
+http://149.56.241.232:8000/live/lu2/lu2/39820.ts
+
+#EXTINF:-1 group_id=11,NL: FOX Sports 3 HD ( 1080P )
+http://149.56.241.232:8000/live/lu2/lu2/39806.ts
+
+#EXTINF:-1 group_id=11,NL: Fox Sports 4
+http://149.56.241.232:8000/live/lu2/lu2/39821.ts
+
+#EXTINF:-1 group_id=11,NL: Fox Sports 4 HD ( 1080P )
+http://149.56.241.232:8000/live/lu2/lu2/39808.ts
+
+#EXTINF:-1 group_id=11,NL: Fox Sports 5
+http://149.56.241.232:8000/live/lu2/lu2/39822.ts
+
+#EXTINF:-1 group_id=11,NL: Fox Sports 5 HD ( 1080P )
+http://149.56.241.232:8000/live/lu2/lu2/39807.ts
+
+#EXTINF:-1 group_id=11,NL: Fox Sports 6
+http://149.56.241.232:8000/live/lu2/lu2/39823.ts
+
