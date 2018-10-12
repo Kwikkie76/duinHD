@@ -156,4 +156,51 @@ http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
+#EXTINF:-1 group_id=11 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="USA",Fox Sports
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/800px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/400px-FS2_logo_2015.svg.png" group-title="USA",Fox Sports 2
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Fox_Sports_Arizona_2012_logo.png" group-title="USA",Fox Sports Arizona
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20995.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fox_sports_detroit.png/800px-Fox_sports_detroit.png" group-title="USA",Fox Sports Detroit
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20994.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Fox_Sports_Midwest_2012_logo.png" group-title="USA",Fox Sports Midwest
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20993.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Fox_Sports_North_2012_logo.png" group-title="USA",Fox Sports North
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20992.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Fox_Sports_Ohio_2012_logo.png" group-title="USA",Fox Sports Ohio
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20991.m3u8
+
+#EXTINF:-1 group_id=11 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Fox_Sports_San_Diego_2012_logo.png" group-title="USA",Fox Sports San Diego
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20989.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Fox_Sports_South_logo.png" group-title="USA",Fox Sports South
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20988.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Fox_Sports_Southeast_2015_logo.jpeg" group-title="USA",Fox Sports Southeast
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20987.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Fox_Sports_Southwest_2012_Logo.png" group-title="USA",Fox Sports Southwest
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20986.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/51/Sun_Sports_logo_2012.png" group-title="USA",Fox Sports Sun
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/17942.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Fox_Sports_West_2012_logo.png" group-title="USA",Fox Sports West
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20990.m3u8
+
+#EXTINF:-1 group_id=11 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="USA",NBA TV
+http://23.237.22.82:8086/udp/127.0.0.1:56052
 
