@@ -168,20 +168,3 @@ http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 group_id=11,1101 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1 group_id=11,NL | FOX Sports 1
-http://185.2.83.49:25461/live/JacksonJa/GMwsPFTsWe/1383.ts
-
-#EXTINF:-1 group_id=11,NL | FOX Sports 2
-http://185.2.83.49:25461/live/JacksonJa/GMwsPFTsWe/1382.ts
-
-#EXTINF:-1 group_id=11,NL | FOX Sports 3
-http://185.2.83.49:25461/live/JacksonJa/GMwsPFTsWe/1381.ts
-
-#EXTINF:-1 group_id=11,NL | FOX Sports 4
-http://185.2.83.49:25461/live/JacksonJa/GMwsPFTsWe/1380.ts
-
-#EXTINF:-1 group_id=11,NL | FOX Sports 5
-http://185.2.83.49:25461/live/JacksonJa/GMwsPFTsWe/1379.ts
-
-#EXTINF:-1 group_id=11,NL | FOX Sports 6
-http://185.2.83.49:25461/live/JacksonJa/GMwsPFTsWe/1378.ts
