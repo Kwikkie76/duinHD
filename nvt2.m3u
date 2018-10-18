@@ -168,3 +168,17 @@ http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 group_id=11,1101 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
+#EXTINF:-1 group_id=11,ESPN 2 (USA)
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 group_id=11,Fox Sports 1
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+
+#EXTINF:-1 group_id=11,Fox Sports 2
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+
+#EXTINF:-1 group_id=11,Fox Sports Southeast
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20987.m3u8
+
+#EXTINF:-1 group_id=11,Fox Sports Southwest
+http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20986.m3u8
