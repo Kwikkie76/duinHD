@@ -173,6 +173,3 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1 group_id=11,F0x Sp0rts S0utheast (USA)
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20987.m3u8
-
-#EXTINF:-1 group_id=11,F0x Sp0rts S0uthwest (USA)
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20986.m3u8
