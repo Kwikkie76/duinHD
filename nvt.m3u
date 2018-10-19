@@ -164,22 +164,6 @@ http://hello4.somalia1.tk/vvv/s10/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 11
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
 
-#EXTINF:-1 group_id=12,412 Stream 01
-http://e4.livecamtv.me/zmelive/Gf5yghE8qmOWHCsiYv4a/chunklist.m3u8
-
-
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT1.png,421 BT Sp0rt 1 (UK)
-http://185.53.163.205:2700
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT2.png,422 BT Sp0rt 2 (UK)
-http://185.53.163.205:2506
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BT3.png,423 BT Sp0rt 3 (UK)
-http://185.53.163.205:2701
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/BTESPN.png,424 BT Sp0rt ÉSPN (UK)
-http://185.53.163.205:2507
 
 
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,431 Fl0w Sp0rts (UK)
