@@ -88,12 +88,6 @@ http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1 group_id=3,301 Sh0wtime
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 group_id=3,301 S0ny Le Plex HD (IND)
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
-
-#EXTINF:-1 group_id=3,301 S0NY PIX HD (IND)
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-
 #EXTINF:-1 group_id=3,301 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
@@ -128,30 +122,6 @@ http://185.53.163.205:2507
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-
-#EXTINF:-1 group_id=5,501 Ne0 Prime (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
-
-#EXTINF:-1 group_id=5,501 Ne0 Sp0rts (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonyTen.png,502 S0ny Ten 1 (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonyTen.png,502 S0ny Ten 2 (IND)
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonyTen.png,502 S0ny Ten 3 (IND)
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonySix.png,502 S0ny Six (IND)
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/SonyESPN.png,502 S0ny ESPN (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-
-#EXTINF:-1 group_id=5,502 D SP0RT (IND)
-http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226392/index.m3u8
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
