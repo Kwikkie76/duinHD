@@ -61,6 +61,9 @@ http://hello4.somalia1.tk/vvv/s10/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 11
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
 
+#EXTINF:-1 group_id=2,202 stream 01
+http://cdn.hdcast.me/live/UqvIdA4KlK20181021/chunks.m3u8?nimblesessionid=1744163&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOCAxMjo0NjoyNyBQTSZoYXNoX3ZhbHVlPUhjTzFTUm1NSnpKYnErbS9sN05PbWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
