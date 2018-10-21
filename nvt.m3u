@@ -105,12 +105,6 @@ http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1 group_id=5,309 Sh0wtime
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 group_id=5,310 S0ny Le Plex HD (IND)
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
-
-#EXTINF:-1 group_id=5,311 S0NY PIX HD (IND)
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-
 #EXTINF:-1 group_id=5,313 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
@@ -169,28 +163,4 @@ http://hello4.somalia1.tk/vvv/s11/index.m3u8
 #EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,431 Fl0w Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-
-#EXTINF:-1 group_id=7,441 Ne0 Prime (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
-
-#EXTINF:-1 group_id=7,442 Ne0 Sp0rts (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,451 S0ny Ten 1 (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,452 S0ny Ten 2 (IND)
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyTen.png,453 S0ny Ten 3 (IND)
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonySix.png,454 S0ny Six (IND)
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/SonyESPN.png,455 S0ny ESPN (IND)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-
-#EXTINF:-1 group_id=7,456 D SP0RT (IND)
-http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226392/index.m3u8
 
