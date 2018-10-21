@@ -88,22 +88,22 @@ http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zon
 #EXTINF:-1 group_id=3,301 Sh0wtime
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:-1 group_id=3,301 Zee Cafe (IND)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/zee.png,301 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=3,301 SLY CINEMA PREMIERE (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA PREMIERE (UK)
 http://82.46.138.46:5555/play/a00p/index.m3u8
 
-#EXTINF:-1 group_id=3,301 SLY CINEMA Disney (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA Disney (UK)
 http://82.46.138.46:5555/play/a00b/index.m3u8
 
-#EXTINF:-1 group_id=3,301 SLY CINEMA ACTION (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA ACTION (UK)
 http://82.46.138.46:5555/play/a00a/index.m3u8
 
-#EXTINF:-1 group_id=3,301 SLY CINEMA Comedy (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA Comedy (UK)
 http://82.46.138.46:5555/play/a00c/index.m3u8
 
-#EXTINF:-1 group_id=3,301 SLY CINEMA Thriller (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA Thriller (UK)
 http://82.46.138.46:5555/play/a00h/index.m3u8
 
 
