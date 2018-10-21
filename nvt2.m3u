@@ -64,16 +64,16 @@ http://hello4.somalia1.tk/vvv/s11/index.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=3,301 F0x Premium C0medy (Asia)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1 group_id=3,301 F0x M0vies International (UAE)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x M0vies International (UAE)
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 group_id=3,301 F0x Premium Cinema
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
-#EXTINF:-1 group_id=3,301 HB0 2 (USA)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 group_id=3",301 &flix HD (IND)
