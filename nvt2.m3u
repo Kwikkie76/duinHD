@@ -107,18 +107,6 @@ http://82.46.138.46:5555/play/a00c/index.m3u8
 http://82.46.138.46:5555/play/a00h/index.m3u8
 
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT1.png,401 BT Sp0rt 1 (UK)
-http://185.53.163.205:2700
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT2.png,401 BT Sp0rt 2 (UK)
-http://185.53.163.205:2506
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/BT3.png,401 BT Sp0rt 3 (UK)
-http://185.53.163.205:2701
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/BTESPN.png,401 BT Sp0rt ÉSPN (UK)
-http://185.53.163.205:2507
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts (UK)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
@@ -126,21 +114,19 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK (USA)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=11,1101 F0X SP0RTS 1
+#EXTINF:-1 group_id=6,601 F0X SP0RTS 1
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
-#EXTINF:-1 group_id=11,1101 F0X SP0RTS 2
+#EXTINF:-1 group_id=6,601 F0X SP0RTS 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
-#EXTINF:-1 group_id=11,1101 NBA TV
+#EXTINF:-1 group_id=6,601 NBA TV
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 
-#EXTINF:-1 group_id=11,1101 NBCSN
+#EXTINF:-1 group_id=6,601 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1 group_id=11,ESPN 2 (USA)
+#EXTINF:-1 group_id=11,1101 ESPN 2 (USA)
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1 group_id=11,F0x Sp0rts S0utheast (USA)
-http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/20987.m3u8
 
