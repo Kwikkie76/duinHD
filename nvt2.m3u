@@ -62,7 +62,7 @@ http://hello4.somalia1.tk/vvv/s10/index.m3u8
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
 
 #EXTINF:-1 group_id=2,202 stream 01
-http://cdn.hdcast.me/live/UqvIdA4KlK20181021/chunks.m3u8?nimblesessionid=1744163&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAxOCAxMjo0NjoyNyBQTSZoYXNoX3ZhbHVlPUhjTzFTUm1NSnpKYnErbS9sN05PbWc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+https://e03.weplaylive.stream/s/a3bfe1efbf6aea9f-a1b373c0211aeebd564c349e4306e30986444fe817e3e0703fae8adea067f2da9189588bfa22b5ea036a6274992832b78cd2da571b4c718e4144426b45bbee42/stream.m3u8
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
