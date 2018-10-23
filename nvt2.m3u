@@ -76,8 +76,14 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 (ASIA)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 group_id=3,SYFY
+http://23.237.22.82:8086/udp/127.0.0.1:56063
 
 #EXTINF:-1 group_id=3" logo="plugin_file://logos/FLIX.png,301 &flix HD (IND)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
