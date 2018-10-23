@@ -135,423 +135,1064 @@ http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/NBCSN.png,601 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1 group_id=11,US: FOXDEPORTES | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18369.ts
+#EXTINF:-1 group_id=11,1101 US: Cinemax Action 2 HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54303.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS YES | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18370.ts
+#EXTINF:-1 group_id=11,1101 US: Cinemax East HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54302.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS WISCONSIN | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18371.ts
+#EXTINF:-1 group_id=11,1101 US: Cinemax West HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54301.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS WISCONSIN PLUS | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18372.ts
+#EXTINF:-1 group_id=11,1101 US: HBO 2 HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54300.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS WEST | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18373.ts
+#EXTINF:-1 group_id=11,1101 US: HBO 2 West HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54299.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS SW  | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18374.ts
+#EXTINF:-1 group_id=11,1101 US: HBO Plus West HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54298.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS SUN | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18375.ts
+#EXTINF:-1 group_id=11,1101 US: HBO Signature HD  H1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54297.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS SOUTHWEST PLUS | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18376.ts
+#EXTINF:-1 group_id=11,1101 US: IndiePlex HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54296.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS SOUTH | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18377.ts
+#EXTINF:-1 group_id=11,1101 US: MoreMax HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54295.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS SOUTH WEST | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18378.ts
+#EXTINF:-1 group_id=11,1101 US: MovieMax HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54294.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS SE | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18379.ts
+#EXTINF:-1 group_id=11,1101 US: MoviePlex HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54293.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS PRIME TICKET | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18380.ts
+#EXTINF:-1 group_id=11,1101 US: OuterMax HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54292.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS OHIO | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18381.ts
+#EXTINF:-1 group_id=11,1101 US: RetroPlex HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54291.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS NORTH | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18382.ts
+#EXTINF:-1 group_id=11,1101 US: Showtime West HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54290.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS NEW ORLEANS
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18383.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Cinema East HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54289.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS MID WEST | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18384.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Cinema HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54288.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS FLORIDA | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18385.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Cinema West HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54287.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS DETROIT | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18386.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Comedy East HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54286.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS CAROLINAS
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18387.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Comedy HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54285.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS ARIZONA | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18388.ts
+#EXTINF:-1 group_id=11,1101 US: Starz East HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54284.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS 2 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18390.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Edge HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54283.ts
 
-#EXTINF:-1 group_id=11,US: FOX SPORTS 1 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18391.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Edge West HD 1080p-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54282.ts
 
-#EXTINF:-1 group_id=11,US: FOX SOCCER PLUS | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18392.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore 2 East HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54281.ts
 
-#EXTINF:-1 group_id=11,US: FOX NEWS CHANNEL | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18393.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore Action 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54280.ts
 
-#EXTINF:-1 group_id=11,US: FOX COLLEGE PACIFIC | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18394.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore Black HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54279.ts
 
-#EXTINF:-1 group_id=11,US: FOX COLLEGE CENTRAL | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18395.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore Classic HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54278.ts
 
-#EXTINF:-1 group_id=11,US: FOX COLLEGE ATLANTIC | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18396.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore East HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54277.ts
 
-#EXTINF:-1 group_id=11,US: ESPN | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18409.ts
+#EXTINF:-1 group_id=11,1101 US: Straz Encore Family HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54276.ts
 
-#EXTINF:-1 group_id=11,US: ESPN U | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18410.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54275.ts
 
-#EXTINF:-1 group_id=11,US: ESPN News | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18411.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore 2 HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54274.ts
 
-#EXTINF:-1 group_id=11,US: ESPN DEPORTES | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18412.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore Suspense HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54273.ts
 
-#EXTINF:-1 group_id=11,US: ESPN 3 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18414.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore West HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54272.ts
 
-#EXTINF:-1 group_id=11,US: ESPN 2 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18416.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Encore Western HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54271.ts
 
-#EXTINF:-1 group_id=11,US: BIG TEN NETWORK | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18481.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Family HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54270.ts
 
-#EXTINF:-1 group_id=11,US: BEIN SPORT | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18488.ts
+#EXTINF:-1 group_id=11,1101 US: Starz HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54269.ts
 
-#EXTINF:-1 group_id=11,US: AMC | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18495.ts
+#EXTINF:-1 group_id=11,1101 US: Starz Kids & Family HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54268.ts
 
-#EXTINF:-1 group_id=11,US: AFN SPORTS | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18497.ts
+#EXTINF:-1 group_id=11,1101 US: Starz West HD 1080P-
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/54267.ts
 
-#EXTINF:-1 group_id=11,US: AFN SPORTS 2 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18498.ts
+#EXTINF:-1 group_id=11,1101 NFL NETWORK (24/7 Coverage)
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53771.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Premier League | UHD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19461.ts
+#EXTINF:-1 group_id=11,1101 NFL RED ZONE (WATCH MULTIPLE GAMES)
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53770.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Premier League | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19462.ts
+#EXTINF:-1 group_id=11,1101 NBA 1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53089.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Premier League | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19463.ts
+#EXTINF:-1 group_id=11,1101 NBA 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53088.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports News | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19464.ts
+#EXTINF:-1 group_id=11,1101 NBA 3
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53087.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports News | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19465.ts
+#EXTINF:-1 group_id=11,1101 NBA 4
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53086.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports News | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19466.ts
+#EXTINF:-1 group_id=11,1101 NBA 5
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53085.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Main Event | UHD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19467.ts
+#EXTINF:-1 group_id=11,1101 NBA 6
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53084.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Main Event | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19468.ts
+#EXTINF:-1 group_id=11,1101 NBA 7
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53083.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Main Event | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19469.ts
+#EXTINF:-1 group_id=11,1101 NBA 8
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53082.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Main Event | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19470.ts
+#EXTINF:-1 group_id=11,1101 NBA 9
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53081.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports MIX | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19471.ts
+#EXTINF:-1 group_id=11,1101 NBA 10
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53080.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports MIX | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19472.ts
+#EXTINF:-1 group_id=11,1101 NBA 11
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53079.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports MIX | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19473.ts
+#EXTINF:-1 group_id=11,1101 NBA 12
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53078.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Golf | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19474.ts
+#EXTINF:-1 group_id=11,1101 NBA 13
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53077.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Golf | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19475.ts
+#EXTINF:-1 group_id=11,1101 NBA 14
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53076.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Golf | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19476.ts
+#EXTINF:-1 group_id=11,1101 NBA 15
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/53075.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Football | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19477.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  01 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52652.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Football | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19478.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  02 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52651.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Football | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19479.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  03 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52650.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports F1 | UHD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19480.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  04 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52649.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports F1 | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19481.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  05 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52648.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports F1 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19482.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  06 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52647.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Cricket | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19483.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  07 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52646.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Cricket | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19484.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  08 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52645.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Cricket | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19485.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  09 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52644.ts
 
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  10 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52643.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 6 >  h.265 4K
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19486.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  11 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52642.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 5
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19487.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  12 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52641.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 4
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19488.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  13 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52640.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 3
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19489.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  14 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52639.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 2
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19490.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  15 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52638.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 1
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19491.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  16 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52637.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Arena | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19492.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  17 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52636.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Arena | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19493.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  18 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52635.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Arena | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19494.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  19 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52634.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Action | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19495.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS :  20 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52633.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Action | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19496.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 21 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52632.ts
 
-#EXTINF:-1 group_id=11,UK: Sky Sports Action | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19497.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 22 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52631.ts
 
-#EXTINF:-1 group_id=11,UK: SKY SPORTS PREMIER LEAGUE | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19508.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 23 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52630.ts
 
-#EXTINF:-1 group_id=11,UK: SKY SPORTS NEWS | UHD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19509.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 24 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52629.ts
 
-#EXTINF:-1 group_id=11,UK: SKY SPORTS GOLF | UHD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19510.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 25 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52628.ts
 
-#EXTINF:-1 group_id=11,UK: SKY SPORTS FOOTBALL | UHD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19511.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 26 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52627.ts
 
-#EXTINF:-1 group_id=11,UK: SKY SPORTS F1 | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19512.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 27 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52626.ts
 
-#EXTINF:-1 group_id=11,UK: SKY SPORTS CRICKET | UHD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19513.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 28 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52625.ts
 
-#EXTINF:-1 group_id=11,UK: SKY SPORTS ACTION | UHD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19514.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 29 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52624.ts
 
-EXTINF:-1,UK: Premier Sport SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19577.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 30 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52623.ts
 
-#EXTINF:-1 group_id=11,UK: Premier Sport HD BU
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19578.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 31 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52622.ts
 
-#EXTINF:-1 group_id=11,UK: Premier Sport HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19579.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 32 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52621.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport Extra 5
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19740.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 33 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52620.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport Extra 4
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19741.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 34 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52619.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport Extra 3
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19742.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 35 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52618.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport Extra 2
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19743.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 36 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52617.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport Extra 1
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19744.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 37 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52616.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport ESPN SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19745.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 38 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52615.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport ESPN HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19746.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 39 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52614.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 3HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19747.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 40 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52613.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 3 SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19748.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 41 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52612.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 3 FHD2
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19749.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 42 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52611.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 2HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19750.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 43 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52610.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 2 SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19751.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 44 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52609.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 2 FHD2
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19752.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 45 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52608.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 1 SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19753.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 46 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52607.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 1 HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19754.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 47 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52606.ts
 
-#EXTINF:-1 group_id=11,UK: BT Sport 1 FHD2
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19755.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 48 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52605.ts
 
-#EXTINF:-1 group_id=11,UK: BT SPORT ESPN FHD2
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19756.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 49 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52604.ts
 
-#EXTINF:-1 group_id=11,US: FS1 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19937.ts
+#EXTINF:-1 group_id=11,1101 ESPN PLUS : 50 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/52603.ts
 
-#EXTINF:-1 group_id=11,US: SPORTSNET LA
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/20528.ts
+#EXTINF:-1 group_id=11,1101 US: Fox Sportstime Ohio
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/50285.ts
 
-#EXTINF:-1 group_id=11,US: SPORTSNET NY
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/20529.ts
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS OHIO Local
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/50284.ts
 
-#EXTINF:-1 group_id=11,VOO Sp0rt 1 BELGIUM
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/21272.ts
+#EXTINF:-1 group_id=11,1101 NBA TV (24/7 Coverage)
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/49370.ts
 
-#EXTINF:-1 group_id=11,US l NBCSN
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23632.ts
-
-#EXTINF:-1 group_id=11,US:  NFL Now
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23633.ts
-
-#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 6 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23804.ts
-
-#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 5 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23805.ts
-
-#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 4 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23806.ts
-
-#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 3 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23807.ts
-
-#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 2 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23808.ts
-
-#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 1 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23809.ts
-
-#EXTINF:-1 group_id=11,NL: ELEVEN SPORTS 3
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25748.ts
-
-#EXTINF:-1 group_id=11,NL: ELEVEN SPORTS 2
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25749.ts
-
-#EXTINF:-1 group_id=11,NL: ELEVEN SPORTS 1
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25750.ts
-
-#EXTINF:-1 group_id=11,CA: TSN 5 | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48686.ts
-
-#EXTINF:-1 group_id=11,CA: TSN 5 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48687.ts
-
-#EXTINF:-1 group_id=11,CA: TSN 4 | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48688.ts
-
-#EXTINF:-1 group_id=11,CA: TSN 4 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48689.ts
-
-#EXTINF:-1 group_id=11,CA: TSN 3 | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48690.ts
-
-#EXTINF:-1 group_id=11,CA: TSN 3 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48691.ts
-
-#EXTINF:-1 group_id=11,CA: TSN 2 | HD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48692.ts
-
-#EXTINF:-1 group_id=11,CA: TSN 2 | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48693.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET WORLD | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48709.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET WEST | HD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48710.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET WEST | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET PACIFIC | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48712.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET PACIFIC | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET ONTARIO | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48714.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET ONTARIO | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48715.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET ONE | HD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48716.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET ONE | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48717.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET EAST | UHD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48718.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET EAST | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48719.ts
-
-#EXTINF:-1 group_id=11,CA: SPORTSNET 360 | UHD
+#EXTINF:-1 group_id=11,1101 CA: SPORTSNET 360 | UHD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48720.ts
 
-#EXTINF:-1 group_id=11,CA: SPORTSNET 360 | SD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48721.ts
+#EXTINF:-1 group_id=11,1101 CA: SPORTSNET EAST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48719.ts
 
-#EXTINF:-1 group_id=11,CA: NBA TV | HD*
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48737.ts
+#EXTINF:-1 group_id=11,1101 CA: SPORTSNET ONE | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48717.ts
 
-#EXTINF:-1 group_id=11,CA: NBA TV | HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48738.ts
+#EXTINF:-1 group_id=11,1101 CA: SPORTSNET ONTARIO | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48715.ts
+
+#EXTINF:-1 group_id=11,1101 CA: SPORTSNET PACIFIC | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
+
+#EXTINF:-1 group_id=11,1101 CA: SPORTSNET WEST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
+
+#EXTINF:-1 group_id=11,1101 CA: SPORTSNET WORLD | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48709.ts
+
+#EXTINF:-1 group_id=11,1101 CA: TSN 1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48694.ts
+
+#EXTINF:-1 group_id=11,1101 CA: TSN 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48693.ts
+
+#EXTINF:-1 group_id=11,1101 CA: TSN 2 | HD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48692.ts
+
+#EXTINF:-1 group_id=11,1101 CA: TSN 3 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48691.ts
+
+#EXTINF:-1 group_id=11,1101 CA: TSN 3 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48690.ts
+
+#EXTINF:-1 group_id=11,1101 CA: TSN 4 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48689.ts
+
+#EXTINF:-1 group_id=11,1101 CA: TSN 5 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48687.ts
+
+#EXTINF:-1 group_id=11,1101 CA: TVA SPORTS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48685.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Racing UK | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48302.ts
+
+#EXTINF:-1 group_id=11,1101 NHL NETWORK | HD (24/7 Coverage)
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47861.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 1:
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47860.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47859.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 3
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47858.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 4
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47857.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 5
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47856.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 6
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47855.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 7
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47854.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 8
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47853.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 9
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47852.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 10
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47851.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 11
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47850.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 12
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47849.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 13
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47848.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 14
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47847.ts
+
+#EXTINF:-1 group_id=11,1101 NHL Center Ice Plus 15
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/47846.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS 1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45686.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45684.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS 3 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45682.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS ESPN | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45679.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS EXTRA 1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45678.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS EXTRA 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45677.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS EXTRA 3 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45676.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS EXTRA 4 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45675.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS EXTRA 5 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45674.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS EXTRA 6 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45673.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT SPORTS EXTRA 7 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45672.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 01 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45671.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 02 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45670.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 03 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45669.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 04 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45668.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 05 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45667.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 06 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45666.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 07 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45665.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 08 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45664.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Red Button 09 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45663.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC SPORTS GOLD 1 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45533.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC SPORTS GOLD 2 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45532.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC SPORTS GOLD 3 | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45531.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC SPORTS GOLD 4 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45530.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC SPORTS GOLD 5 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45529.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC SPORTS GOLD 6 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45528.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC SPORTS GOLD 7 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45527.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC GOLD MOSIAC
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45526.ts
+
+#EXTINF:-1 group_id=11,1101 EPL: NBC SPORTS GOLD GOAL RUSH | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45525.ts
+
+#EXTINF:-1 group_id=11,1101 US: HBO (East) | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/44296.ts
+
+#EXTINF:-1 group_id=11,1101 US:  NFL NETWORK | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/44021.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Eleven Sports 1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/26202.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Eleven Sports 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/26201.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Eleven Sports La liga 24/7 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/26200.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 01 PPV - 10x10
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24611.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 02 PPV - Andover
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24610.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 03 PPV -  Avengers: Infinity War
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24609.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 04 PPV -  Bad Samaritan
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24608.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 05 PPV - Book Club
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24607.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 06 PPV - US VS THEM
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24606.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 07 PPV - China Salesman
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24605.ts
+
+#EXTINF:-1 group_id=11,1101 US: PPV Cinema 08 -  Deadpool 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24604.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 09 PPV - LEAN ON PETE
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24603.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 10 PPV - HEADCLEANER
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24602.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 11 PPV - FISHBOWL CALIFORNIA
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24601.ts
+
+#EXTINF:-1 group_id=11,1101 US: PPV Cinema 12 - BOOK CLUB
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24600.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 13 PPV - MOBILE HOMES
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24599.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 14 PPV - THE KISSING BOOTH
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24598.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 15 PPV - ANONYMOUS 616
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24597.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 16 PPV - TERMINAL
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24596.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 17 PPV - TAG
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24595.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 18 PPV - DARC
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24594.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 19 PPV - THE ASSASSIN'S CODE
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24593.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 20 PPV - FAHRENHEIT 451
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24592.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 21 PPV - DEATH WISH
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24591.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 22 PPV - GRINGO
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24590.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 23 PPV - LOVE, SIMON
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24589.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 24 PPV - THOROUGHBREDS
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24588.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 25 PPV - A WRINKLE IN TIME
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24587.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 26 PPV - THE HURRICANE HEIST
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24586.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 27 PPV - TOMB RAIDER
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24585.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 28 PPV  - HOW TO TALK TO GIRLS AT PARTIES
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24584.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 29 PPV - NIGHT HOWL
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24583.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 30 PPV  - DAPHNE & VELMA
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24582.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 31 PPV - FUTURE WORLD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24581.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 32 PPV  - 211
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24580.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 33 PPV - CORBIN NASH
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24579.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 34 PPV - THE MERCY
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24578.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 35 PPV - SHERLOCK GNOMES
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24577.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 36 PPV - INCOMING
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24576.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 37 PPV
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24575.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 38 PPV - A KID LIKE JAKE
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24574.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 39 PPV - MIDNIGHT SUN
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24573.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 40 PPV - UNKNOW ORIGINS 2036
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24572.ts
+
+#EXTINF:-1 group_id=11,1101 US: Cinema 41 PPV - THE APOSTLE OF CHRIST
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/24571.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN COLLEGE EXTRA 1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23809.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN COLLEGE EXTRA 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23808.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN COLLEGE EXTRA 3 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23807.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN COLLEGE EXTRA 4 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23806.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN COLLEGE EXTRA 5 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23805.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN COLLEGE EXTRA 6 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23804.ts
+
+#EXTINF:-1 group_id=11,1101 US: SPORTSNET NY
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/20529.ts
+
+#EXTINF:-1 group_id=11,1101 US: SPORTSNET LA
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/20528.ts
+
+#EXTINF:-1 group_id=11,1101 US: FS1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19937.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport 1 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19754.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport 2HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19750.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport 3HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19747.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport ESPN HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19746.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport Extra 1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19744.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport Extra 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19743.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport Extra 3
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19742.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport Extra 4
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19741.ts
+
+#EXTINF:-1 group_id=11,1101 UK: BT Sport Extra 5
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19740.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Premier Sport HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19579.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY ATLANTIC | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19559.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA ACTION FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19554.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA COMEDY FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19551.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA DISNEY HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19547.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA DRAMA HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19543.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA FAMILY HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19541.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA GREATS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19537.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA HITS HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19535.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA PREMIER HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19531.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA SCIFI & HORROR HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19528.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA SELECT HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19525.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SKY CINEMA THRILLER HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19522.ts
+
+#EXTINF:-1 group_id=11,1101 UK: SYFY | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19503.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Action | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19497.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Arena | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19494.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Box Office 1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19491.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Box Office 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19490.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Box Office 3
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19489.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Box Office 4
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19488.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Box Office 5
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19487.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Box Office 6 >  h.265 4K
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19486.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Cricket | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19485.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports F1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19482.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Football | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19479.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Golf | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19476.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports MIX | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19473.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Main Event | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19470.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports News | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19466.ts
+
+#EXTINF:-1 group_id=11,1101 UK: Sky Sports Premier League | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19463.ts
+
+#EXTINF:-1 group_id=11,1101 US: AFN SPORTS 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18498.ts
+
+#EXTINF:-1 group_id=11,1101 US: AFN SPORTS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18497.ts
+
+#EXTINF:-1 group_id=11,1101 US: BIG TEN NETWORK | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18481.ts
+
+#EXTINF:-1 group_id=11,1101 US: CBS SPORTS NETWORK | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18465.ts
+
+#EXTINF:-1 group_id=11,1101 US: CINEMAX ACTION | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18460.ts
+
+#EXTINF:-1 group_id=11,1101 US: CINEMAX ACTION | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18459.ts
+
+#EXTINF:-1 group_id=11,1101 US: CINEMAX EAST | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18458.ts
+
+#EXTINF:-1 group_id=11,1101 US: CINEMAX MOREMAX | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18457.ts
+
+#EXTINF:-1 group_id=11,1101 US: CINEMAX OUTERMAX | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18456.ts
+
+#EXTINF:-1 group_id=11,1101 US: CINEMAX THRILLER | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18455.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18416.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN 3 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18414.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN DEPORTES | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18412.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN News | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18411.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN U | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18410.ts
+
+#EXTINF:-1 group_id=11,1101 US: ESPN | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18409.ts
+
+#EXTINF:-1 group_id=11,1101 US: FAITHLIFE | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18407.ts
+
+#EXTINF:-1 group_id=11,1101 US: FIGHT BOX | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18406.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOOD NETWORK | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18403.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX BUSINESS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18397.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX COLLEGE ATLANTIC | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18396.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX COLLEGE CENTRAL | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18395.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX COLLEGE PACIFIC | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18394.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX NEWS CHANNEL | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18393.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SOCCER PLUS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18392.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS 1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18391.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18390.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS ARIZONA | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18388.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS CAROLINAS
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18387.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS DETROIT | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18386.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS FLORIDA | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18385.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS MID WEST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18384.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS NEW ORLEANS
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18383.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS NORTH | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18382.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS OHIO | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18381.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS PRIME TICKET | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18380.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS SE | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18379.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS SOUTH WEST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18378.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS SOUTH | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18377.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS SOUTHWEST PLUS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18376.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS SUN | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18375.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS SW  | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18374.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS WEST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18373.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS WISCONSIN PLUS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18372.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS WISCONSIN | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18371.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOX SPORTS YES | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18370.ts
+
+#EXTINF:-1 group_id=11,1101 US: FOXDEPORTES | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18369.ts
+
+#EXTINF:-1 group_id=11,1101 US: HALLMARK CHANNEL | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18361.ts
+
+#EXTINF:-1 group_id=11,1101 US: HALLMARK DRAMA | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18360.ts
+
+#EXTINF:-1 group_id=11,1101 US: HALLMARK MOVIES & MYSTERIES | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18359.ts
+
+#EXTINF:-1 group_id=11,1101 US: HBO 2 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18358.ts
+
+#EXTINF:-1 group_id=11,1101 US: HBO COMEDY | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18357.ts
+
+#EXTINF:-1 group_id=11,1101 US: HBO FAMILY | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18356.ts
+
+#EXTINF:-1 group_id=11,1101 US: HBO SIGNATURE (West) | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18355.ts
+
+#EXTINF:-1 group_id=11,1101 US: HBO ZONE | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18354.ts
+
+#EXTINF:-1 group_id=11,1101 US: HBO ZONE | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18353.ts
+
+#EXTINF:-1 group_id=11,1101 US: HBO | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18352.ts
+
+#EXTINF:-1 group_id=11,1101 US: NBC SPORTS BAY AREA | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18299.ts
+
+#EXTINF:-1 group_id=11,1101 US: NBC SPORTS CHICAGO | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18298.ts
+
+#EXTINF:-1 group_id=11,1101 US: NBC Sports Network | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18297.ts
+
+#EXTINF:-1 group_id=11,1101 US: NESN | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18296.ts
+
+#EXTINF:-1 group_id=11,1101 US: PAC-12 ARIZONA | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18280.ts
+
+#EXTINF:-1 group_id=11,1101 US: PAC-12 BAY AREA | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18279.ts
+
+#EXTINF:-1 group_id=11,1101 US: PAC-12 LOS ANGELES | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18278.ts
+
+#EXTINF:-1 group_id=11,1101 US: PAC-12 MOUNTAIN | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18277.ts
+
+#EXTINF:-1 group_id=11,1101 US: PAC-12 OREGAN | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18276.ts
+
+#EXTINF:-1 group_id=11,1101 US: PAC-12 OREGON | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18275.ts
+
+#EXTINF:-1 group_id=11,1101 US: PAC-12 WASHINGTON | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18274.ts
+
+#EXTINF:-1 group_id=11,1101 US: PARAMOUNT NETWORK | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18273.ts
+
+#EXTINF:-1 group_id=11,1101 US: PARAMOUNT NETWORK | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18272.ts
+
+#EXTINF:-1 group_id=11,1101 US: SHOWTIME (East) | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18264.ts
+
+#EXTINF:-1 group_id=11,1101 US: SHOWTIME (West) | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18263.ts
+
+#EXTINF:-1 group_id=11,1101 US: SHOWTIME 2 (East) | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18262.ts
+
+#EXTINF:-1 group_id=11,1101 US: SHOWTIME 2 (West) | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18261.ts
+
+#EXTINF:-1 group_id=11,1101 US: SHOWTIME EXTREME | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18260.ts
+
+#EXTINF:-1 group_id=11,1101 US: SHOWTIME EXTREME | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18259.ts
+
+#EXTINF:-1 group_id=11,1101 US: SHOWTIME SHOWCASE | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18258.ts
+
+#EXTINF:-1 group_id=11,1101 US: SNY | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18257.ts
+
+#EXTINF:-1 group_id=11,1101 US: SPORTSMAN CHANNEL | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18256.ts
+
+#EXTINF:-1 group_id=11,1101 US: STARZ CINEMA | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18255.ts
+
+#EXTINF:-1 group_id=11,1101 US: STARZ COMEDY | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18254.ts
+
+#EXTINF:-1 group_id=11,1101 US: STARZ EDGE | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18253.ts
+
+#EXTINF:-1 group_id=11,1101 US: STARZ ENCORE | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18252.ts
+
+#EXTINF:-1 group_id=11,1101 US: STARZ KIDS & FAMILY | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18250.ts
+
+#EXTINF:-1 group_id=11,1101 US: STARZ SUSPENSE | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18248.ts
+
+#EXTINF:-1 group_id=11,1101 US: STARZ | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18247.ts
+
+#EXTINF:-1 group_id=11,1101 US: SUNDANCE | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18245.ts
+
+#EXTINF:-1 group_id=11,1101 US: SYFY | HD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18243.ts
+
+#EXTINF:-1 group_id=11,1101 US: TBN | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18242.ts
+
+#EXTINF:-1 group_id=11,1101 US: TBS | HD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18240.ts
+
+#EXTINF:-1 group_id=11,1101 US: TCM | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18239.ts
+
+#EXTINF:-1 group_id=11,1101 US: TENNIS CHANNEL | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18238.ts
