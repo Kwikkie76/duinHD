@@ -135,24 +135,11 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 
 
-#EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1
-http://163.172.15.141:9732/live?channelId=237&uid=3682&deviceMac=00:1A:79:F9:6F:F6
-
-EXTINF:-1 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1
-http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:37:C2:FD&uid=4302
-
-#EXTINF:-1 group_id=11 logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png,FS2
-http://163.172.15.141:9732/live?channelId=238&uid=3682&deviceMac=00:1A:79:F9:6F:F6
-://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
-
-
-
 
 #EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1
 http://163.172.15.141:9732/live?channelId=237&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1
+#EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1
 http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
 #EXTINF:-1 group_id=11 logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png,FS2
@@ -254,5 +241,4 @@ http://163.172.15.141:9732/live?channelId=236&deviceMac=00:1A:79:37:C2:FD&uid=43
 
 #EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTS NET WORLD HD
 http://163.172.15.141:9732/live?channelId=228&uid=3682&deviceMac=00:1A:79:F9:6F:F6
-
 
