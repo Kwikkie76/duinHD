@@ -135,116 +135,423 @@ http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/NBCSN.png,601 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1 group_id=11,1101 ESPN 2 (USA)
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 group_id=11,US: FOXDEPORTES | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18369.ts
 
-#EXTINF:-1 group_id=11, Fox S1
-http://ipsatpro.biz:8080/live/Deniz10/Deniz10/710.ts
+#EXTINF:-1 group_id=11,US: FOX SPORTS YES | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18370.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS WISCONSIN | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18371.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS WISCONSIN PLUS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18372.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS WEST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18373.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS SW  | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18374.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS SUN | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18375.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS SOUTHWEST PLUS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18376.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS SOUTH | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18377.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS SOUTH WEST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18378.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS SE | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18379.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS PRIME TICKET | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18380.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS OHIO | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18381.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS NORTH | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18382.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS NEW ORLEANS
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18383.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS MID WEST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18384.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS FLORIDA | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18385.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS DETROIT | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18386.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS CAROLINAS
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18387.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS ARIZONA | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18388.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18390.ts
+
+#EXTINF:-1 group_id=11,US: FOX SPORTS 1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18391.ts
+
+#EXTINF:-1 group_id=11,US: FOX SOCCER PLUS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18392.ts
+
+#EXTINF:-1 group_id=11,US: FOX NEWS CHANNEL | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18393.ts
+
+#EXTINF:-1 group_id=11,US: FOX COLLEGE PACIFIC | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18394.ts
+
+#EXTINF:-1 group_id=11,US: FOX COLLEGE CENTRAL | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18395.ts
+
+#EXTINF:-1 group_id=11,US: FOX COLLEGE ATLANTIC | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18396.ts
+
+#EXTINF:-1 group_id=11,US: ESPN | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18409.ts
+
+#EXTINF:-1 group_id=11,US: ESPN U | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18410.ts
+
+#EXTINF:-1 group_id=11,US: ESPN News | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18411.ts
+
+#EXTINF:-1 group_id=11,US: ESPN DEPORTES | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18412.ts
+
+#EXTINF:-1 group_id=11,US: ESPN 3 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18414.ts
+
+#EXTINF:-1 group_id=11,US: ESPN 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18416.ts
+
+#EXTINF:-1 group_id=11,US: BIG TEN NETWORK | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18481.ts
+
+#EXTINF:-1 group_id=11,US: BEIN SPORT | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18488.ts
+
+#EXTINF:-1 group_id=11,US: AMC | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18495.ts
+
+#EXTINF:-1 group_id=11,US: AFN SPORTS | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18497.ts
+
+#EXTINF:-1 group_id=11,US: AFN SPORTS 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18498.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Premier League | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19461.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Premier League | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19462.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Premier League | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19463.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports News | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19464.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports News | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19465.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports News | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19466.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Main Event | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19467.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Main Event | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19468.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Main Event | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19469.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Main Event | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19470.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports MIX | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19471.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports MIX | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19472.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports MIX | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19473.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Golf | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19474.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Golf | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19475.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Golf | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19476.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Football | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19477.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Football | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19478.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Football | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19479.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports F1 | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19480.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports F1 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19481.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports F1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19482.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Cricket | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19483.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Cricket | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19484.ts
+
+#EXTINF:-1 group_id=11,UK: Sky Sports Cricket | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19485.ts
 
 
-#EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1 a
-http://163.172.15.141:9732/live?channelId=237&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 6 >  h.265 4K
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19486.ts
 
-#EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1 b
-http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 5
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19487.ts
 
-#EXTINF:-1 group_id=11 logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png,FS2
-http://163.172.15.141:9732/live?channelId=238&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 4
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19488.ts
 
+#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 3
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19489.ts
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053",TSN 1 
-http://163.172.15.141:9732/live?channelId=217&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19490.ts
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/3/35/TSN2.png/revision/latest?cb=20150906015918",TSN 2 
-http://163.172.15.141:9732/live?channelId=218&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: Sky Sports Box Office 1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19491.ts
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest?cb=20150709183134",TSN 3 
-http://163.172.15.141:9732/live?channelId=219&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: Sky Sports Arena | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19492.ts
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png/revision/latest?cb=20150906015754",TSN 4 
-http://163.172.15.141:9732/live?channelId=220&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: Sky Sports Arena | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19493.ts
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest?cb=20150709183505",TSN 5 
-http://163.172.15.141:9732/live?channelId=221&deviceMac=00:1A:79:37:C2:FD&uid=43
+#EXTINF:-1 group_id=11,UK: Sky Sports Arena | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19494.ts
 
-#EXTINF:-1 group_id=11  logo="http://i63.tinypic.com/e8lorb.png ,TSN 1 HD 
-http://163.172.15.141:9732/live?channelId=217&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: Sky Sports Action | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19495.ts
 
-#EXTINF:-1 group_id=11  logo="http://i65.tinypic.com/dxxtnk.png ,TSN 2 HD 
-http://163.172.15.141:9732/live?channelId=218&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: Sky Sports Action | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19496.ts
 
-#EXTINF:-1 group_id=11  logo="http://i64.tinypic.com/27wxeyt.png,TSN 3 HD 
-http://163.172.15.141:9732/live?channelId=219&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: Sky Sports Action | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19497.ts
 
-#EXTINF:-1 group_id=11 logo="http://i64.tinypic.com/24yajp5.png,TSN 4 HD 
-http://163.172.15.141:9732/live?channelId=220&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: SKY SPORTS PREMIER LEAGUE | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19508.ts
 
-#EXTINF:-1 group_id=11 logo="http://i63.tinypic.com/2e4izqg.png,TSN 5 HD
-http://163.172.15.141:9732/live?channelId=221&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: SKY SPORTS NEWS | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19509.ts
 
-#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTS NET 360 HD a
-http://163.172.15.141:9732/live?channelId=222&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: SKY SPORTS GOLF | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19510.ts
 
-#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTS NET 360 HD b
-http://163.172.15.141:9732/live?channelId=222&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: SKY SPORTS FOOTBALL | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19511.ts
 
-#EXTINF:-1 group_id=11 logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png,SPORTS NET EAST HD a
-http://163.172.15.141:9732/live?channelId=223&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: SKY SPORTS F1 | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19512.ts
 
-#EXTINF:-1 group_id=11 logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png,SPORTS NET EAST HD b
-http://163.172.15.141:9732/live?channelId=223&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: SKY SPORTS CRICKET | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19513.ts
 
-#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTS NET ONE HD a
-http://163.172.15.141:9732/live?channelId=224&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: SKY SPORTS ACTION | UHD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19514.ts
 
-#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTS NET ONE HD b
-http://163.172.15.141:9732/live?channelId=224&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+EXTINF:-1,UK: Premier Sport SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19577.ts
 
-#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTS NET ONTARIO HD a
-http://163.172.15.141:9732/live?channelId=225&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: Premier Sport HD BU
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19578.ts
 
-#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTS NET ONTARIO HD b
-http://163.172.15.141:9732/live?channelId=225&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: Premier Sport HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19579.ts
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTS NET PACIFIC HD a
-http://163.172.15.141:9732/live?channelId=226&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport Extra 5
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19740.ts
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTS NET PACIFIC HD b
-http://163.172.15.141:9732/live?channelId=226&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: BT Sport Extra 4
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19741.ts
 
-#EXTINF:-1 group_id=11 logo="http://kawarthacableinternet.ca/wp-content/uploads/2016/11/imgres-22.jpg,SPORTS NET WEST HD a
-http://163.172.15.141:9732/live?channelId=227&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport Extra 3
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19742.ts
 
-#EXTINF:-1 group_id=11 logo="http://kawarthacableinternet.ca/wp-content/uploads/2016/11/imgres-22.jpg,SPORTS NET WEST HD b
-http://163.172.15.141:9732/live?channelId=227&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: BT Sport Extra 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19743.ts
 
-#EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTS NET WORLD HD a
-http://163.172.15.141:9732/live?channelId=228&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport Extra 1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19744.ts
 
-#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTSNET 360 c
-http://163.172.15.141:9732/live?channelId=229&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport ESPN SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19745.ts
 
-#EXTINF:-1 group_id=11 logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png,SPORTSNET EAST
-http://163.172.15.141:9732/live?channelId=230&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport ESPN HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19746.ts
 
-#EXTINF:-1 group_id=11 logo="http://cdn.tvpassport.com/image/station/240x135/sportsnetone.png,SPORTSNET ONE
-http://163.172.15.141:9732/live?channelId=231&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport 3HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19747.ts
 
-#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTSNET ONE HD c
-http://163.172.15.141:9732/live?channelId=232&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport 3 SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19748.ts
 
-#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTSNET ONTARIO 
-http://163.172.15.141:9732/live?channelId=233&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport 3 FHD2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19749.ts
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTSNET PACIFIC
-http://163.172.15.141:9732/live?channelId=234&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport 2HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19750.ts
 
-#EXTINF:-1 group_id=11 logo="http://kawarthacableinternet.ca/wp-content/uploads/2016/11/imgres-22.jpg,SPORTSNET WEST
-http://163.172.15.141:9732/live?channelId=235&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport 2 SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19751.ts
 
-#EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTSNET WORLD
-http://163.172.15.141:9732/live?channelId=236&deviceMac=00:1A:79:37:C2:FD&uid=4302
+#EXTINF:-1 group_id=11,UK: BT Sport 2 FHD2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19752.ts
 
-#EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTS NET WORLD HD b
-http://163.172.15.141:9732/live?channelId=228&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+#EXTINF:-1 group_id=11,UK: BT Sport 1 SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19753.ts
 
+#EXTINF:-1 group_id=11,UK: BT Sport 1 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19754.ts
+
+#EXTINF:-1 group_id=11,UK: BT Sport 1 FHD2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19755.ts
+
+#EXTINF:-1 group_id=11,UK: BT SPORT ESPN FHD2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19756.ts
+
+#EXTINF:-1 group_id=11,US: FS1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19937.ts
+
+#EXTINF:-1 group_id=11,US: SPORTSNET LA
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/20528.ts
+
+#EXTINF:-1 group_id=11,US: SPORTSNET NY
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/20529.ts
+
+#EXTINF:-1 group_id=11,VOO Sp0rt 1 BELGIUM
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/21272.ts
+
+#EXTINF:-1 group_id=11,US l NBCSN
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23632.ts
+
+#EXTINF:-1 group_id=11,US:  NFL Now
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23633.ts
+
+#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 6 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23804.ts
+
+#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 5 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23805.ts
+
+#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 4 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23806.ts
+
+#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 3 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23807.ts
+
+#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23808.ts
+
+#EXTINF:-1 group_id=11,US: ESPN COLLEGE EXTRA 1 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23809.ts
+
+#EXTINF:-1 group_id=11,NL: ELEVEN SPORTS 3
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25748.ts
+
+#EXTINF:-1 group_id=11,NL: ELEVEN SPORTS 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25749.ts
+
+#EXTINF:-1 group_id=11,NL: ELEVEN SPORTS 1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25750.ts
+
+#EXTINF:-1 group_id=11,CA: TSN 5 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48686.ts
+
+#EXTINF:-1 group_id=11,CA: TSN 5 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48687.ts
+
+#EXTINF:-1 group_id=11,CA: TSN 4 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48688.ts
+
+#EXTINF:-1 group_id=11,CA: TSN 4 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48689.ts
+
+#EXTINF:-1 group_id=11,CA: TSN 3 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48690.ts
+
+#EXTINF:-1 group_id=11,CA: TSN 3 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48691.ts
+
+#EXTINF:-1 group_id=11,CA: TSN 2 | HD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48692.ts
+
+#EXTINF:-1 group_id=11,CA: TSN 2 | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48693.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET WORLD | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48709.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET WEST | HD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48710.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET WEST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET PACIFIC | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48712.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET PACIFIC | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET ONTARIO | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48714.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET ONTARIO | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48715.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET ONE | HD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48716.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET ONE | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48717.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET EAST | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48718.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET EAST | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48719.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET 360 | UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48720.ts
+
+#EXTINF:-1 group_id=11,CA: SPORTSNET 360 | SD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48721.ts
+
+#EXTINF:-1 group_id=11,CA: NBA TV | HD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48737.ts
+
+#EXTINF:-1 group_id=11,CA: NBA TV | HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48738.ts
