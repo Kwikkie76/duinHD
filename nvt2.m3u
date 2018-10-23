@@ -136,10 +136,10 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 
 
-#EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1
+#EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1 a
 http://163.172.15.141:9732/live?channelId=237&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1
+#EXTINF:-1 group_id=11 logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png,FS1 b
 http://163.172.15.141:9732/live?channelId=237&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
 #EXTINF:-1 group_id=11 logo="http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png,FS2
@@ -176,46 +176,46 @@ http://163.172.15.141:9732/live?channelId=220&uid=3682&deviceMac=00:1A:79:F9:6F:
 #EXTINF:-1 group_id=11 logo="http://i63.tinypic.com/2e4izqg.png,TSN 5 HD
 http://163.172.15.141:9732/live?channelId=221&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTS NET 360 HD
+#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTS NET 360 HD a
 http://163.172.15.141:9732/live?channelId=222&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTS NET 360 HD
+#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTS NET 360 HD b
 http://163.172.15.141:9732/live?channelId=222&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=11 logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png,SPORTS NET EAST HD
+#EXTINF:-1 group_id=11 logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png,SPORTS NET EAST HD a
 http://163.172.15.141:9732/live?channelId=223&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png,SPORTS NET EAST HD
+#EXTINF:-1 group_id=11 logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png,SPORTS NET EAST HD b
 http://163.172.15.141:9732/live?channelId=223&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTS NET ONE HD
+#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTS NET ONE HD a
 http://163.172.15.141:9732/live?channelId=224&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTS NET ONE HD
+#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTS NET ONE HD b
 http://163.172.15.141:9732/live?channelId=224&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTS NET ONTARIO HD
+#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTS NET ONTARIO HD a
 http://163.172.15.141:9732/live?channelId=225&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTS NET ONTARIO HD
+#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTS NET ONTARIO HD b
 http://163.172.15.141:9732/live?channelId=225&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTS NET PACIFIC HD
+#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTS NET PACIFIC HD a
 http://163.172.15.141:9732/live?channelId=226&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTS NET PACIFIC HD
+#EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTS NET PACIFIC HD b
 http://163.172.15.141:9732/live?channelId=226&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=11 logo="http://kawarthacableinternet.ca/wp-content/uploads/2016/11/imgres-22.jpg,SPORTS NET WEST HD
+#EXTINF:-1 group_id=11 logo="http://kawarthacableinternet.ca/wp-content/uploads/2016/11/imgres-22.jpg,SPORTS NET WEST HD a
 http://163.172.15.141:9732/live?channelId=227&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://kawarthacableinternet.ca/wp-content/uploads/2016/11/imgres-22.jpg,SPORTS NET WEST HD
+#EXTINF:-1 group_id=11 logo="http://kawarthacableinternet.ca/wp-content/uploads/2016/11/imgres-22.jpg,SPORTS NET WEST HD b
 http://163.172.15.141:9732/live?channelId=227&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTS NET WORLD HD
+#EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTS NET WORLD HD a
 http://163.172.15.141:9732/live?channelId=228&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTSNET 360
+#EXTINF:-1 group_id=11 logo="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsE3IkLS26GcuRQoMBPLsDjoK3tEHjHhHPFpxezDEIx0jNKZm",SPORTSNET 360 c
 http://163.172.15.141:9732/live?channelId=229&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
 #EXTINF:-1 group_id=11 logo="http://allhabs.net/wp-content/uploads/2014/09/Sportsnet_east.png,SPORTSNET EAST
@@ -224,10 +224,10 @@ http://163.172.15.141:9732/live?channelId=230&deviceMac=00:1A:79:37:C2:FD&uid=43
 #EXTINF:-1 group_id=11 logo="http://cdn.tvpassport.com/image/station/240x135/sportsnetone.png,SPORTSNET ONE
 http://163.172.15.141:9732/live?channelId=231&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTSNET ONE HD
+#EXTINF:-1 group_id=11 logo="http://img4.wikia.nocookie.net/__cb20140410170629/logopedia/images/4/41/Snone-1-.png,SPORTSNET ONE HD c
 http://163.172.15.141:9732/live?channelId=232&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTSNET ONTARIO
+#EXTINF:-1 group_id=11 logo="http://i31.photobucket.com/albums/c365/GoldenLeaf74/Boardcast%20Logos/sportsnetontario.png,SPORTSNET ONTARIO 
 http://163.172.15.141:9732/live?channelId=233&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
 #EXTINF:-1 group_id=11 logo="http://vignette.wikia.nocookie.net/logopedia/images/d/d4/Sportsnet_pacific.png/revision/latest?cb=20120212023043",SPORTSNET PACIFIC
@@ -239,6 +239,6 @@ http://163.172.15.141:9732/live?channelId=235&deviceMac=00:1A:79:37:C2:FD&uid=43
 #EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTSNET WORLD
 http://163.172.15.141:9732/live?channelId=236&deviceMac=00:1A:79:37:C2:FD&uid=4302
 
-#EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTS NET WORLD HD
+#EXTINF:-1 group_id=11 logo="http://www.bubbarays.com/wp-content/uploads/2015/01/800px-Sportsnet_World_HD_logo.png,SPORTS NET WORLD HD b
 http://163.172.15.141:9732/live?channelId=228&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
