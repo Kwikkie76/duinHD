@@ -1,0 +1,551 @@
+#EXTM3U
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 Norderney 192 
+http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVMeppel.png,102 RTV Meppel (Dr)
+http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDordrecht.png,102 RTV Dordrecht (ZH)
+http://ms7.mx-cd.net/tv/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OpenRotterdam.png,102 OPEN Rotterdam (ZH)
+http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/AT5.png,102 AT5 (NH)
+http://ngx.cr6.streamzilla.xlcdn.com/session/35fe592209cae2b9edf640df87928396/sz/atvijf/wowza4/live/live.smil/chunklist_.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/SALTO1.png,102 Salto 1 (NH)
+http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
+
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 1
+http://cdn22d.streampartner.nl/podiumbv/podiumbv_1080p/chunklist_w1834726622.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 2
+http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
+http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 1
+http://hello1.somalia1.tk/vvv/s1s1/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 2
+http://hello3.somalia1.tk/vvv/s222/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 3
+http://hello2.somalia1.tk/vvv/s3/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 4
+http://hello1.somalia1.tk/vvv/s4/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 5
+http://hello3.somalia1.tk/live/s55/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 6
+http://173.249.17.149/vvv/s6s6/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 7
+http://hello1.somalia1.tk/vvv/s77/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 8
+http://hello2.somalia1.tk/vvv/s88/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 9
+http://hello4.somalia1.tk/vvv/s9/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 10
+http://hello4.somalia1.tk/vvv/s10/index.m3u8
+
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 11
+http://hello4.somalia1.tk/vvv/s11/index.m3u8
+
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/FLIX.png,301 &flix HD (IND)
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/PRIVE.png,301 &Prive HD (IND)
+http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA ACTION FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19554.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA COMEDY FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19551.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA DISNEY FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19548.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA DRAMA FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19544.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA FAMILY FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19542.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA GREATS FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19539.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA HITS FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19536.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA PREMIER FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19532.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY Cinema Premiere UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19500.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA SCIFI & HORROR FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19529.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA SELECT FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19526.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SLY CINEMA THRILLER FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19523.ts
+
+ #EXTINF:-1 group_id=3,301 US: HB0 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18352.ts
+
+ #EXTINF:-1 group_id=3,301 US: HB0 2 UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18358.ts
+
+ #EXTINF:-1 group_id=3,301 US: HB0 COMEDY HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18357.ts
+
+ #EXTINF:-1 group_id=3,301 US: HB0 FAMILY UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18356.ts
+
+ #EXTINF:-1 group_id=3,301 US: HB0 SIGNATURE UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18355.ts
+
+ #EXTINF:-1 group_id=3,301 US: HB0 ZONE UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18353.ts
+
+ #EXTINF:-1 group_id=3,301 UK: HB0 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19653.ts
+
+ #EXTINF:-1 group_id=3,301 UK: SYFY UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19503.ts
+
+ #EXTINF:-1 group_id=3,301 US: SYFY HD*
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18243.ts
+
+
+#EXTINF:-1 group_id=3,302 Life of the Party (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22155.mp4
+
+#EXTINF:-1 group_id=3,302 El Cuaderno de Sara (2018) Spanish
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22194.mp4
+
+#EXTINF:-1 group_id=3,302 Terminal (2018) - Sub Lat
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22486.mp4
+
+#EXTINF:-1 group_id=3,302 Daphne & Velma - Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22485.mp4
+
+#EXTINF:-1 group_id=3,302 Best Friend from Heaven (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22484.mp4
+
+#EXTINF:-1 group_id=3,302 Mary Magdalene (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/12478.mp4
+
+#EXTINF:-1 group_id=3,302 Deadpool 2 (2018)  Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22487.mp4
+
+#EXTINF:-1 group_id=3,302 Brimming with Love (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22488.mp4
+
+#EXTINF:-1 group_id=3,302 Red Sparrow (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22514.mp4
+
+#EXTINF:-1 group_id=3,302 Darc (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22512.mp4
+
+#EXTINF:-1 group_id=3,302 Early Man (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22513.mp4
+
+#EXTINF:-1 group_id=3,302 Anon (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22511.mp4
+
+#EXTINF:-1 group_id=3,302 Black Panther (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22505.mp4
+
+#EXTINF:-1 group_id=3,302 Lego DC Super Hero Girls: Super-Villain High (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22507.mp4
+
+#EXTINF:-1 group_id=3,302 Most Likely to Murder (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22510.mp4
+
+#EXTINF:-1 group_id=3,302 Samson (2018) lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22508.mp4
+
+#EXTINF:-1 group_id=3,302 The 15:17 to Paris (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22506.mp4
+
+#EXTINF:-1 group_id=3,302 Batman Ninja (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22502.mp4
+
+#EXTINF:-1 group_id=3,302 Braven (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22499.mp4
+
+#EXTINF:-1 group_id=3,302 Come Sunday (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22500.mp4
+
+#EXTINF:-1 group_id=3,302 Fifty Shades Freed (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22501.mp4
+
+#EXTINF:-1 group_id=3,302 Game Night (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22509.mp4
+
+#EXTINF:-1 group_id=3,302 Wildling (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22497.mp4
+
+#EXTINF:-1 group_id=3,302 Deep Blue Sea 2 (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22491.mp4
+
+#EXTINF:-1 group_id=3,302 Dude (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22495.mp4
+
+#EXTINF:-1 group_id=3,302 First Match (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22490.mp4
+
+#EXTINF:-1 group_id=3,302 Maze Runner: The Death Cure (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22489.mp4
+
+#EXTINF:-1 group_id=3,302 Peter Rabbit (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22492.mp4
+
+#EXTINF:-1 group_id=3,302 The Debt Collector (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22494.mp4
+
+#EXTINF:-1 group_id=3,302 Winchester (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22493.mp4
+
+#EXTINF:-1 group_id=3,302 The Week Of (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22504.mp4
+
+#EXTINF:-1 group_id=3,302 Not Cinderella's Type (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22496.mp4
+
+#EXTINF:-1 group_id=3,302 Overboard (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22521.mp4
+
+#EXTINF:-1 group_id=3,302 Guardians of the Galaxy Vol.2 (2017) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23607.mp4
+
+#EXTINF:-1 group_id=3,302 The Legend of Tarzan (2016) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23606.mp4
+
+#EXTINF:-1 group_id=3,302 The Martian (2015) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23608.mp4
+
+#EXTINF:-1 group_id=3,302 Logan (2017) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23609.mp4
+
+#EXTINF:-1 group_id=3,302 Alien Covenant (2017) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23615.mp4
+
+#EXTINF:-1 group_id=3,302 Fantastic Beasts And Where To Find Them Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23613.mp4
+
+#EXTINF:-1 group_id=3,302 Hacksaw Ridge (2016) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23612.mp4
+
+#EXTINF:-1 group_id=3,302 John Wick: Chapter 2 (2017) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23614.mp4
+
+#EXTINF:-1 group_id=3,302 Passengers (2016) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23611.mp4
+
+#EXTINF:-1 group_id=3,302 Power Rangers (2017) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23616.mp4
+
+#EXTINF:-1 group_id=3,302 The Huntsman: Winter's War Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23610.mp4
+
+#EXTINF:-1 group_id=3,302 The Miracle Season (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23643.mp4
+
+#EXTINF:-1 group_id=3,302 Billionaire Boys Club (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23646.mp4
+
+#EXTINF:-1 group_id=3,302 The Strangers Prey at Night (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23738.mp4
+
+#EXTINF:-1 group_id=3,302 Duck Duck Goose (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23739.mp4
+
+#EXTINF:-1 group_id=3,302 Tooth Fairy (2010)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23740.mp4
+
+#EXTINF:-1 group_id=3,302 Godzilla City On The Edge of Battle (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/23811.mp4
+
+#EXTINF:-1 group_id=3,302 The Rider (2017) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/24617.mp4
+
+#EXTINF:-1 group_id=3,302 Avengers: Infinity War (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/24615.mp4
+
+#EXTINF:-1 group_id=3,302 Tully (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/24616.mp4
+
+#EXTINF:-1 group_id=3,302 The Row (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/24618.mp4
+
+#EXTINF:-1 group_id=3,302 The Bleeding Edge (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/24619.mp4
+
+#EXTINF:-1 group_id=3,302 Batman: Gotham by Gaslight 2018
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/10061.mp4
+
+#EXTINF:-1 group_id=3,302 Children of the Corn: Runaway 2018
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/10050.mp4
+
+#EXTINF:-1 group_id=3,302 Curse of the Witch's Doll 2018
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/10046.mp4
+
+#EXTINF:-1 group_id=3,302 Day of the Dead: Bloodline 2018
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/10043.mp4
+
+#EXTINF:-1 group_id=3,302 A Futile and Stupid Gesture 2018
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/10065.mp4
+
+#EXTINF:-1 group_id=3,302 It (2017)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/22520.mp4
+
+#EXTINF:-1 group_id=3,302 Phoenix Forgotten 2017
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/10431.mp4
+
+#EXTINF:-1 group_id=3,302 The Watcher in the Woods 2017
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/10251.mp4
+
+#EXTINF:-1 group_id=3,302 Dawn of the Planet of the Apes (2014)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/8038.mp4
+
+#EXTINF:-1 group_id=3,302 Show Dogs (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/25888.mp4
+
+#EXTINF:-1 group_id=3,302 The Package (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/25887.mp4
+
+#EXTINF:-1 group_id=3,302 SLYscraper (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/25893.mp4
+
+#EXTINF:-1 group_id=3,302 The Meg (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/25895.mp4
+
+#EXTINF:-1 group_id=3,302 Show Dogs (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/26143.mp4
+
+#EXTINF:-1 group_id=3,302 Along Came the Devil (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/26145.mp4
+
+#EXTINF:-1 group_id=3,302 In the Fade (2017) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/26147.mp4
+
+#EXTINF:-1 group_id=3,302 The Meg (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/26205.mp4
+
+#EXTINF:-1 group_id=3,302 Running for Grace (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/26206.mp4
+
+#EXTINF:-1 group_id=3,302 Silicon Cowboys
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/16171.mp4
+
+#EXTINF:-1 group_id=3,302 Machine Gun Preacher
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/6897.mp4
+
+#EXTINF:-1 group_id=3,302 American Animals (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31894.mp4
+
+#EXTINF:-1 group_id=3,302 Ant-Man and the Wasp (2018)  Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31901.mp4
+
+#EXTINF:-1 group_id=3,302 Book Club (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31898.mp4
+
+#EXTINF:-1 group_id=3,302 Do You Trust this Computer? (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31899.mp4
+
+#EXTINF:-1 group_id=3,302 Ocean's 8 (2018)  Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31893.mp4
+
+#EXTINF:-1 group_id=3,302 SuperFly (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31900.mp4
+
+#EXTINF:-1 group_id=3,302 The Little Mermaid (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31902.mp4
+
+#EXTINF:-1 group_id=3,302 To All the Boys I've Loved Before (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31896.mp4
+
+#EXTINF:-1 group_id=3,302 Upgrade (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31897.mp4
+
+#EXTINF:-1 group_id=3,302 What Still Remains (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31895.mp4
+
+#EXTINF:-1 group_id=3,302 Uncle Drew (2018) Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/31975.mp4
+
+#EXTINF:-1 group_id=3,302 Mission Impossible Fallout (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/45448.mp4
+
+#EXTINF:-1 group_id=3,302 Solo: A Star Wars Story (2018) Lat/Eng
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/45447.mp4
+
+#EXTINF:-1 group_id=3,302 Hotel Transylvania 3: Summer Vacation (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/45619.mp4
+
+#EXTINF:-1 group_id=3,302 The Predator (2018)
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/45620.mp4
+
+
+
+#EXTINF:-1 group_id=4, 401 UK: Premier Sp0rts FHD 1080
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19579.ts
+
+#EXTINF:-1 group_id=4, 401 UK: SLY Sp0rts PREMIER LEAGUE HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19463.ts
+
+#EXTINF:-1 group_id=4, 401 UK: SLY Sp0rts News FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19466.ts
+
+#EXTINF:-1 group_id=4, 401 UK: SLY Sp0rts Mix FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19473.ts
+
+#EXTINF:-1 group_id=4, 401 UK: SLY Sp0rts MAIN EVENT HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19470.ts
+
+#EXTINF:-1 group_id=4, 401 UK: SLY Sp0rts FOOTBALL FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19479.ts
+
+#EXTINF:-1 group_id=4, 401 UK: SLY Sp0rts FHD ACTION
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19497.ts
+
+#EXTINF:-1 group_id=4, 401 UK: SLY Sp0rts ARENA FHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19494.ts
+
+#EXTINF:-1 group_id=4, 401 UK: SLY Sp0rt F1 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19482.ts
+
+
+#EXTINF:-1 group_id=4, 401 UK: BT Sp0rts 1 UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45685.ts
+
+#EXTINF:-1 group_id=4, 401 UK: BT Sp0rts 2 UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45683.ts
+
+#EXTINF:-1 group_id=4, 401 UK: BT Sp0rts 3 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45682.ts
+
+#EXTINF:-1 group_id=4, 401 UK: BT Sp0rts 3 UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45681.ts
+
+#EXTINF:-1 group_id=4, 401 UK: BT Sp0rts EPSN UHD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/45680.ts
+
+
+#EXTINF:-1 group_id=4, 401 UK: Eleven Sp0rts 1 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25750.ts
+
+#EXTINF:-1 group_id=4, 401 UK: Eleven Sp0rts 2 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/26201.ts
+
+#EXTINF:-1 group_id=4, 401 UK: Eleven Sp0rts La liga HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/26200.ts
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 UK: Flow Sp0rts
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+
+
+#EXTINF:-1 group_id=6,601 US: NBA TV HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18305.ts
+
+#EXTINF:-1 group_id=6,601 US: NHL Netw0rk HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18986.ts
+
+#EXTINF:-1 group_id=6,601 US: ESPN HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18409.ts
+
+#EXTINF:-1 group_id=6,601 US: ESPN 2 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18416.ts
+
+#EXTINF:-1 group_id=6,601 US: ESPN 3 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18414.ts
+
+#EXTINF:-1 group_id=6,601 US: ESPN U HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18410.ts
+
+#EXTINF:-1 group_id=6,601 US: ESPN Deportes HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18412.ts
+
+#EXTINF:-1 group_id=6,601 US: ESPN News US HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18411.ts
+
+#EXTINF:-1 group_id=6,601 US: Fox Sp0rts 1 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18391.ts
+
+#EXTINF:-1 group_id=6,601 US: Fox Sp0rts 2 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18390.ts
+
+#EXTINF:-1 group_id=6,601 US: TSN HD 5
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48687.ts
+
+#EXTINF:-1 group_id=6,601 US: TSN HD 4
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48689.ts
+
+#EXTINF:-1 group_id=6,601 US: TSN HD 3
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48691.ts
+
+#EXTINF:-1 group_id=6,601 US: TSN HD 2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48692.ts
+
+#EXTINF:-1 group_id=6,601 US: TSN HD 1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48694.ts
+
+#EXTINF:-1 group_id=6,601 US: Big Ten Netw0rk HD 
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18481.ts
+
+#EXTINF:-1 group_id=6,601 US: NBCSN HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18297.ts
+
+#EXTINF:-1 group_id=6,601 US: CBS Sp0rts Netw0rk HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18465.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtSNET 360 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48720.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtSNET EAST HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48718.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtSNET ONE HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48717.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtSNET ONTARIO HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48715.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtSNET PACIFIC HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtSNET WORLD HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48709.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtsnet West HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtSNET NY
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/20529.ts
+
+#EXTINF:-1 group_id=6,601 US: Sp0rtSNET LA
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/20528.ts
+
+#EXTINF:-1 group_id=6,601 US: Bein Sp0rts USA HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18488.ts
+
+#EXTINF:-1 group_id=6,601 US: NESN HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18296.ts
+
