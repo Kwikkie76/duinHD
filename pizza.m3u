@@ -391,3 +391,5 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23805.ts
 #EXTINF:-1 group_id=11,1101 US: ESPN COLLEGE EXTRA 6 | HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/23804.ts
 
+#EXTINF:-1 group_id=12,1201 TEST
+http://vivid.ddns.net:25461/movie/thePr0vider/USAcanUkCha/6906.mp4
