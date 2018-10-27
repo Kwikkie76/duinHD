@@ -37,7 +37,7 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25749.ts
 #EXTINF:-1 group_id=2,201 NL: ELEVEN SPORTS 3
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25748.ts
 
-#EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Voetbal 
+#EXTINF:-1 group_id=2,201 NL| Z1gg0 Sp0rt Voetbal
 http://54.39.53.138:25461/live/dimobln/Test123/47111.ts
 
 #EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Extra1
@@ -58,10 +58,7 @@ http://54.39.53.138:25461/live/dimobln/Test123/47101.ts
 #EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Select s2
 http://54.39.53.138:25461/live/dimobln/Test123/47100.ts
 
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 1 s1
-http://54.39.53.138:25461/live/dimobln/Test123/47146.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 1 s2
+#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 1 
 http://54.39.53.138:25461/live/dimobln/Test123/47248.ts
 
 #EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 2
