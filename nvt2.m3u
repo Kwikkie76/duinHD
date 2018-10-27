@@ -28,6 +28,75 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
 
+#EXTINF:-1 group_id=2,201 NL|Sp0rt 1 Voetbal NL
+http://54.39.53.138:25461/live/dimobln/Test123/47111.ts
+
+#EXTINF:-1 group_id=2,201 NL|Ziggo Sp0rt Extra1 NL
+http://54.39.53.138:25461/live/dimobln/Test123/47105.ts
+
+#EXTINF:-1 group_id=2,201 NL|Ziggo Sp0rt Extra2 NL
+http://54.39.53.138:25461/live/dimobln/Test123/47104.ts
+
+#EXTINF:-1 group_id=2,201 NL|Ziggo Sp0rt Golf NL
+http://54.39.53.138:25461/live/dimobln/Test123/47103.ts
+
+#EXTINF:-1 group_id=2,201 NL|Ziggo Sp0rt Racing NL
+http://54.39.53.138:25461/live/dimobln/Test123/47102.ts
+
+#EXTINF:-1 group_id=2,201 NL|Ziggo Sp0rt Select FHD FHD NL
+http://54.39.53.138:25461/live/dimobln/Test123/47101.ts
+
+#EXTINF:-1 group_id=2,201 NL|Ziggo Sp0rt Select NL
+http://54.39.53.138:25461/live/dimobln/Test123/47100.ts
+
+#EXTINF:-1 group_id=2,201 NL|FOX 3p0rt1 1 FHD FHD NL
+http://54.39.53.138:25461/live/dimobln/Test123/47146.ts
+
+#EXTINF:-1 group_id=2,201 NL|Fox 3p0rt1 5 ( FHDP ) NL
+http://54.39.53.138:25461/live/dimobln/Test123/47145.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX SPORT 1 HD EREDIVISIE
+http://54.39.53.138:25461/live/dimobln/Test123/47260.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX Sports 1 FHD
+http://54.39.53.138:25461/live/dimobln/Test123/47259.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX Sports 2 HD
+http://54.39.53.138:25461/live/dimobln/Test123/47258.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX SPORTS 2 INTERNATIONAL
+http://54.39.53.138:25461/live/dimobln/Test123/47257.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX SPORTS 3 EREDIVISIE
+http://54.39.53.138:25461/live/dimobln/Test123/47256.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX Sports 3 HD
+http://54.39.53.138:25461/live/dimobln/Test123/47255.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX Sports 4 HD
+http://54.39.53.138:25461/live/dimobln/Test123/47254.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX SPORTS 4 INT
+http://54.39.53.138:25461/live/dimobln/Test123/47253.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX SPORTS 5 EREDIVISIE HD
+http://54.39.53.138:25461/live/dimobln/Test123/47252.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX Sports 5 HD
+http://54.39.53.138:25461/live/dimobln/Test123/47251.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX SPORTS 6 HD
+http://54.39.53.138:25461/live/dimobln/Test123/47250.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX SPORTS 6 INTERNATIONAL
+http://54.39.53.138:25461/live/dimobln/Test123/47249.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX Sports EDL 1 HD
+http://54.39.53.138:25461/live/dimobln/Test123/47248.ts
+
+#EXTINF:-1 group_id=2,201 NL| FOX Sports EDL 3
+http://54.39.53.138:25461/live/dimobln/Test123/47247.ts
+
 #EXTINF:-1 group_id=2,201 NL: ELEVEN SPORTS 1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25750.ts
 
