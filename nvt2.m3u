@@ -28,61 +28,6 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
 
-#EXTINF:-1 group_id=2,201 NL| Z1gg0 Sp0rt Voetbal 
-http://54.39.53.138:25461/live/dimobln/Test123/47111.ts
-
-#EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Extra1
-http://54.39.53.138:25461/live/dimobln/Test123/47105.ts
-
-#EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Extra2
-http://54.39.53.138:25461/live/dimobln/Test123/47104.ts
-
-#EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Golf
-http://54.39.53.138:25461/live/dimobln/Test123/47103.ts
-
-#EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Racing
-http://54.39.53.138:25461/live/dimobln/Test123/47102.ts
-
-#EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Select s1
-http://54.39.53.138:25461/live/dimobln/Test123/47101.ts
-
-#EXTINF:-1 group_id=2,201 NL| Z1GG0 Sp0rt Select s2
-http://54.39.53.138:25461/live/dimobln/Test123/47100.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 1 s1
-http://54.39.53.138:25461/live/dimobln/Test123/47146.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 1 s2
-http://54.39.53.138:25461/live/dimobln/Test123/47248.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 2
-http://54.39.53.138:25461/live/dimobln/Test123/47257.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 3 s1
-http://54.39.53.138:25461/live/dimobln/Test123/47256.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 3 s2
-http://54.39.53.138:25461/live/dimobln/Test123/47255.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 3 s3
-http://54.39.53.138:25461/live/dimobln/Test123/47247.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 4
-http://54.39.53.138:25461/live/dimobln/Test123/47253.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X Sp0rts 5 s1
-http://54.39.53.138:25461/live/dimobln/Test123/47145.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 5 s2
-http://54.39.53.138:25461/live/dimobln/Test123/47252.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 5 s3
-http://54.39.53.138:25461/live/dimobln/Test123/47251.ts
-
-#EXTINF:-1 group_id=2,201 NL| F0X SP0RTS 6
-http://54.39.53.138:25461/live/dimobln/Test123/47249.ts
-
-
 #EXTINF:-1 group_id=2,201 NL: ELEVEN SPORTS 1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25750.ts
 
