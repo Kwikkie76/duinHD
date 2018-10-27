@@ -200,8 +200,7 @@ http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group_id=3,SYFY
 http://23.237.22.82:8086/udp/127.0.0.1:56063
-  
-  
+
 #EXTINF:-1 group_id=4, 401 UK: Premier Sp0rts HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/19578.ts
 
