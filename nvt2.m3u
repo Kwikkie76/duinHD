@@ -58,23 +58,14 @@ http://54.39.53.138:25461/live/dimobln/Test123/47101.ts
 #EXTINF:-1 group_id=2,201 Z1GG0 Sp0rt Select s2
 http://54.39.53.138:25461/live/dimobln/Test123/47100.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 1 S1
+#EXTINF:-1 group_id=2,201 F0X SP0RTS 1 11
 http://54.39.53.138:25461/live/dimobln/Test123/47248.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s2
 http://54.39.53.138:25461/live/dimobln/Test123/47260.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s3
-http://54.39.53.138:25461/live/dimobln/Test123/47259.ts
-
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s4
-http://54.39.53.138:25461/live/dimobln/Test123/47146.ts
-
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 2 s1
+#EXTINF:-1 group_id=2,201 F0X SP0RTS 2
 http://54.39.53.138:25461/live/dimobln/Test123/47257.ts
-
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 2 s2
-http://54.39.53.138:25461/live/dimobln/Test123/47258.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 3 s1
 http://54.39.53.138:25461/live/dimobln/Test123/47256.ts
@@ -85,11 +76,8 @@ http://54.39.53.138:25461/live/dimobln/Test123/47255.ts
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 3 s3
 http://54.39.53.138:25461/live/dimobln/Test123/47247.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 4 s1
+#EXTINF:-1 group_id=2,201 F0X SP0RTS 4
 http://54.39.53.138:25461/live/dimobln/Test123/47253.ts
-
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 4 s2
-http://54.39.53.138:25461/live/dimobln/Test123/47254.ts
 
 #EXTINF:-1 group_id=2,201 F0X Sp0rts 5 s1
 http://54.39.53.138:25461/live/dimobln/Test123/47145.ts
