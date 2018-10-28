@@ -58,7 +58,7 @@ http://54.39.53.138:25461/live/dimobln/Test123/47101.ts
 #EXTINF:-1 group_id=2,201 Z1GG0 Sp0rt Select s2
 http://54.39.53.138:25461/live/dimobln/Test123/47100.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 1 11
+#EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s1
 http://54.39.53.138:25461/live/dimobln/Test123/47248.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s2
