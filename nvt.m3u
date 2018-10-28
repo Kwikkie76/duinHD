@@ -126,7 +126,7 @@ http://82.46.138.46:5555/play/a00h/index.m3u8
 
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 1
-http://hello1.somalia1.tk/vvv/s1s1/index.m3u8
+http://hello1.somalia1.tk/vvv/s1/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 2
 http://hello3.somalia1.tk/vvv/s222/index.m3u8
@@ -144,10 +144,10 @@ http://hello3.somalia1.tk/live/s55/index.m3u8
 http://173.249.17.149/vvv/s6s6/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 7
-http://hello1.somalia1.tk/vvv/s77/index.m3u8
+http://hello1.somalia1.tk/vvv/s7/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 8
-http://hello2.somalia1.tk/vvv/s88/index.m3u8
+http://hello2.somalia1.tk/vvv/s888/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 9
 http://hello4.somalia1.tk/vvv/s9/index.m3u8
