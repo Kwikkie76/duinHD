@@ -133,57 +133,6 @@ http://54.39.53.138:25461/live/dimobln/Test123/47243.ts
 #EXTINF:-1 group_id=3,301 NL| HB0 3 HD
 http://54.39.53.138:25461/live/dimobln/Test123/47242.ts
 
-#EXTINF:-1 group_id=3,301 NL| HB0 1 HD
-http://54.39.53.138:25461/live/dimobln/Test123/47241.ts
-
-#EXTINF:-1 group_id=3,301 NL| HB0 3 NL
-http://54.39.53.138:25461/live/dimobln/Test123/47143.ts
-
-#EXTINF:-1 group_id=3,301 NL| HB0 1 NL
-http://54.39.53.138:25461/live/dimobln/Test123/47142.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM 1 Comedy and Kids
-http://54.39.53.138:25461/live/dimobln/Test123/47277.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM Action
-http://54.39.53.138:25461/live/dimobln/Test123/47276.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM Comedy
-http://54.39.53.138:25461/live/dimobln/Test123/47275.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM Family
-http://54.39.53.138:25461/live/dimobln/Test123/47274.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM PREMIERE
-http://54.39.53.138:25461/live/dimobln/Test123/47273.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM SUNDANCE
-http://54.39.53.138:25461/live/dimobln/Test123/47272.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Action HD
-http://54.39.53.138:25461/live/dimobln/Test123/47271.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Comedy
-http://54.39.53.138:25461/live/dimobln/Test123/47270.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Comedy & Kids
-http://54.39.53.138:25461/live/dimobln/Test123/47269.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 PREMIER
-http://54.39.53.138:25461/live/dimobln/Test123/47268.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Premiere HD
-http://54.39.53.138:25461/live/dimobln/Test123/47267.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Premium HD
-http://54.39.53.138:25461/live/dimobln/Test123/47266.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Spotlight
-http://54.39.53.138:25461/live/dimobln/Test123/47265.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Sundance
-http://54.39.53.138:25461/live/dimobln/Test123/47264.ts
-
 #EXTINF:-1 group_id=3,301 NL| F1LM1 Action NL
 http://54.39.53.138:25461/live/dimobln/Test123/47153.ts
 
