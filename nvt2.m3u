@@ -59,16 +59,16 @@ http://54.39.53.138:25461/live/dimobln/Test123/47101.ts
 http://54.39.53.138:25461/live/dimobln/Test123/47100.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s1
-http://54.39.53.138:25461/live/dimobln/Test123/47248.ts
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1038.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s2
 http://54.39.53.138:25461/live/dimobln/Test123/47260.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 2
-http://54.39.53.138:25461/live/dimobln/Test123/47257.ts
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1037.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 3 s1
-http://54.39.53.138:25461/live/dimobln/Test123/47256.ts
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1037.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 3 s2
 http://54.39.53.138:25461/live/dimobln/Test123/47255.ts
@@ -77,10 +77,10 @@ http://54.39.53.138:25461/live/dimobln/Test123/47255.ts
 http://54.39.53.138:25461/live/dimobln/Test123/47247.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 4
-http://54.39.53.138:25461/live/dimobln/Test123/47253.ts
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1035.ts
 
 #EXTINF:-1 group_id=2,201 F0X Sp0rts 5 s1
-http://54.39.53.138:25461/live/dimobln/Test123/47145.ts
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1040.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 5 s2
 http://54.39.53.138:25461/live/dimobln/Test123/47252.ts
@@ -89,7 +89,7 @@ http://54.39.53.138:25461/live/dimobln/Test123/47252.ts
 http://54.39.53.138:25461/live/dimobln/Test123/47251.ts
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 6
-http://54.39.53.138:25461/live/dimobln/Test123/47249.ts
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1039.ts
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 1
 http://hello1.somalia1.tk/vvv/s1/index.m3u8
