@@ -157,35 +157,6 @@ http://hello4.somalia1.tk/vvv/s10/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 11
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
 
-#EXTINF:-1 group_id=3,301 NL| HB0 1 HD
-http://54.39.53.138:25461/live/dimobln/Test123/47244.ts
-
-#EXTINF:-1 group_id=3,301 NL| HB0 2 HD
-http://54.39.53.138:25461/live/dimobln/Test123/47243.ts
-
-#EXTINF:-1 group_id=3,301 NL| HB0 3 HD
-http://54.39.53.138:25461/live/dimobln/Test123/47242.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Action NL
-http://54.39.53.138:25461/live/dimobln/Test123/47153.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Comedy & Kids NL
-http://54.39.53.138:25461/live/dimobln/Test123/47152.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Drama NL
-http://54.39.53.138:25461/live/dimobln/Test123/47151.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Family NL
-http://54.39.53.138:25461/live/dimobln/Test123/47150.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Premiere FHD FHD NL
-http://54.39.53.138:25461/live/dimobln/Test123/47149.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Premiere NL
-http://54.39.53.138:25461/live/dimobln/Test123/47148.ts
-
-#EXTINF:-1 group_id=3,301 NL| F1LM1 Spotlight NL
-http://54.39.53.138:25461/live/dimobln/Test123/47147.ts
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FLIX.png,302 IND: &flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
