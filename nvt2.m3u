@@ -37,59 +37,92 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25749.ts
 #EXTINF:-1 group_id=2,201 ELEVEN SPORTS 3
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/25748.ts
 
-#EXTINF:-1 group_id=2,201 Z1gg0 Sp0rt Voetbal
-http://54.39.53.138:25461/live/dimobln/Test123/47111.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Voetbal
+http://194.88.107.101:6204/live/ali03/ali03/9517.ts
 
-#EXTINF:-1 group_id=2,201 Z1GG0 Sp0rt Extra1
-http://54.39.53.138:25461/live/dimobln/Test123/47105.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Select HD
+http://194.88.107.101:6204/live/ali03/ali03/9518.ts
 
-#EXTINF:-1 group_id=2,201 Z1GG0 Sp0rt Extra2
-http://54.39.53.138:25461/live/dimobln/Test123/47104.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Golf
+http://194.88.107.101:6204/live/ali03/ali03/9520.ts
 
-#EXTINF:-1 group_id=2,201 Z1GG0 Sp0rt Golf
-http://54.39.53.138:25461/live/dimobln/Test123/47103.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Extra 1
+http://194.88.107.101:6204/live/ali03/ali03/9522.ts
 
-#EXTINF:-1 group_id=2,201 Z1GG0 Sp0rt Racing
-http://54.39.53.138:25461/live/dimobln/Test123/47102.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Extra 2
+http://194.88.107.101:6204/live/ali03/ali03/9521.ts
 
-#EXTINF:-1 group_id=2,201 Z1GG0 Sp0rt Select s1
-http://54.39.53.138:25461/live/dimobln/Test123/47101.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Racing
+http://194.88.107.101:6204/live/ali03/ali03/9519.ts
 
-#EXTINF:-1 group_id=2,201 Z1GG0 Sp0rt Select s2
-http://54.39.53.138:25461/live/dimobln/Test123/47100.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Voetbal Backup
+http://194.88.107.101:6204/live/ali03/ali03/11192.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s1
-http://217.23.7.160:5475/live/iptv2016/5622295666745/1038.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Select HD Backup
+http://194.88.107.101:6204/live/ali03/ali03/11193.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 1 s2
-http://54.39.53.138:25461/live/dimobln/Test123/47260.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Golf Backup
+http://194.88.107.101:6204/live/ali03/ali03/11194.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 2
-http://217.23.7.160:5475/live/iptv2016/5622295666745/1037.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Extra 1 Backup
+http://194.88.107.101:6204/live/ali03/ali03/11196.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 3 s1
-http://217.23.7.160:5475/live/iptv2016/5622295666745/1037.ts
+#EXTINF:-1 group_id=2,201Z1GG0 SP0RT Extra 2 Backup
+http://194.88.107.101:6204/live/ali03/ali03/11195.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 3 s2
-http://54.39.53.138:25461/live/dimobln/Test123/47255.ts
+#EXTINF:-1 group_id=2,201F0X SP0RT 1 HD
+http://194.88.107.101:6204/live/ali03/ali03/9561.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 3 s3
-http://54.39.53.138:25461/live/dimobln/Test123/47247.ts
+#EXTINF:-1 group_id=2,201F0X SP0RT 2 HD
+http://194.88.107.101:6204/live/ali03/ali03/9560.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 4
-http://217.23.7.160:5475/live/iptv2016/5622295666745/1035.ts
+#EXTINF:-1 group_id=2,201F0X SP0RT 3 HD
+http://194.88.107.101:6204/live/ali03/ali03/9559.ts
 
-#EXTINF:-1 group_id=2,201 F0X Sp0rts 5 s1
-http://217.23.7.160:5475/live/iptv2016/5622295666745/1040.ts
+#EXTINF:-1 group_id=2,201F0X SP0RT 4 HD
+http://194.88.107.101:6204/live/ali03/ali03/9558.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 5 s2
-http://54.39.53.138:25461/live/dimobln/Test123/47252.ts
+#EXTINF:-1 group_id=2,201F0X SP0RT 5 HD
+http://194.88.107.101:6204/live/ali03/ali03/9557.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 5 s3
-http://54.39.53.138:25461/live/dimobln/Test123/47251.ts
+#EXTINF:-1 group_id=2,201F0X SP0RT 6 HD
+http://194.88.107.101:6204/live/ali03/ali03/9556.ts
 
-#EXTINF:-1 group_id=2,201 F0X SP0RTS 6
-http://217.23.7.160:5475/live/iptv2016/5622295666745/1039.ts
+#EXTINF:-1 group_id=2,201F0X SP0RT 1 HD backup
+http://194.88.107.101:6204/live/ali03/ali03/11202.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RT 2 HD backup
+http://194.88.107.101:6204/live/ali03/ali03/11201.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RT 3 HD backup
+http://194.88.107.101:6204/live/ali03/ali03/11200.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RT 4 HD backup
+http://194.88.107.101:6204/live/ali03/ali03/11199.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RT 5 HD backup
+http://194.88.107.101:6204/live/ali03/ali03/11198.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RT 6 HD backup
+http://194.88.107.101:6204/live/ali03/ali03/11197.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RTs 1 HD Backup2
+http://194.88.107.101:6204/live/ali03/ali03/13549.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RTs 2 HD Backup2
+http://194.88.107.101:6204/live/ali03/ali03/13548.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RTs 3 HD Backup2
+http://194.88.107.101:6204/live/ali03/ali03/13547.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RTs 4 HD Backup2
+http://194.88.107.101:6204/live/ali03/ali03/13546.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RTs 5 HD Backup2
+http://194.88.107.101:6204/live/ali03/ali03/13545.ts
+
+#EXTINF:-1 group_id=2,201F0X SP0RTs 6 HD Backup2
+http://194.88.107.101:6204/live/ali03/ali03/13544.ts
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 1
 http://hello1.somalia1.tk/vvv/s1/index.m3u8
