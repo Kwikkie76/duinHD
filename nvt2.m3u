@@ -70,7 +70,8 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/PRIVE.png,302 IND: &Prive HD
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-
+#EXTINF:-1 group_id=3,302 US: HB0 1 HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/44296.ts
 
 #EXTINF:-1 group_id=3,302 US: HB0 2 HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18358.ts
@@ -132,3 +133,5 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
 #EXTINF:-1 group_id=6,601 US: Sp0rtsnet West HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
 
+#EXTINF:-1 group_id=6,601 US: Sp0rtsnet World HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48709.ts
