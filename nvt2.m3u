@@ -133,7 +133,7 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16539
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16625
 
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK HD
+#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK 
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/foxs.png,601 F0X SP0RTS 1
@@ -142,13 +142,22 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/foxs.png,601 F0X SP0RTS 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
+#EXTINF:-1 group_id=6,601 EPSN 1
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99577
+
+#EXTINF:-1group_id=6,601 EPSN 2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99547
+
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/NBATV.png,601 NB@ TV
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11611
+
+#EXTINF:-1 group_id=6,601 NHL NETW0RK
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99270
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/NBCSN.png,601 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1group_id=6,601 Tennis Channel HD
+#EXTINF:-1 group_id=6,601 Tennis Channel HD
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99506
 
 #EXTINF:-1 group_id=6,601 TSN HD 5
@@ -183,3 +192,67 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
 
 #EXTINF:-1 group_id=6,601 Sp0rtsnet West HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
+
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99291
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 1 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99290
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 10 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99289
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 14 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99288
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 15 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99287
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 2 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99286
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 3 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99285
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 4 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99284
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 5 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99283
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 6 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99282
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 7 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99281
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 8 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99280
+
+#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 9 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99279
+
+#EXTINF:-1 group_id=11,1101 NHL 774
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99278
+
+#EXTINF:-1 group_id=11,1101 NHL 775
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99277
+
+#EXTINF:-1 group_id=11,1101 NHL 776
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99276
+
+#EXTINF:-1 group_id=11,1101 NHL 777
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99275
+
+#EXTINF:-1 group_id=11,1101 NHL 778
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99274
+
+#EXTINF:-1 group_id=11,1101 NHL 779
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99273
+
+#EXTINF:-1 group_id=11,1101 NHL 780
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99272
+
+#EXTINF:-1 group_id=11,1101 NHL 781
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99271
