@@ -30,91 +30,91 @@ http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.
 
 
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 1
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 1
 http://hello1.somalia1.tk/vvv/s1/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 2
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 2
 http://hello3.somalia1.tk/vvv/s222/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 3
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 3
 http://hello2.somalia1.tk/vvv/s3/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 4
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 4
 http://hello1.somalia1.tk/vvv/s4/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 5
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 5
 http://hello3.somalia1.tk/live/s55/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 6
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 6
 http://173.249.17.149/vvv/s6s6/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 7
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 7
 http://hello1.somalia1.tk/vvv/s7/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 8
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 8
 http://hello2.somalia1.tk/vvv/s888/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 9
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 9
 http://hello4.somalia1.tk/vvv/s9/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 10
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 10
 http://hello4.somalia1.tk/vvv/s10/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 11
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 11
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
 
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/FLIX.png,302 IND: &flix HD
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/FLIX.png,302 &flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/PRIVE.png,302 IND: &Prive HD
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/PRIVE.png,302 &Prive HD
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 group_id=3,302 US: HB0 1 HD
+#EXTINF:-1 group_id=3,302 HB0 1 HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/44296.ts
 
-#EXTINF:-1 group_id=3,302 US: HB0 2 HD
+#EXTINF:-1 group_id=3,302 HB0 2 HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18358.ts
 
-#EXTINF:-1 group_id=3,302 US: HB0 COMEDY HD
+#EXTINF:-1 group_id=3,302 HB0 COMEDY HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18357.ts
 
-#EXTINF:-1 group_id=3,302 US: HB0 FAMILY HD
+#EXTINF:-1 group_id=3,302 HB0 FAMILY HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18356.ts
 
-#EXTINF:-1 group_id=3,302 US: HB0 SIGNATURE HD
+#EXTINF:-1 group_id=3,302 HB0 SIGNATURE HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18355.ts
 
-#EXTINF:-1 group_id=3,302 US: HB0 ZONE HD
+#EXTINF:-1 group_id=3,302 HB0 ZONE HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18353.ts
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/zee.png,302 Zee Cafe (IND)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/zee.png,302 Zee Cafe 
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,303 S0ny M0vie Channel (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,303 S0ny M0vie Channel
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=3,302 UK: SYFY
+#EXTINF:-1 group_id=3,302 SYFY
 http://23.237.22.82:8086/udp/127.0.0.1:56063
 
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA PREMIERE (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA PREMIERE 
 http://82.46.138.46:5555/play/a00p/index.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Disney (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Disney 
 http://82.46.138.46:5555/play/a00b/index.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA ACTION (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA ACTION 
 http://82.46.138.46:5555/play/a00a/index.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Comedy (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Comedy 
 http://82.46.138.46:5555/play/a00c/index.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Thriller (UK)
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Thriller 
 http://82.46.138.46:5555/play/a00h/index.m3u8
 
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 UK: Fl0w Sp0rts
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 group_id=4,401 BT Sp0rt 1 HD
@@ -133,7 +133,7 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16539
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16625
 
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 US: MLB NETW0RK HD
+#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK HD
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/foxs.png,601 F0X SP0RTS 1
@@ -148,38 +148,38 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11611
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/NBCSN.png,601 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
-#EXTINF:-1,US: Tennis Channel HD
+#EXTINF:-1group_id=6,601 Tennis Channel HD
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99506
 
-#EXTINF:-1 group_id=6,601 US: TSN HD 5
+#EXTINF:-1 group_id=6,601 TSN HD 5
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48687.ts
 
-#EXTINF:-1 group_id=6,601 US: TSN HD 4
+#EXTINF:-1 group_id=6,601 TSN HD 4
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48689.ts
 
-#EXTINF:-1 group_id=6,601 US: TSN HD 3
+#EXTINF:-1 group_id=6,601 TSN HD 3
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48691.ts
 
-#EXTINF:-1 group_id=6,601 US: TSN HD 2
+#EXTINF:-1 group_id=6,601 TSN HD 2
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48692.ts
 
-#EXTINF:-1 group_id=6,601 US: TSN HD 1
+#EXTINF:-1 group_id=6,601 TSN HD 1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48694.ts
 
-#EXTINF:-1 group_id=6,601 US: Sp0rtSNET 360 HD
+#EXTINF:-1 group_id=6,601 Sp0rtSNET 360 HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48720.ts
 
-#EXTINF:-1 group_id=6,601 US: Sp0rtSNET EAST HD
+#EXTINF:-1 group_id=6,601 Sp0rtSNET EAST HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48719.ts
 
-#EXTINF:-1 group_id=6,601 US: Sp0rtSNET ONE HD
+#EXTINF:-1 group_id=6,601 Sp0rtSNET ONE HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48717.ts
 
-#EXTINF:-1 group_id=6,601 US: Sp0rtSNET ONTARIO HD
+#EXTINF:-1 group_id=6,601 Sp0rtSNET ONTARIO HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48715.ts
 
-#EXTINF:-1 group_id=6,601 US: Sp0rtSNET PACIFIC HD
+#EXTINF:-1 group_id=6,601 Sp0rtSNET PACIFIC HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
 
-#EXTINF:-1 group_id=6,601 US: Sp0rtsnet West HD
+#EXTINF:-1 group_id=6,601 Sp0rtsnet West HD
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
