@@ -171,6 +171,10 @@ http://23.237.22.82:8086/udp/127.0.0.1:56016
 #EXTINF:-1 group_id=6,601 Tennis Channel HD
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99506
 
+
+#EXTINF:-1 group_id=6,602 TSN HD 5
+http://unlockyourtv.com:8000/live/Luis/Luis/115.ts
+
 #EXTINF:-1 group_id=6,601 TSN HD 5
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48687.ts
 
