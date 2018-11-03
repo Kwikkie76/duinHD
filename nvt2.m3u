@@ -3,6 +3,12 @@
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 Norderney 192 
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDrenthe.png,101 RTV Drenthe
+http://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVRijnmond.png,101 RTV Rijnmond
+http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
+
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVMeppel.png,102 RTV Meppel (Dr)
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
 
