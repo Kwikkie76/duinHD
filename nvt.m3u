@@ -25,7 +25,7 @@ http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&ou
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepFlevoland.png,009 Omroep Flevoland
-http://lb-omroepflevoland-live.cdn.streamgate.nl/omroepflevoland/livestream1.mp4/playlist.m3u8
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/780fb887-8647-42a4-bab5-7dbfa23331d1/index.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVUtrecht.png,010 RTV Utrecht
 http://livestreams.omroep.nl/live/regionaal/rtvutrecht/rtvutrecht/rtvutrecht.isml/rtvutrecht.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url
@@ -73,55 +73,9 @@ http://ngx.cr6.streamzilla.xlcdn.com/session/35fe592209cae2b9edf640df87928396/sz
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/SALTO1.png,108 Salto 1 (NH)
 http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
 
-
 #EXTINF:-1 group_id=0 logo="plugin_file://logos/192TV.png,192 Norderney 192 
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
-
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group_id=5,302 F0x Premium C0medy (Asia)
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:-1 group_id=5,303 F0x M0vies International (UAE)
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
-#EXTINF:-1 group_id=5,304 F0x Premium Cinema
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1 group_id=5,305 HB0 2 (USA)
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 group_id=5",306 &flix HD (IND)
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group_id=5",307 &Prive HD (IND)
-http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
-
-#EXTINF:-1 group_id=5,308 Filmb0x Extra
-http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
-#EXTINF:-1 group_id=5,309 Sh0wtime
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1 group_id=5,313 Zee Cafe (IND)
-http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group_id=5,321 SLY CINEMA PREMIERE (UK)
-http://82.46.138.46:5555/play/a00p/index.m3u8
-
-#EXTINF:-1 group_id=5,322 SLY CINEMA Disney (UK)
-http://82.46.138.46:5555/play/a00b/index.m3u8
-
-#EXTINF:-1 group_id=5,323 SLY CINEMA ACTION (UK)
-http://82.46.138.46:5555/play/a00a/index.m3u8
-
-#EXTINF:-1 group_id=5,324 SLY CINEMA Comedy (UK)
-http://82.46.138.46:5555/play/a00c/index.m3u8
-
-#EXTINF:-1 group_id=5,325 SLY CINEMA Thriller (UK)
-http://82.46.138.46:5555/play/a00h/index.m3u8
 
 
 
@@ -157,10 +111,4 @@ http://hello4.somalia1.tk/vvv/s10/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 11
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
-
-
-
-#EXTINF:-1 group_id=7 logo="plugin_file://logos/FLOW.png,431 Fl0w Sp0rts (UK)
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
 
