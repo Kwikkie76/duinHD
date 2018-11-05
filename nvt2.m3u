@@ -99,24 +99,6 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16540
 #EXTINF:-1 group_id=4,401 BT Sp0rt ESPN
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16539
 
-#EXTINF:-1 group_id=4,401 BT Sp0rt 1 FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/5283.ts
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt 2 FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/5284.ts
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt 3 FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/5285.ts
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt ESPN HD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/88.ts
-
-#EXTINF:-1 group_id=4,401 ELEVEN Sp0rtS 1 FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/11125.ts
-
-#EXTINF:-1 group_id=4,401 ELEVEN Sp0rtS 2 FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/11132.ts
-
 #EXTINF:-1 group_id=4,401 SLY Sp0rts MAIN EVENT HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16635
 
@@ -153,9 +135,6 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16630
 #EXTINF:-1 group_id=4,401 SLY Sp0rtS F1 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16601
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS ARENA HD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/6009.ts
-
 #EXTINF:-1 group_id=4,401 SLY Sp0rts News HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16629
 
@@ -168,41 +147,11 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16578
 #EXTINF:-1 group_id=4,401 SLY Sp0rtS FOOTBALL FHD
 http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/6007.ts
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS PREMIER LEAGUE FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/11238.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS CRICKET FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/5278.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS GOLF FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/5280.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS F1 FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/5282.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS ACTION FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/5279.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS ARENA FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/6008.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS MAIN EVENT FHD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/4768.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS MIX HD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/258.ts
-
 #EXTINF:-1 group_id=4,401 SLY Sp0rts Mix
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16669
 
 #EXTINF:-1 group_id=4,401 Premier Sp0rts FHD
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16625
-
-#EXTINF:-1 group_id=4,401 PREMIER Sp0rtS HD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/80.ts
-
-#EXTINF:-1 group_id=4,401 PREMIER Sp0rtS 2 SD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/10957.ts
 
 #EXTINF:-1 group_id=4,401 Setanta Sp0rts 1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16729
