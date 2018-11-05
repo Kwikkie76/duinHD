@@ -117,50 +117,64 @@ http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/11125.ts
 #EXTINF:-1 group_id=4,401 ELEVEN Sp0rtS 2 FHD
 http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/11132.ts
 
-#EXTINF:-1 group_id=4,401 UK : SLY Sp0rtS F1 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16601
 
-#EXTINF:-1 group_id=4,401 UK | SLY Sp0rtS News
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16578
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS ACTION HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16575
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS CRICKET HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16574
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS GOLF HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16576
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS MAIN EVENT HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16579
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts Mix
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16669
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS PREMIER LEAGUE HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16577
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts MAIN EVENT HD
+
+
+
+
+
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rts MAIN EVENT HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16635
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts CRICKET HD
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS MAIN EVENT HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16579
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rts CRICKET HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16634
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts ACTION HD
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS CRICKET HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16574
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rts ACTION HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16633
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts GOLF HD
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS ACTION HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16575
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rts GOLF HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16632
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts PREMIER LEAGUE HD
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS GOLF HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16576
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rts PREMIER LEAGUE HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16631
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts F1 HD
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS PREMIER LEAGUE HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16577
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rts F1 HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16630
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts News HD
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS F1 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16601
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rts News HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16629
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS NEWS HD2
+http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/31.ts
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS News
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16578
 
 #EXTINF:-1 group_id=4,401 SLY Sp0rtS FOOTBALL FHD
 http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/6007.ts
@@ -180,11 +194,11 @@ http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/5279.ts
 #EXTINF:-1 group_id=4,401 SLY Sp0rtS ARENA FHD
 http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/6008.ts
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS NEWS HD
-http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/31.ts
-
 #EXTINF:-1 group_id=4,401 SLY Sp0rtS MIX HD
 http://access.shared-servers.net:80/live/mJT8uoSk02/EIln7UvtPo/258.ts
+
+#EXTINF:-1 group_id=4,401 SLY Sp0rts Mix
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16669
 
 #EXTINF:-1 group_id=4,401 Premier Sp0rts FHD
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16625
