@@ -76,48 +76,9 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/PRIVE.png,302 &Prive HD
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 group_id=3,302 HB0 1 HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/44296.ts
-
-#EXTINF:-1 group_id=3,302 HB0 2 HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18358.ts
-
-#EXTINF:-1 group_id=3,302 HB0 COMEDY HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18357.ts
-
-#EXTINF:-1 group_id=3,302 HB0 FAMILY HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18356.ts
-
-#EXTINF:-1 group_id=3,302 HB0 SIGNATURE HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/75942
-
-#EXTINF:-1 group_id=3,302 HB0 ZONE HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18353.ts
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/zee.png,302 Zee Cafe 
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,303 S0ny M0vie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group_id=3,302 SYFY
-http://23.237.22.82:8086/udp/127.0.0.1:56063
-
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA PREMIERE 
-http://82.46.138.46:5555/play/a00p/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Disney 
-http://82.46.138.46:5555/play/a00b/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA ACTION 
-http://82.46.138.46:5555/play/a00a/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Comedy 
-http://82.46.138.46:5555/play/a00c/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,303 SLY CINEMA Thriller 
-http://82.46.138.46:5555/play/a00h/index.m3u8
 
 
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
