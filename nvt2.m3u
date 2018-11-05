@@ -267,3 +267,6 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99272
 
 #EXTINF:-1 group_id=11,1101 NHL 781
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99271
+
+#EXTINF:-1 group_id=11, test
+http://access.shared-servers.net/live/mJT8uoSk02/EIln7UvtPo/132.m3u8
