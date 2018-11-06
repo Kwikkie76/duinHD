@@ -79,36 +79,35 @@ http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690
 #EXTINF:-1 group_id=0,110 Evenaar (BE)
 http://media.mediahuisvideo.be/hlslive/account=pLZoWOCK3VYk/livestream=o7cIPayJF4eQ/o7cIPayJF4eQ_576p1128kbs/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 1
-http://hello1.somalia1.tk/vvv/s1/index.m3u8
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 1
+http://hello6.somalia1.tk/vvv/s1xx/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 2
-http://hello3.somalia1.tk/vvv/s222/index.m3u8
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 2
+http://hello3.somalia1.tk/vvv/s2/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 3
-http://hello2.somalia1.tk/vvv/s3/index.m3u8
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 3
+http://hello2.somalia1.tk/vvv/s3/908.ts
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 4
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 4
 http://hello1.somalia1.tk/vvv/s4/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 5
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 5
 http://hello3.somalia1.tk/live/s55/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 6
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 6
 http://173.249.17.149/vvv/s6s6/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 7
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 7
 http://hello1.somalia1.tk/vvv/s7/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 8
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 8
 http://hello2.somalia1.tk/vvv/s888/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 9
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 9
 http://hello4.somalia1.tk/vvv/s9/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 10
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 10
 http://hello4.somalia1.tk/vvv/s10/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 11
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 11
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
-
