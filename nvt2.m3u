@@ -37,7 +37,38 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
 
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 1
+http://ndasat.net:8000/live/619579638091014/1593574628/1188.ts
 
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 2
+http://ndasat.net:8000/live/619579638091014/1593574628/1189.ts
+
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 3
+http://ndasat.net:8000/live/619579638091014/1593574628/1190.ts
+
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 4
+http://ndasat.net:8000/live/619579638091014/1593574628/12746.ts
+
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 5
+http://ndasat.net:8000/live/619579638091014/1593574628/3569.ts
+
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 6
+http://ndasat.net:8000/live/619579638091014/1593574628/12747.ts
+
+#EXTINF:-1 group_id=2,201 ,Z!GG0 Sp0rt Select
+http://ndasat.net:8000/live/619579638091014/1593574628/1187.ts
+
+#EXTINF:-1 group_id=2,201 ,Z!GG0 Sp0rt Voetbal
+http://ndasat.net:8000/live/619579638091014/1593574628/2858.ts
+
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 1 HD
+http://ndasat.net:8000/live/619579638091014/1593574628/4109.ts
+
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 2 HD
+http://ndasat.net:8000/live/619579638091014/1593574628/4108.ts
+
+#EXTINF:-1 group_id=2,201 ,F0X Sp0rts 3 HD
+http://ndasat.net:8000/live/619579638091014/1593574628/4107.ts
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 1
 http://hello6.somalia1.tk/vvv/s1xxx/index.m3u8
