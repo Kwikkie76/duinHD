@@ -181,63 +181,179 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16729
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK 
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/foxs.png,601 F0X SP0RTS 1
-http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:-1 group_id=6,601 ,EPSN 1 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18409.ts
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/foxs.png,601 F0X SP0RTS 2
-http://23.237.22.82:8086/udp/127.0.0.1:56047
+#EXTINF:-1 group_id=6,601 ,EPSN 2 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18416.ts
 
-#EXTINF:-1 group_id=6,601 EPSN 1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99577
+#EXTINF:-1 group_id=6,601 ,EPSN News HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18411.ts
 
-#EXTINF:-1group_id=6,601 EPSN 2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99547
+#EXTINF:-1 group_id=6,601 ,EPSN U HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18410.ts
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/NBATV.png,601 NB@ TV
-http://unlockyourtv.com:8000/live/Luis/Luis/1426.m3u8
+#EXTINF:-1 group_id=6,601 ,EPSN 1 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72583
 
-#EXTINF:-1 group_id=6,601 NHL NETW0RK
+#EXTINF:-1 group_id=6,601 ,EPSN 2 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/87765
+
+#EXTINF:-1 group_id=6,601 ,EPSN News US HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72610
+
+#EXTINF:-1 group_id=6,601 ,EPSN U HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72609
+
+#EXTINF:-1 group_id=6,601 ,EPSN HD3
+http://78.157.216.135:80/live/mlb/mlb/166.ts
+
+#EXTINF:-1 group_id=6,601 ,EPSN 2 HD3
+http://78.157.216.135:80/live/mlb/mlb/167.ts
+
+#EXTINF:-1 group_id=6,601 ,EPSN NEWS HD3
+http://78.157.216.135:80/live/mlb/mlb/918.ts
+
+#EXTINF:-1 group_id=6,601 ,FOX Sp0rts 1 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18391.ts
+
+#EXTINF:-1 group_id=6,601 ,FOX Sp0rts 2 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18390.ts
+
+#EXTINF:-1 group_id=6,601 ,FOX SPORT 1 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11614
+
+#EXTINF:-1 group_id=6,601 ,FOX SPORT 2 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11613
+
+#EXTINF:-1 group_id=6,601 ,FOX Sp0rts 1 HD3
+http://78.157.216.135:80/live/mlb/mlb/120.ts
+
+#EXTINF:-1 group_id=6,601 ,FOX Sp0rts 2 HD3
+http://78.157.216.135:80/live/mlb/mlb/121.ts
+
+#EXTINF:-1 group_id=6,601 ,NBC Sp0rts Network HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18297.ts
+
+#EXTINF:-1 group_id=6,601 ,NBC Sp0rts Network HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72595
+
+#EXTINF:-1 group_id=6,601 ,NHL Network HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72649
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/NBCSN.png,601 NBCSN
-http://23.237.22.82:8086/udp/127.0.0.1:56016
+#EXTINF:-1 group_id=6,601 ,NHL NETWORK HD2
+http://78.157.216.135:80/live/mlb/mlb/176.ts
 
-#EXTINF:-1 group_id=6,601 Tennis Channel HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99506
+#EXTINF:-1 group_id=6,601 ,NB@ TV usa HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18305.ts
 
-#EXTINF:-1 group_id=6,601 TSN HD 5
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48687.ts
+#EXTINF:-1 group_id=6,601 ,NB@ TV usa HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11611
 
-#EXTINF:-1 group_id=6,601 TSN HD 4
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48689.ts
+#EXTINF:-1 group_id=6,601 ,NB@ TV usa HD3
+http://78.157.216.135:80/live/mlb/mlb/173.ts
 
-#EXTINF:-1 group_id=6,601 TSN HD 3
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72656
+#EXTINF:-1 group_id=6,601 ,NB@ TV can HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48737.ts
 
-#EXTINF:-1 group_id=6,601 TSN HD 2
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48692.ts
+#EXTINF:-1 group_id=6,601 ,NESN HD
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18296.ts
 
-#EXTINF:-1 group_id=6,601 TSN HD 1
+#EXTINF:-1 group_id=6,601 ,TSN 1 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48694.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtSNET 360 HD
+#EXTINF:-1 group_id=6,601 ,TSN 2 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48693.ts
+
+#EXTINF:-1 group_id=6,601 ,TSN 3 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48690.ts
+
+#EXTINF:-1 group_id=6,601 ,TSN 4 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48688.ts
+
+#EXTINF:-1 group_id=6,601 ,TSN 5 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48687.ts
+
+#EXTINF:-1 group_id=6,601 ,TSN 2 HD2 
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72655
+
+#EXTINF:-1 group_id=6,601 ,TSN 5 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72658
+
+#EXTINF:-1 group_id=6,601 ,TSN 1 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72654
+
+#EXTINF:-1 group_id=6,601 ,TSN 3 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72656
+
+#EXTINF:-1 group_id=6,601 ,TSN 4 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72657
+
+#EXTINF:-1 group_id=6,601 ,TSN 1 HD3
+http://78.157.216.135:80/live/mlb/mlb/574.ts
+
+#EXTINF:-1 group_id=6,601 ,TSN 2 HD3
+http://78.157.216.135:80/live/mlb/mlb/575.ts
+
+#EXTINF:-1 group_id=6,601 ,TSN 3 HD3
+http://78.157.216.135:80/live/mlb/mlb/576.ts
+
+#EXTINF:-1 group_id=6,601 ,TSN 4 HD3
+http://78.157.216.135:80/live/mlb/mlb/577.ts
+
+#EXTINF:-1 group_id=6,601 ,TSN 5 HD3
+http://78.157.216.135:80/live/mlb/mlb/578.ts
+
+#EXTINF:-1 group_id=6,601 ,Sp0rtsNET 360 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48720.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtSNET EAST HD
-http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48719.ts
+#EXTINF:-1 group_id=6,601 ,Sp0rtsNET EAST HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48718.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtSNET ONE HD
+#EXTINF:-1 group_id=6,601 ,Sp0rtsNET ONE HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48717.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtSNET ONTARIO HD
+#EXTINF:-1 group_id=6,601 ,Sp0rtsNET ONTARIO HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48715.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtSNET PACIFIC HD
+#EXTINF:-1 group_id=6,601 ,Sp0rtsNET PACIFIC HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsnet West HD
+#EXTINF:-1 group_id=6,601 ,Sp0rtsNET WEST HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
 
+#EXTINF:-1 group_id=6,601 ,CAN-_Sp0rtsNet WORLD HD1
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96115
+
+#EXTINF:-1 group_id=6,601 ,CAN-Sportnet Ontario HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96125
+
+#EXTINF:-1 group_id=6,601 ,CAN-Sp0rts Net One HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96123
+
+#EXTINF:-1 group_id=6,601 ,CAN-Sp0rtsNet EAST HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96120
+
+#EXTINF:-1 group_id=6,601 ,CAN-Sp0rtsNet WEST HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96116
+
+#EXTINF:-1 group_id=6,601 ,Sp0rtsnet 360 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72653
+
+#EXTINF:-1 group_id=6,601 ,TENNIS CHANNEL HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18238.ts
+
+#EXTINF:-1 group_id=6,601 ,Tennis Channel HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72576
+
+#EXTINF:-1 group_id=6,601 ,TENNIS CHANNEL HD3
+http://78.157.216.135:80/live/mlb/mlb/407.ts
+
+#EXTINF:-1 group_id=6,601 ,BEIN Sp0rts HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18488.ts
+
+#EXTINF:-1 group_id=6,601 ,Bein Sp0rts HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72668
 
 #EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99291
