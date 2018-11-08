@@ -178,7 +178,7 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16724
 #EXTINF:-1 group_id=4,401 Setanta Sp0rts 1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16729
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK 
+#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-1 group_id=6,601 EPSN 1 HD1
@@ -197,9 +197,9 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18410.ts
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72583
 
 #EXTINF:-1 group_id=6,601 EPSN 2 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/87765
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72643
 
-#EXTINF:-1 group_id=6,601 EPSN News US HD2
+#EXTINF:-1 group_id=6,601 EPSN News HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72610
 
 #EXTINF:-1 group_id=6,601 EPSN U HD2
@@ -214,34 +214,34 @@ http://78.157.216.135:80/live/mlb/mlb/167.ts
 #EXTINF:-1 group_id=6,601 EPSN NEWS HD3
 http://78.157.216.135:80/live/mlb/mlb/918.ts
 
-#EXTINF:-1 group_id=6,601 FOX Sp0rts 1 HD1
+#EXTINF:-1 group_id=6,601 F0X Sp0rts 1 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18391.ts
 
-#EXTINF:-1 group_id=6,601 FOX Sp0rts 2 HD1
+#EXTINF:-1 group_id=6,601 F0X Sp0rts 2 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18390.ts
 
-#EXTINF:-1 group_id=6,601 FOX SPORT 1 HD2
+#EXTINF:-1 group_id=6,601 F0X SPORTS 1 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11614
 
-#EXTINF:-1 group_id=6,601 FOX SPORT 2 HD2
+#EXTINF:-1 group_id=6,601 F0X SP0RTS 2 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11613
 
-#EXTINF:-1 group_id=6,601 FOX Sp0rts 1 HD3
+#EXTINF:-1 group_id=6,601 F0X Sp0rts 1 HD3
 http://78.157.216.135:80/live/mlb/mlb/120.ts
 
-#EXTINF:-1 group_id=6,601 FOX Sp0rts 2 HD3
+#EXTINF:-1 group_id=6,601 F0X Sp0rts 2 HD3
 http://78.157.216.135:80/live/mlb/mlb/121.ts
 
-#EXTINF:-1 group_id=6,601 NBC Sp0rts Network HD1
+#EXTINF:-1 group_id=6,601 NBC Sp0rts Netw0rk HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18297.ts
 
-#EXTINF:-1 group_id=6,601 NBC Sp0rts Network HD2
+#EXTINF:-1 group_id=6,601 NBC Sp0rts Netw0rk HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72595
 
-#EXTINF:-1 group_id=6,601 NHL Network HD1
+#EXTINF:-1 group_id=6,601 NHL Netw0rk HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72649
 
-#EXTINF:-1 group_id=6,601 NHL NETWORK HD2
+#EXTINF:-1 group_id=6,601 NHL Netw0rk HD2
 http://78.157.216.135:80/live/mlb/mlb/176.ts
 
 #EXTINF:-1 group_id=6,601 NB@ TV usa HD1
@@ -253,10 +253,10 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11611
 #EXTINF:-1 group_id=6,601 NB@ TV usa HD3
 http://78.157.216.135:80/live/mlb/mlb/173.ts
 
-#EXTINF:-1 group_id=6,601 NB@ TV can HD
+#EXTINF:-1 group_id=6,601 NB@ TV can HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48737.ts
 
-#EXTINF:-1 group_id=6,601 NESN HD
+#EXTINF:-1 group_id=6,601 NESN HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18296.ts
 
 #EXTINF:-1 group_id=6,601 TSN 1 HD1
@@ -340,19 +340,19 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96116
 #EXTINF:-1 group_id=6,601 Sp0rtsnet 360 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72653
 
-#EXTINF:-1 group_id=6,601 TENNIS CHANNEL HD1
+#EXTINF:-1 group_id=6,601 TENN1S CHANNEL HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18238.ts
 
-#EXTINF:-1 group_id=6,601 Tennis Channel HD2
+#EXTINF:-1 group_id=6,601 Tenn1s Channel HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72576
 
-#EXTINF:-1 group_id=6,601 TENNIS CHANNEL HD3
+#EXTINF:-1 group_id=6,601 TENN1S CHANNEL HD3
 http://78.157.216.135:80/live/mlb/mlb/407.ts
 
-#EXTINF:-1 group_id=6,601 BEIN Sp0rts HD1
+#EXTINF:-1 group_id=6,601 BE1N Sp0rts HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18488.ts
 
-#EXTINF:-1 group_id=6,601 Bein Sp0rts HD2
+#EXTINF:-1 group_id=6,601 Be1n Sp0rts HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72668
 
 #EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS
