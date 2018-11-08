@@ -109,10 +109,10 @@ http://78.157.216.135:80/live/mlb/mlb/88.ts
 #EXTINF:-1 group_id=4,401 BT Sp0rt ESPN HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16539
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts HD1
+#EXTINF:-1 group_id=4,401 SLY Sp0rts Arena HD1
 http://78.157.216.135:80/live/mlb/mlb/6008.ts
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts  HD2
+#EXTINF:-1 group_id=4,401 SLY Sp0rts Arena HD2
 http://78.157.216.135:80/live/mlb/mlb/6009.ts
 
 #EXTINF:-1 group_id=4,401 SLY Sp0rts MAIN EVENT HD1
@@ -128,7 +128,7 @@ http://78.157.216.135:80/live/mlb/mlb/5278.ts
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16574
 
 #EXTINF:-1 group_id=4,401 SLY Sp0rts ACTION HD1
-http://78.157.216.135:80/live/mlb/mlb/6008.ts
+http://78.157.216.135:80/live/mlb/mlb/5279.ts
 
 #EXTINF:-1 group_id=4,401 SLY Sp0rtS ACTION HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16575
