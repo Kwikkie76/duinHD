@@ -175,9 +175,6 @@ http://78.157.216.135:80/live/mlb/mlb/684.ts
 #EXTINF:-1 group_id=4,401 Premier Sp0rts HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16724
 
-#EXTINF:-1 group_id=4,401 Setanta Sp0rts 1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16729
-
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
@@ -214,28 +211,28 @@ http://78.157.216.135:80/live/mlb/mlb/167.ts
 #EXTINF:-1 group_id=6,601 EPSN NEWS HD3
 http://78.157.216.135:80/live/mlb/mlb/918.ts
 
-#EXTINF:-1 group_id=6,601 F0X Sp0rts 1 HD1
+#EXTINF:-1 group_id=6,601 FS1 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18391.ts
 
-#EXTINF:-1 group_id=6,601 F0X Sp0rts 2 HD1
+#EXTINF:-1 group_id=6,601 FS2 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18390.ts
 
-#EXTINF:-1 group_id=6,601 F0X SP0RTS 1 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11614
+#EXTINF:-1 group_id=6,601 FS1 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99542
 
-#EXTINF:-1 group_id=6,601 F0X SP0RTS 2 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11613
+#EXTINF:-1 group_id=6,601 FS2 HD2
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99541
 
-#EXTINF:-1 group_id=6,601 F0X Sp0rts 1 HD3
+#EXTINF:-1 group_id=6,601 FS1 HD3
 http://78.157.216.135:80/live/mlb/mlb/120.ts
 
-#EXTINF:-1 group_id=6,601 F0X Sp0rts 2 HD3
+#EXTINF:-1 group_id=6,601 FS2 HD3
 http://78.157.216.135:80/live/mlb/mlb/121.ts
 
-#EXTINF:-1 group_id=6,601 NBC Sp0rts Netw0rk HD1
+#EXTINF:-1 group_id=6,601 NBC SN HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18297.ts
 
-#EXTINF:-1 group_id=6,601 NBC Sp0rts Netw0rk HD2
+#EXTINF:-1 group_id=6,601 NBC SN HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72595
 
 #EXTINF:-1 group_id=6,601 NHL Netw0rk HD1
@@ -248,7 +245,7 @@ http://78.157.216.135:80/live/mlb/mlb/176.ts
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18305.ts
 
 #EXTINF:-1 group_id=6,601 NB@ TV usa HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/11611
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72568
 
 #EXTINF:-1 group_id=6,601 NB@ TV usa HD3
 http://78.157.216.135:80/live/mlb/mlb/173.ts
@@ -304,40 +301,40 @@ http://78.157.216.135:80/live/mlb/mlb/577.ts
 #EXTINF:-1 group_id=6,601 TSN 5 HD3
 http://78.157.216.135:80/live/mlb/mlb/578.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNET 360 HD1
+#EXTINF:-1 group_id=6,601 SN 360 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48720.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNET EAST HD1
+#EXTINF:-1 group_id=6,601 SN EAST HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48718.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNET ONE HD1
+#EXTINF:-1 group_id=6,601 SN ONE HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48717.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNET ONTARIO HD1
+#EXTINF:-1 group_id=6,601 SN ONTARIO HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48715.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNET PACIFIC HD1
+#EXTINF:-1 group_id=6,601 SN PACIFIC HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48713.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNET WEST HD1
+#EXTINF:-1 group_id=6,601 SN WEST HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48711.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNet WORLD HD1
+#EXTINF:-1 group_id=6,601 SN HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96115
 
-#EXTINF:-1 group_id=6,601 Sp0rtsnet Ontario HD2
+#EXTINF:-1 group_id=6,601 SN HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96125
 
-#EXTINF:-1 group_id=6,601 Sp0rts Net One HD2
+#EXTINF:-1 group_id=6,601 SN One HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96123
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNet EAST HD2
+#EXTINF:-1 group_id=6,601 SN EAST HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96120
 
-#EXTINF:-1 group_id=6,601 Sp0rtsNet WEST HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96116
+#EXTINF:-1 group_id=6,601 SN WEST HD2
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48703.ts
 
-#EXTINF:-1 group_id=6,601 Sp0rtsnet 360 HD2
+#EXTINF:-1 group_id=6,601 SN 360 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72653
 
 #EXTINF:-1 group_id=6,601 TENN1S CHANNEL HD1
