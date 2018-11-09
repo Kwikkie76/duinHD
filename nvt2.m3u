@@ -352,45 +352,6 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18488.ts
 #EXTINF:-1 group_id=6,601 Be1n Sp0rts HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72668
 
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99291
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 1 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99290
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 10 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99289
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 14 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99288
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 15 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99287
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 2 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99286
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 3 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99285
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 4 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99284
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 5 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99283
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 6 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99282
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 7 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99281
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 8 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99280
-
-#EXTINF:-1 group_id=11,1101 NB@ LEAGUE PASS LIVE 9 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99279
-
 #EXTINF:-1 group_id=11,1101 NHL 774
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99278
 
@@ -415,5 +376,129 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99272
 #EXTINF:-1 group_id=11,1101 NHL 781
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99271
 
-#EXTINF:-1 group_id=11, test
-http://access.shared-servers.net/live/mJT8uoSk02/EIln7UvtPo/132.m3u8
+#EXTINF:-1 group_id=11,1101 LIVE NHL 1:
+http://78.157.216.135:80/live/mlb/mlb/695.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 10:
+http://78.157.216.135:80/live/mlb/mlb/875.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 11
+http://78.157.216.135:80/live/mlb/mlb/876.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 12:
+http://78.157.216.135:80/live/mlb/mlb/877.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 13:
+http://78.157.216.135:80/live/mlb/mlb/878.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 14:
+http://78.157.216.135:80/live/mlb/mlb/2992.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 15:
+http://78.157.216.135:80/live/mlb/mlb/7480.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 2:
+http://78.157.216.135:80/live/mlb/mlb/696.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 3:
+http://78.157.216.135:80/live/mlb/mlb/700.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 4:
+http://78.157.216.135:80/live/mlb/mlb/701.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 5:
+http://78.157.216.135:80/live/mlb/mlb/703.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 6:
+http://78.157.216.135:80/live/mlb/mlb/705.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 7:
+http://78.157.216.135:80/live/mlb/mlb/707.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 8:
+http://78.157.216.135:80/live/mlb/mlb/709.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NHL 9:
+http://78.157.216.135:80/live/mlb/mlb/874.ts
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99291
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 1 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99290
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 10 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99289
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 14 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99288
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 15 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99287
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 2 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99286
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 3 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99285
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 4 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99284
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 5 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99283
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 6 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99282
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 7 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99281
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 8 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99280
+
+#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 9 HD
+http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99279
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 1:
+http://78.157.216.135:80/live/mlb/mlb/1569.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 10:
+http://78.157.216.135:80/live/mlb/mlb/1578.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 11:
+http://78.157.216.135:80/live/mlb/mlb/1579.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 12:
+http://78.157.216.135:80/live/mlb/mlb/1785.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 13:
+http://78.157.216.135:80/live/mlb/mlb/1786.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 14:
+http://78.157.216.135:80/live/mlb/mlb/2069.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 2: 
+http://78.157.216.135:80/live/mlb/mlb/1570.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 3 :
+http://78.157.216.135:80/live/mlb/mlb/1571.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 4:
+http://78.157.216.135:80/live/mlb/mlb/1572.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 5:
+http://78.157.216.135:80/live/mlb/mlb/1573.ts
+
+#EXTINF:-1 group_id=11,1101 Live NBA 6:
+http://78.157.216.135:80/live/mlb/mlb/1574.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 7:
+http://78.157.216.135:80/live/mlb/mlb/1575.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 8:
+http://78.157.216.135:80/live/mlb/mlb/1576.ts
+
+#EXTINF:-1 group_id=11,1101 LIVE NBA 9:
+http://78.157.216.135:80/live/mlb/mlb/1577.ts
+
