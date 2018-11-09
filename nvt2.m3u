@@ -241,16 +241,16 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72649
 #EXTINF:-1 group_id=6,601 NHL Netw0rk HD2
 http://78.157.216.135:80/live/mlb/mlb/176.ts
 
-#EXTINF:-1 group_id=6,601 NB@ TV usa HD1
+#EXTINF:-1 group_id=6,601 NB@ TV A US HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18305.ts
 
-#EXTINF:-1 group_id=6,601 NB@ TV usa HD2
+#EXTINF:-1 group_id=6,601 NB@ TV B US HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72568
 
-#EXTINF:-1 group_id=6,601 NB@ TV usa HD3
+#EXTINF:-1 group_id=6,601 NB@ TV A US HD2
 http://78.157.216.135:80/live/mlb/mlb/173.ts
 
-#EXTINF:-1 group_id=6,601 NB@ TV can HD1
+#EXTINF:-1 group_id=6,601 NB@ TV CA HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48737.ts
 
 #EXTINF:-1 group_id=6,601 NESN HD1
