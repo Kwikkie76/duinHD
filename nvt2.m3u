@@ -86,93 +86,42 @@ http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 group_id=4,401 BT Sp0rt 1 HD1
-http://78.157.216.135:80/live/mlb/mlb/5283.ts
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt 1 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16537
 
 #EXTINF:-1 group_id=4,401 BT Sp0rt 2 HD1
-http://78.157.216.135:80/live/mlb/mlb/5284.ts
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt 2 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16538
 
 #EXTINF:-1 group_id=4,401 BT Sp0rt 3 HD1
-http://78.157.216.135:80/live/mlb/mlb/5285.ts
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt 3 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16540
 
 #EXTINF:-1 group_id=4,401 BT Sp0rt ESPN HD1
-http://78.157.216.135:80/live/mlb/mlb/88.ts
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt ESPN HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16539
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts Arena HD1
-http://78.157.216.135:80/live/mlb/mlb/6008.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rts Arena HD2
-http://78.157.216.135:80/live/mlb/mlb/6009.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rts MAIN EVENT HD1
-http://78.157.216.135:80/live/mlb/mlb/4768.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS MAIN EVENT HD2
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS MAIN EVENT HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16579
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts CRICKET HD1
-http://78.157.216.135:80/live/mlb/mlb/5278.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS CRICKET HD2
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS CRICKET HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16574
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts ACTION HD1
-http://78.157.216.135:80/live/mlb/mlb/5279.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS ACTION HD2
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS ACTION HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16575
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts GOLF HD1
-http://78.157.216.135:80/live/mlb/mlb/5280.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS GOLF HD2
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS GOLF HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16576
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts PREMIER LEAGUE HD1
-http://78.157.216.135:80/live/mlb/mlb/5281.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS PREMIER LEAGUE HD2
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS PREMIER LEAGUE HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16577
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts F1 HD1
-http://78.157.216.135:80/live/mlb/mlb/5282.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS F1 HD2
+#EXTINF:-1 group_id=4,401 SLY Sp0rtS F1 HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16601
 
 #EXTINF:-1 group_id=4,401 SLY Sp0rts News HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16629
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS NEWS HD2
-http://78.157.216.135:80/live/mlb/mlb/31.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS FOOTBALL HD1
-http://78.157.216.135:80/live/mlb/mlb/6007.ts
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS FOOTBALL HD2
-http://78.157.216.135:80/live/mlb/mlb/6006.ts
-
 #EXTINF:-1 group_id=4,401 SLY Sp0rts Mix HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16669
 
-#EXTINF:-1 group_id=4,401 SLY Sp0rts Mix HD2
-http://78.157.216.135:80/live/mlb/mlb/258.ts
-
 #EXTINF:-1 group_id=4,401 Premier Sp0rts HD1
-http://78.157.216.135:80/live/mlb/mlb/684.ts
-
-#EXTINF:-1 group_id=4,401 Premier Sp0rts HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16724
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK HD1
@@ -202,15 +151,6 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72610
 #EXTINF:-1 group_id=6,601 EPSN U HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72609
 
-#EXTINF:-1 group_id=6,601 EPSN 1 HD3
-http://78.157.216.135:80/live/mlb/mlb/166.ts
-
-#EXTINF:-1 group_id=6,601 EPSN 2 HD3
-http://78.157.216.135:80/live/mlb/mlb/167.ts
-
-#EXTINF:-1 group_id=6,601 EPSN NEWS HD3
-http://78.157.216.135:80/live/mlb/mlb/918.ts
-
 #EXTINF:-1 group_id=6,601 FS1 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18391.ts
 
@@ -223,12 +163,6 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99542
 #EXTINF:-1 group_id=6,601 FS2 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99541
 
-#EXTINF:-1 group_id=6,601 FS1 HD3
-http://78.157.216.135:80/live/mlb/mlb/120.ts
-
-#EXTINF:-1 group_id=6,601 FS2 HD3
-http://78.157.216.135:80/live/mlb/mlb/121.ts
-
 #EXTINF:-1 group_id=6,601 NBC SN HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18297.ts
 
@@ -238,17 +172,11 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72595
 #EXTINF:-1 group_id=6,601 NHL Netw0rk HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72649
 
-#EXTINF:-1 group_id=6,601 NHL Netw0rk HD2
-http://78.157.216.135:80/live/mlb/mlb/176.ts
-
 #EXTINF:-1 group_id=6,601 NB@ TV A US HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18305.ts
 
 #EXTINF:-1 group_id=6,601 NB@ TV B US HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72568
-
-#EXTINF:-1 group_id=6,601 NB@ TV A US HD2
-http://78.157.216.135:80/live/mlb/mlb/173.ts
 
 #EXTINF:-1 group_id=6,601 NB@ TV CA HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48737.ts
@@ -285,21 +213,6 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72656
 
 #EXTINF:-1 group_id=6,601 TSN 4 HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72657
-
-#EXTINF:-1 group_id=6,601 TSN 1 HD3
-http://78.157.216.135:80/live/mlb/mlb/574.ts
-
-#EXTINF:-1 group_id=6,601 TSN 2 HD3
-http://78.157.216.135:80/live/mlb/mlb/575.ts
-
-#EXTINF:-1 group_id=6,601 TSN 3 HD3
-http://78.157.216.135:80/live/mlb/mlb/576.ts
-
-#EXTINF:-1 group_id=6,601 TSN 4 HD3
-http://78.157.216.135:80/live/mlb/mlb/577.ts
-
-#EXTINF:-1 group_id=6,601 TSN 5 HD3
-http://78.157.216.135:80/live/mlb/mlb/578.ts
 
 #EXTINF:-1 group_id=6,601 SN 360 HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/48720.ts
@@ -343,9 +256,6 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18238.ts
 #EXTINF:-1 group_id=6,601 Tenn1s Channel HD2
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72576
 
-#EXTINF:-1 group_id=6,601 TENN1S CHANNEL HD3
-http://78.157.216.135:80/live/mlb/mlb/407.ts
-
 #EXTINF:-1 group_id=6,601 BE1N Sp0rts HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18488.ts
 
@@ -375,51 +285,6 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99272
 
 #EXTINF:-1 group_id=11,1101 NHL 781
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99271
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 1:
-http://78.157.216.135:80/live/mlb/mlb/695.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 10:
-http://78.157.216.135:80/live/mlb/mlb/875.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 11
-http://78.157.216.135:80/live/mlb/mlb/876.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 12:
-http://78.157.216.135:80/live/mlb/mlb/877.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 13:
-http://78.157.216.135:80/live/mlb/mlb/878.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 14:
-http://78.157.216.135:80/live/mlb/mlb/2992.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 15:
-http://78.157.216.135:80/live/mlb/mlb/7480.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 2:
-http://78.157.216.135:80/live/mlb/mlb/696.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 3:
-http://78.157.216.135:80/live/mlb/mlb/700.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 4:
-http://78.157.216.135:80/live/mlb/mlb/701.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 5:
-http://78.157.216.135:80/live/mlb/mlb/703.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 6:
-http://78.157.216.135:80/live/mlb/mlb/705.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 7:
-http://78.157.216.135:80/live/mlb/mlb/707.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 8:
-http://78.157.216.135:80/live/mlb/mlb/709.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NHL 9:
-http://78.157.216.135:80/live/mlb/mlb/874.ts
 
 #EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99291
@@ -459,46 +324,3 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99280
 
 #EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 9 HD
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99279
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 1:
-http://78.157.216.135:80/live/mlb/mlb/1569.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 10:
-http://78.157.216.135:80/live/mlb/mlb/1578.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 11:
-http://78.157.216.135:80/live/mlb/mlb/1579.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 12:
-http://78.157.216.135:80/live/mlb/mlb/1785.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 13:
-http://78.157.216.135:80/live/mlb/mlb/1786.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 14:
-http://78.157.216.135:80/live/mlb/mlb/2069.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 2: 
-http://78.157.216.135:80/live/mlb/mlb/1570.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 3 :
-http://78.157.216.135:80/live/mlb/mlb/1571.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 4:
-http://78.157.216.135:80/live/mlb/mlb/1572.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 5:
-http://78.157.216.135:80/live/mlb/mlb/1573.ts
-
-#EXTINF:-1 group_id=11,1101 Live NBA 6:
-http://78.157.216.135:80/live/mlb/mlb/1574.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 7:
-http://78.157.216.135:80/live/mlb/mlb/1575.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 8:
-http://78.157.216.135:80/live/mlb/mlb/1576.ts
-
-#EXTINF:-1 group_id=11,1101 LIVE NBA 9:
-http://78.157.216.135:80/live/mlb/mlb/1577.ts
-
