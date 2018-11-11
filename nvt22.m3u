@@ -135,3 +135,14 @@ http://23.237.22.82:8086/udp/127.0.0.1:56052
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/NBCSN.png,601 NBCSN
 http://23.237.22.82:8086/udp/127.0.0.1:56016
 
+#EXTINF:-1 group_id=6,601 EPSN 1 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18409.ts
+
+#EXTINF:-1 group_id=6,601 EPSN 2 HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18416.ts
+
+#EXTINF:-1 group_id=6,601 EPSN News HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18411.ts
+
+#EXTINF:-1 group_id=6,601 EPSN U HD1
+http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18410.ts
