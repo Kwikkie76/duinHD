@@ -71,7 +71,7 @@ http://hello4.somalia1.tk/vvv/s10/index.m3u8
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
 
 #EXTINF:-1 group_id=2, strm01
-http://www.youtube.com/embed/h447ORu_lo4?ecver=2
+http://m-iptv.net:6204/alaa/ismail/13549
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
