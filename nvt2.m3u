@@ -70,9 +70,6 @@ http://hello4.somalia1.tk/vvv/s10/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 11
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
 
-#EXTINF:-1 group_id=2, strm01
-http://world-ipsat.com:1155/agadir/123456/995
-
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
@@ -100,9 +97,6 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group_id=3" logo="plugin_file://logos/PRIVE.png,301 &Prive HD (IND)
 http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/Filmboxe.png,301 Filmb0x Extra
-http://93.87.85.10/PLTV/88888888/224/3221226932/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9C4tX%2BmB15uNvJo580%2B6pgATAmb8fQUYQkt7mFZDW%2Bhs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100003155%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/zee.png,301 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
@@ -121,63 +115,11 @@ http://82.46.138.46:5555/play/a00c/index.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA Thriller (UK)
 http://82.46.138.46:5555/play/a00h/index.m3u8
 
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:-1 group_id=4,401 BT Sp0rt 1 HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16537
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt 2 HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16538
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt 3 HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16540
-
-#EXTINF:-1 group_id=4,401 BT Sp0rt ESPN HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16539
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS MAIN EVENT HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16579
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS CRICKET HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16574
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS ACTION HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16575
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS GOLF HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16576
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS PREMIER LEAGUE HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16577
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rtS F1 HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16601
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rts News HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16629
-
-#EXTINF:-1 group_id=4,401 SLY Sp0rts Mix HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16669
-
-#EXTINF:-1 group_id=4,401 Premier Sp0rts HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16724
-
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 group_id=6,601 EPSN 1 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72583
-
-#EXTINF:-1 group_id=6,601 EPSN 2 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72643
-
-#EXTINF:-1 group_id=6,601 EPSN News HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72610
-
-#EXTINF:-1 group_id=6,601 EPSN U HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72609
 
 #EXTINF:-1 group_id=6,601 NHL Netw0rk HD1
 http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72649
@@ -185,102 +127,3 @@ http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72649
 #EXTINF:-1 group_id=6,601 NB@ TV B US HD1
 http://23.237.22.82:8086/udp/127.0.0.1:56052
 
-
-#EXTINF:-1 group_id=6,601 TSN 2 HD2 
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72655
-
-#EXTINF:-1 group_id=6,601 TSN 5 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72658
-
-#EXTINF:-1 group_id=6,601 TSN 1 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72654
-
-#EXTINF:-1 group_id=6,601 TSN 3 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72656
-
-#EXTINF:-1 group_id=6,601 TSN 4 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72657
-
-#EXTINF:-1 group_id=6,601 SN WORLD HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96115
-
-#EXTINF:-1 group_id=6,601 SN ONTARIO HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96125
-
-#EXTINF:-1 group_id=6,601 SN One HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96123
-
-#EXTINF:-1 group_id=6,601 SN EAST HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/96120
-
-#EXTINF:-1 group_id=6,601 SN 360 HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72653
-
-#EXTINF:-1 group_id=6,601 Tenn1s Channel HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72576
-
-#EXTINF:-1 group_id=6,601 Be1n Sp0rts HD2
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72668
-
-#EXTINF:-1 group_id=11,1101 NHL 774
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99278
-
-#EXTINF:-1 group_id=11,1101 NHL 775
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99277
-
-#EXTINF:-1 group_id=11,1101 NHL 776
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99276
-
-#EXTINF:-1 group_id=11,1101 NHL 777
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99275
-
-#EXTINF:-1 group_id=11,1101 NHL 778
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99274
-
-#EXTINF:-1 group_id=11,1101 NHL 779
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99273
-
-#EXTINF:-1 group_id=11,1101 NHL 780
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99272
-
-#EXTINF:-1 group_id=11,1101 NHL 781
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99271
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99291
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 1 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99290
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 10 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99289
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 14 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99288
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 15 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99287
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 2 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99286
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 3 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99285
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 4 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99284
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 5 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99283
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 6 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99282
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 7 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99281
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 8 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99280
-
-#EXTINF:-1 group_id=11,1101 NBA LEAGUE PASS LIVE 9 HD
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/99279
