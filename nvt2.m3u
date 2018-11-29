@@ -82,14 +82,8 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 (ASIA)
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (USA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 group_id=3,SYFY
-http://23.237.22.82:8086/udp/127.0.0.1:56063
 
 #EXTINF:-1 group_id=3" logo="plugin_file://logos/FLIX.png,301 &flix HD (IND)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
@@ -118,12 +112,174 @@ http://82.46.138.46:5555/play/a00h/index.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLB NETW0RK HD1
+#EXTINF:-1 group_id=4,401 BTS 1
+http://163.172.211.93:8081/BT/1/index.m3u8
+
+#EXTINF:-1 group_id=4,401 BTS 2
+http://163.172.86.57:3135/B/2/index.m3u8
+
+#EXTINF:-1 group_id=4,401 BTS 1 ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27637
+
+#EXTINF:-1 group_id=4,401 BTS 2 ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27636
+
+#EXTINF:-1 group_id=4,401 BTS 3 ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27635
+
+#EXTINF:-1 group_id=4,401 BTS EPSN ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/102
+
+#EXTINF:-1 group_id=4,401 SKYS ACTION ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27626
+
+#EXTINF:-1 group_id=4,401 SKYS ARENA ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27625
+
+#EXTINF:-1 group_id=4,401 SKYS CRICKET ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27624
+
+#EXTINF:-1 group_id=4,401 SKYS F1 ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27623
+
+#EXTINF:-1 group_id=4,401 SKYS FOOTBALL ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27622
+
+#EXTINF:-1 group_id=4,401 SKYS GOLF ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27621
+
+#EXTINF:-1 group_id=4,401 SKYS MAIN EVENT ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27620
+
+#EXTINF:-1 group_id=4,401 SKYS MIX ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27619
+
+#EXTINF:-1 group_id=4,401 SKYS NEWS ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27618
+
+#EXTINF:-1 group_id=4,401 SKYS PREMIER LEAGUE ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27617
+
+#EXTINF:-1 group_id=5,501 F0X S1 (AUS)
+http://45.58.62.92:8080
+
+#EXTINF:-1group_id=5,501 S0NY TEN1 HD (IND)
+http://163.172.211.93:8081/Ten/1/index.m3u8
+
+#EXTINF:-1 group_id=5,501 S0NY TEN2 HD (IND)
+http://163.172.218.205:8081/2Ten/2/index.m3u8
+
+#EXTINF:-1 group_id=5,501 S0NY TEN3 HD (IND)
+http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+
+#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLBN HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=6,601 NHL Netw0rk HD1
-http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/72649
+#EXTINF:-1 group_id=6,601 F0X S Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
-#EXTINF:-1 group_id=6,601 NB@ TV B US HD1
-http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:-1 group_id=6,601 NB@ ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/147
 
+#EXTINF:-1 group_id=6,601 NHLN ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/414
+
+#EXTINF:-1 group_id=6,601 TENN1S CHANNEL ʜᴅ
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/900
+
+
+#EXTINF:-1 group_id=11,1101  750 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3398
+
+#EXTINF:-1 group_id=11,1101  751 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3397
+
+#EXTINF:-1 group_id=11,1101  752 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3396
+
+#EXTINF:-1 group_id=11,1101  753 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3395
+
+#EXTINF:-1 group_id=11,1101  754 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3394
+
+#EXTINF:-1 group_id=11,1101  755 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3393
+
+#EXTINF:-1 group_id=11,1101  756 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3392
+
+#EXTINF:-1 group_id=11,1101  757 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3391
+
+#EXTINF:-1 group_id=11,1101  758 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3390
+
+#EXTINF:-1 group_id=11,1101  759 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3389
+
+#EXTINF:-1 group_id=11,1101  760 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3388
+
+#EXTINF:-1 group_id=11,1101  761 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3387
+
+#EXTINF:-1 group_id=11,1101  762 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3386
+
+#EXTINF:-1 group_id=11,1101  763 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3385
+
+#EXTINF:-1 group_id=11,1101  764 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3457
+
+#EXTINF:-1 group_id=11,1101  765 | LEAGUE PASS
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3456
+
+#EXTINF:-1 group_id=11,1101 REGULAR SEASON GAMES
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/37293
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 01
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1408
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 02
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1407
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 03
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1406
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 04
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1405
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 05
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1404
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 06
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1403
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 07
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1402
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 08
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1401
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 09
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1409
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 10
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1492
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 11
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1493
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 12
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1494
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 13
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/1495
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 14
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/37872
+
+#EXTINF:-1 group_id=11,1101 CENTER ICE 15
+http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/37873
