@@ -118,6 +118,12 @@ http://163.172.211.93:8081/BT/1/index.m3u8
 #EXTINF:-1 group_id=4,401 BTS 2
 http://163.172.86.57:3135/B/2/index.m3u8
 
+#EXTINF:-1 group_id=4,401 BTS 3
+http://163.172.86.59:3135/1513/BT/index.m3u8
+
+#EXTINF:-1 group_id=4,401 BTS EPSN
+http://163.172.46.35:8080/Game/2/index.m3u8
+
 #EXTINF:-1 group_id=4,401 BTS 1 ʜᴅ
 http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27637
 
@@ -163,6 +169,9 @@ http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/27617
 #EXTINF:-1 group_id=5,501 F0X S1 (AUS)
 http://45.58.62.92:8080
 
+#EXTINF:-1 group_id=5,501 F0X S2 (AUS)
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+
 #EXTINF:-1group_id=5,501 S0NY TEN1 HD (IND)
 http://163.172.211.93:8081/Ten/1/index.m3u8
 
@@ -171,6 +180,9 @@ http://163.172.218.205:8081/2Ten/2/index.m3u8
 
 #EXTINF:-1 group_id=5,501 S0NY TEN3 HD (IND)
 http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
+
+#EXTINF:-1 group_id=5,501 S0NY S1X HD (IND)
+http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLBN HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
@@ -187,6 +199,11 @@ http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/414
 #EXTINF:-1 group_id=6,601 TENN1S CHANNEL ʜᴅ
 http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/900
 
+#EXTINF:-1 group_id=6,601 TSN1
+http://163.172.15.141:9732/live?channelId=217&uid=3682&deviceMac=00:1A:79:F9:6F:F6
+
+#EXTINF:-1 group_id=6,601 SN World
+http://163.172.15.141:9732/live?channelId=228&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
 #EXTINF:-1 group_id=11,1101  750 | LEAGUE PASS
 http://wildsides.xyz:2086/hKE6KctVo6/pHPHOsFSDS/3398
