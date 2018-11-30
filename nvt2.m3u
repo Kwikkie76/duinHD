@@ -24,10 +24,6 @@ http://ngx.cr6.streamzilla.xlcdn.com/session/35fe592209cae2b9edf640df87928396/sz
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/SALTO1.png,102 Salto 1 (NH)
 http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
 
-#EXTINF:-1 group_id=1,102 Evenaar (BE)
-http://media.mediahuisvideo.be/hlslive/account=pLZoWOCK3VYk/livestream=o7cIPayJF4eQ/o7cIPayJF4eQ_576p1128kbs/index.m3u8
-
-
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/PodiumTV.png,101 Podium.TV 1
 http://cdn22d.streampartner.nl/podiumbv/podiumbv_1080p/chunklist_w1834726622.m3u8
 
