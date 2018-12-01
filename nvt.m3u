@@ -80,7 +80,7 @@ http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690
 http://media.mediahuisvideo.be/hlslive/account=pLZoWOCK3VYk/livestream=o7cIPayJF4eQ/o7cIPayJF4eQ_576p1128kbs/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 1
-http://173.249.45.253/vvv/s1xxx/index.m3u8
+http://178.238.232.147/vvv/soso1/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 2
 http://173.249.59.115/vvv/s2/index.m3u8
@@ -92,13 +92,13 @@ http://213.136.79.65/vvv/s3/index.m3u8
 http://hello1.somalia1.tk/vvv/s4/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 5
-http://hello4.somalia1.tk/vvv/s55/index.m3u8
+http://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 6
-http://173.249.17.149/vvv/s6s6/index.m3u8
+http://173.249.17.149/vvv/s6/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 7
-http://173.249.45.253/vvv/s7/index.m3u8
+http://173.249.45.253/vvv/s77/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 8
 http://213.136.79.65/vvv/s888/index.m3u8
@@ -107,7 +107,7 @@ http://213.136.79.65/vvv/s888/index.m3u8
 http://173.249.17.149/vvv/s9/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 10
-http://hello4.somalia1.tk/vvv/s10/index.m3u8
+http://hello4.somalia1.tk/vvv/s100/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 11
 http://hello4.somalia1.tk/vvv/s11/index.m3u8
