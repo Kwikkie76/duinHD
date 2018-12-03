@@ -53,7 +53,7 @@ http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/RTVDordrecht.png,102 RTV Dordrecht (ZH)
-http://ms7.mx-cd.net/tv/107-475823/RTVDordrecht.smil/playlist.m3u8
+http://ms7.mx-cd.net/tv/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/RTVATOS.png,103 RTV ATOS (ZH)
 http://media.streamone.net/hlslive/account=jYJIEK8LSZ02/livestream=DQJIms-IBY0y/DQJIms-IBY0y.m3u8
