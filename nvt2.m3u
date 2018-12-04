@@ -9,6 +9,39 @@ http://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVRijnmond.png,101 RTV Rijnmond
 http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepWest.png,101 Omroep West
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/NHNieuws.png,101 NH
+http://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVNoord.png,101 RTV Noord
+http://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmropFryslan.png,101 Omrop Fryslan
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,101 RTV Oost
+http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&output=playlist.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png,101 Omroep Gelderland
+http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepFlevoland.png,101 Omroep Flevoland
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/780fb887-8647-42a4-bab5-7dbfa23331d1/index.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVUtrecht.png,101 RTV Utrecht
+http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepZeeland.png,101 Omroep Zeeland
+http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepBrabant.png,101 Omroep Brabant
+http://d3slqp9xhts6qb.cloudfront.net/omroepbrabantTv/index.m3u8
+
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/L1MBURG.png,101 L1MBURG
+http://livestreams.omroep.nl/live/regionaal/l1/l1tv/l1tv.isml/l1tv.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url
+
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVMeppel.png,102 RTV Meppel (Dr)
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
 
