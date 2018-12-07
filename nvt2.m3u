@@ -171,45 +171,45 @@ http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM
 #EXTINF:-1 group_id=5,501 S0NY S1X HD (IND)
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,601 MLBN HD1
+#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,603 MLBN HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 group_id=6,MLBL
+#EXTINF:-1 group_id=6,603 MLBL
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 
-#EXTINF:-1 group_id=6 logo="http://i63.tinypic.com/e8lorb.png" ,TSN 1 HD
+#EXTINF:-1 group_id=6 logo="http://i63.tinypic.com/e8lorb.png,601 TSN 1 HD
 http://163.172.15.141:9732/live?channelId=217&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://i65.tinypic.com/dxxtnk.png" ,TSN 2 HD
+#EXTINF:-1 group_id=6 logo="http://i65.tinypic.com/dxxtnk.png,601 TSN 2 HD
 http://163.172.15.141:9732/live?channelId=218&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://i64.tinypic.com/27wxeyt.png",TSN 3 HD
+#EXTINF:-1 group_id=6 logo="http://i64.tinypic.com/27wxeyt.png,601 TSN 3 HD
 http://163.172.15.141:9732/live?channelId=219&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://i64.tinypic.com/24yajp5.png" ,TSN 4 HD
+#EXTINF:-1 group_id=6 logo="http://i64.tinypic.com/24yajp5.png,601 TSN 4 HD
 http://163.172.15.141:9732/live?channelId=220&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://i63.tinypic.com/2e4izqg.png" ,TSN 5 HD
+#EXTINF:-1 group_id=6 logo="http://i63.tinypic.com/2e4izqg.png,601 TSN 5 HD
 http://163.172.15.141:9732/live?channelId=221&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png",SPORTSNET 360 HD
+#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png,602 SPORTSNET 360 HD
 http://163.172.15.141:9732/live?channelId=222&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png",SPORTSNET EAST SD
+#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png,602 SPORTSNET EAST SD
 http://163.172.15.141:9732/live?channelId=223&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png",SPORTSNET ONE HD
+#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png,602 SPORTSNET ONE HD
 http://163.172.15.141:9732/live?channelId=224&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png",SPORTSNET ONTARIO SD
+#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png,602 SPORTSNET ONTARIO SD
 http://163.172.15.141:9732/live?channelId=225&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png",SPORTSNET PACIFIC SD
+#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png,602 SPORTSNET PACIFIC SD
 http://163.172.15.141:9732/live?channelId=226&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png",SPORTSNET WEST SD
+#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png,602 SPORTSNET WEST SD
 http://163.172.15.141:9732/live?channelId=227&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
-#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png",SPORTSNET WORLD HD
+#EXTINF:-1 group_id=6 logo="http://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png,602 SPORTSNET WORLD HD
 http://163.172.15.141:9732/live?channelId=228&uid=3682&deviceMac=00:1A:79:F9:6F:F6
 
