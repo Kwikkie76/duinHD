@@ -1,7 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group_id=0,001 NPO 1 Extra
+#EXTINF:-1 group_id=1,101 NPO 1 Extra
 http://smoote2f.omroep.nl/urishieldv2/l2fm597f26f7131baae2005c0e6701000000.536865862eff525756891b3bf784359b/live/npo/thematv/zappelin24/zappelin24.isml/.m3u8
+
+#EXTINF:-1 group_id=1,101 NPO 2 Extra
+http://smoote2b.omroep.nl/urishieldv2/l2fm3abc383a787dbf47005c0e6c92000000.482b351cc20a855d8c47fa8701d5f4a5/live/npo/thematv/cultura24/cultura24.isml/.m3u8
+
+#EXTINF:-1 group_id=1,101 NPO 3 Extra
+http://smoote2e.omroep.nl/urishieldv2/l2fm3ee6fd9a7d8e8ce0005c0e6ce3000000.f0e23a778762ea4e2b9d177c7e4a568f/live/npo/thematv/101tv/101tv.isml/.m3u8
+
+#EXTINF:-1 group_id=1,101 NPO Nieuws
+https://smoote2h.omroep.nl/urishieldv2/l2fm1f02cc417fd23e27005c0e6dde000000.e714d2c10f3f28eeb83a2217998a34df/live/npo/thematv/journaal24/journaal24.isml/.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 Norderney 192 
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
