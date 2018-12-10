@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group_id=1,NPO 1 Extra
+http://smoote2f.omroep.nl/urishieldv2/l2fm597f26f7131baae2005c0e6701000000.536865862eff525756891b3bf784359b/live/npo/thematv/zappelin24/zappelin24.isml/.m3u8
+
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 Norderney 192 
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
