@@ -173,3 +173,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 #EXTINF:-1 group_id=6,603 MLBL
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+
+#EXTINF:-1 group_id=8,801 Evenaar
+http://api.new.livestream.com/accounts/27755193/events/8469152/live.m3u8
