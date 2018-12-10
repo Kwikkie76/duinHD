@@ -127,7 +127,7 @@ http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 group_id=4,401 BTS 1
-http://163.172.211.93:8081/BT/1/index.m3u8
+http://163.172.218.205:8081/BT/1/index.m3u8
 
 #EXTINF:-1 group_id=4,401 BTS 2
 http://163.172.86.57:3135/B/2/index.m3u8
