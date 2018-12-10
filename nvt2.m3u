@@ -123,21 +123,6 @@ http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/zee.png,301 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA PREMIERE (UK)
-http://82.46.138.46:5555/play/a00p/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA Disney (UK)
-http://82.46.138.46:5555/play/a00b/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA ACTION (UK)
-http://82.46.138.46:5555/play/a00a/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA Comedy (UK)
-http://82.46.138.46:5555/play/a00c/index.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/sky.png,301 SLY CINEMA Thriller (UK)
-http://82.46.138.46:5555/play/a00h/index.m3u8
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
