@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,001 test
-http://ngx.cr6.streamzilla.xlcdn.com/session/6082319ddfbaeb111032c83e62d90f83/sz/nhnieuws/wowza4/live/live.smil/chunklist.m3u8
+http://ngx.cr6.streamzilla.xlcdn.com/session/6082319ddfbaeb111032c83e62d90f83/sz/nhnieuws/wowza4/live/live.smil/chunklist_b3170304.m3u8
 
 #EXTINF:-1,002 test
 http://ngx.cr6.streamzilla.xlcdn.com/session/6082319ddfbaeb111032c83e62d90f83/sz/nhnieuws/wowza4/live/live.smil/playlist.m3u8
