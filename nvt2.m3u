@@ -3,58 +3,58 @@
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 Norderney 192 
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDrenthe.png,101 RTV Drenthe
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDrenthe.png,102 RTV Drenthe
 http://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVRijnmond.png,101 RTV Rijnmond
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVRijnmond.png,102 RTV Rijnmond
 http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepWest.png,101 Omroep West
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepWest.png,102 2Omroep West
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/NHNieuws.png,101 NH
-http://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/NHNieuws.png,102 NH
+https://lsw-global.offload.streamzilla.xlcdn.com/sz/nhnieuws/wowza4/live/live.smil/playlist.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVNoord.png,101 RTV Noord
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVNoord.png,102 RTV Noord
 http://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmropFryslan.png,101 Omrop Fryslan
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmropFryslan.png,102 Omrop Fryslan
 http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,101 RTV Oost
-http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&output=playlist.m3u8
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVOost.png,102 RTV Oost
+https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png,101 Omroep Gelderland
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepGelderland.png,102 Omroep Gelderland
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepFlevoland.png,101 Omroep Flevoland
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepFlevoland.png,102 Omroep Flevoland
 http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/780fb887-8647-42a4-bab5-7dbfa23331d1/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVUtrecht.png,101 RTV Utrecht
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVUtrecht.png,102 RTV Utrecht
 http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepZeeland.png,101 Omroep Zeeland
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepZeeland.png,102 Omroep Zeeland
 http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepBrabant.png,101 Omroep Brabant
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepBrabant.png,102 Omroep Brabant
 http://d3slqp9xhts6qb.cloudfront.net/omroepbrabantTv/index.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/L1MBURG.png,101 L1MBURG
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/L1MBURG.png,102 L1MBURG
 http://livestreams.omroep.nl/live/regionaal/l1/l1tv/l1tv.isml/l1tv.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVMeppel.png,102 RTV Meppel (Dr)
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVMeppel.png,103 RTV Meppel (Dr)
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDordrecht.png,102 RTV Dordrecht (ZH)
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDordrecht.png,103 RTV Dordrecht (ZH)
 http://ms7.mx-cd.net/tv/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/OpenRotterdam.png,102 OPEN Rotterdam (ZH)
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/OpenRotterdam.png,103 OPEN Rotterdam (ZH)
 http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/AT5.png,102 AT5 (NH)
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/AT5.png,103 AT5 (NH)
 http://ngx.cr6.streamzilla.xlcdn.com/session/35fe592209cae2b9edf640df87928396/sz/atvijf/wowza4/live/live.smil/chunklist_.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/SALTO1.png,102 Salto 1 (NH)
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/SALTO1.png,103 Salto 1 (NH)
 http://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/8wJNPcoQbUwW.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/PodiumTV.png,101 Podium.TV 1
@@ -66,37 +66,37 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 1
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 1
 http://103.194.171.37/vvv/soso1/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 2
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 2
 http://103.194.171.37/vvv/s2/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 3
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 3
 http://103.194.171.37/vvv/s33/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 4
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 4
 http://103.194.171.37/vvv/s4/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 5
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 5
 http://103.194.171.37/vvv/s5/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 6
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 6
 http://103.194.171.37/vvv/s6/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 7
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 7
 http://103.194.171.37/vvv/s77/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 8
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 8
 http://103.194.171.37/vvv/s888/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 9
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 9
 http://103.194.171.37/vvv/s9/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 10
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 10
 http://103.194.171.37/vvv/s100/index.m3u8
 
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 11
+#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 11
 http://103.194.171.37/vvv/s11/index.m3u8
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
