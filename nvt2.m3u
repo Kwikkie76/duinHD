@@ -126,22 +126,22 @@ http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:-1 group_id=4,401 BTS 1
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 1
 http://163.172.86.57:3135/BT1/Stream/mono.m3u8
 
-#EXTINF:-1 group_id=4,401 BTS 2
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 2
 http://163.172.86.57:3135/B/2/mono.m3u8
 
-#EXTINF:-1 group_id=4,401 BTS 3
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 3
 http://163.172.86.57:3135/B/3/mono.m3u8
 
-#EXTINF:-1 group_id=4,401 BTS EPSN
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/BTESPN,401 BTS EPSN
 http://163.172.86.57:3135/BT/espn21/mono.m3u8
 
-#EXTINF:-1 group_id=5,501 F0X S1 (AUS)
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/foxs.png,501 F0X S1 (AUS)
 http://45.58.62.92:8080
 
-#EXTINF:-1 group_id=5,501 F0X S2 (AUS)
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/foxs.png,501 F0X S2 (AUS)
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 
 #EXTINF:-1group_id=5,501 S0NY TEN1 HD (IND)
