@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1,001 test
-http://ipv4.api.nos.nl/resolve.php/livestream?url=/live/npo/thematv/zappelin24/zappelin24.isml/.m3u8
+http://ngx.cr6.streamzilla.xlcdn.com/session/6082319ddfbaeb111032c83e62d90f83/sz/nhnieuws/wowza4/live/live.smil/chunklist.m3u8
 
 #EXTINF:-1,002 test
-http://smoote1d.omroep.nl/urishieldv2/l2cm0ddd311e29005a462cf3000000.163520b4ac9c524b/live/npo/tvlive/npo2/npo2.isml/npo2.m3u8
+http://ngx.cr6.streamzilla.xlcdn.com/session/6082319ddfbaeb111032c83e62d90f83/sz/nhnieuws/wowza4/live/live.smil/playlist.m3u8
 
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 Norderney 192 
