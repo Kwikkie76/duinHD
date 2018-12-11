@@ -7,7 +7,7 @@ http://d3r4bk4fg0k2xi.cloudfront.net/rijnmondTv/index.m3u8
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/NHNieuws.png,003 NH
-http://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+http://lsw-global.offload.streamzilla.xlcdn.com/session/00000000000000000000000000000000/sz/nhnieuws/wowza4/live/live.smil/chunklist_b2097152.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVNoord.png,004 RTV Noord
 http://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
@@ -25,7 +25,7 @@ http://rrr.sz.xlcdn.com/?account=rtv_oost&file=tvoost&type=live&service=wowza&ou
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepFlevoland.png,009 Omroep Flevoland
-http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/780fb887-8647-42a4-bab5-7dbfa23331d1/index.m3u8
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/400/prog_index.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVUtrecht.png,010 RTV Utrecht
 http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
