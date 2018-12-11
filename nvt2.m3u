@@ -28,7 +28,7 @@ http://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/index.m3u8
 http://rrr.sz.xlcdn.com/?account=omroepgelderland&file=livetv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OmroepFlevoland.png,102 Omroep Flevoland
-https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/400/prog_index.m3u8
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/400/prog_index.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVUtrecht.png,102 RTV Utrecht
 http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
