@@ -150,9 +150,6 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 #EXTINF:-1 group_id=3,302 H0llywood M0vies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 group_id=3,302 Anime All Day
-http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
@@ -168,12 +165,6 @@ http://163.172.86.57:3135/B/3/mono.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
 http://163.172.86.57:3135/BT/espn21/mono.m3u8
 
-#EXTINF:-1 group_id=4,402 IRC SP0RT TV
-http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
-
-#EXTINF:-1 group_id=4,402 Rèd Büll TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
 #EXTINF:-1 group_id=5 logo="plugin_file://logos/foxs.png,501 F0X S1 (AUS)
 http://45.58.62.92:8080
 
@@ -183,12 +174,6 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 #EXTINF:-1group_id=5,501 S0NY TEN1 HD (IND)
 http://163.172.211.93:8081/Ten/1/index.m3u8
 
-#EXTINF:-1 group_id=5,501 S0NY TEN2 HD (IND)
-http://163.172.218.205:8081/2Ten/2/index.m3u8
-
-#EXTINF:-1 group_id=5,501 S0NY TEN3 HD (IND)
-http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-
 #EXTINF:-1 group_id=5,501 S0NY S1X HD (IND)
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
@@ -197,6 +182,3 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 #EXTINF:-1 group_id=6,603 MLBL
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-
-#EXTINF:-1 group_id=8,801 Evenaar
-http://api.new.livestream.com/accounts/27755193/events/8469152/live.m3u8
