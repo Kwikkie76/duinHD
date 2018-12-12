@@ -123,8 +123,14 @@ http://z5ams.akamaized.net/andprivehd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/zee.png,301 Zee Cafe (IND)
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group_id=3, 301 My C1nema
+#EXTINF:-1 group_id=3,301 My C1nema
 http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 group_id=3,301 Astr0
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:-1 group_id=3,301 Anime
+http://198.98.58.76:1935/live/est/chunklist_w1582100084.m3u8
 
 #EXTINF:-1 group_id=3,302 H0llywood M0vies 1
 http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
@@ -189,8 +195,14 @@ http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2bae
 #EXTINF:-1group_id=5,501 S0NY TEN1 HD (IND)
 http://163.172.211.93:8081/Ten/1/index.m3u8
 
+#EXTINF:-1group_id=5,501 S0NY TEN2 HD (IND)
+http://163.172.218.205:8081/2Ten/2/index.m3u8
+
 #EXTINF:-1 group_id=5,501 S0NY S1X HD (IND)
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
+
+#EXTINF:-1 group_id=5,502 ASTRO SPORT
+http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,603 MLBN HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
