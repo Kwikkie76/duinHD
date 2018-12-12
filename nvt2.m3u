@@ -198,7 +198,7 @@ http://163.172.211.93:8081/Ten/1/index.m3u8
 #EXTINF:-1 group_id=5,501 S0NY S1X HD (IND)
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0MjFiM2VjOGZhMzgxYWY6MTUzMzg5MDU4Mw==
 
-#EXTINF:-1 group_id=5,502 ASTRO SùperSPORT 3
+#EXTINF:-1 group_id=5,502 ASTR0 SùperSP0RT 3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,603 MLBN HD1
