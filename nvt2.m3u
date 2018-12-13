@@ -219,6 +219,9 @@ http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0M
 #EXTINF:-1 group_id=5,502 ASTR0 SùperSP0RT 3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
+#EXTINF:-1 group_id=5,502 Sp0rtal Hd
+http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
+
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,603 MLBN HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
