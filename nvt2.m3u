@@ -111,20 +111,8 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 1
-http://218.202.220.2:5000/nn_live.ts?id=HBO
-
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (Int)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (Dual)
-http://87.246.0.155:5286/tv_HBO_2
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (Dual)
-http://87.246.0.155:5286/tv_HBO_3
-
-#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 +
-http://87.246.0.155:5286/tv_HBO
 
 #EXTINF:-1 group_id=3" logo="plugin_file://logos/FLIX.png,301 &flix HD (IND)
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
@@ -218,9 +206,6 @@ http://163.172.86.59:3135/sONY/6sICHD/index.m3u8?token=ZDAyYTdkYTY2Yjc5MjgzNzU0M
 
 #EXTINF:-1 group_id=5,502 ASTR0 SùperSP0RT 3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-
-#EXTINF:-1 group_id=5,502 Sp0rtal Hd
-http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 
 #EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,603 MLBN HD1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
