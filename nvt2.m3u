@@ -223,35 +223,14 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLB
 #EXTINF:-1 group_id=11,1101 F0X SP0RTS 2
 http://server.internext.tv:8080/gaurav/gaurav123/36340
 
-#EXTINF:-1 group_id=11,1101 F0X SP0RTS 1 HD
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/45
-
-#EXTINF:-1 group_id=11,1101 F0X SP0RTS 2 HD
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/44
-
-#EXTINF:-1 group_id=11,1101 F0X SP0RTS 3 HD
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/43
-
 #EXTINF:-1 group_id=11,1101 F0X SP0RTS 4
 http://server.internext.tv:8080/gaurav/gaurav123/36323
-
-#EXTINF:-1 group_id=11,1101 F0X SP0RTS 4 HD
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/42
 
 #EXTINF:-1 group_id=11,1101 F0X SP0RTS 5
 http://server.internext.tv:8080/gaurav/gaurav123/36322
 
-#EXTINF:-1 group_id=11,1101 F0X SP0RTS 5 HD
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/41
-
-#EXTINF:-1 group_id=11,1101 F0X SP0RTS 6 HD
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/40
-
 #EXTINF:-1 group_id=11,1101 ZIGGO Golf
 http://server.internext.tv:8080/gaurav/gaurav123/36348
-
-#EXTINF:-1 group_id=11,1101 ZIGGO Racing
-http://server.internext.tv:8080/gaurav/gaurav123/36347
 
 #EXTINF:-1 group_id=11,1101 Ziggo Sport Extra1
 http://server.internext.tv:8080/gaurav/gaurav123/36327
@@ -406,5 +385,3 @@ http://server.internext.tv:8080/gaurav/gaurav123/36366
 #EXTINF:-1 group_id=12,1201 F1LM 1 PREMIÈRE
 http://server.internext.tv:8080/gaurav/gaurav123/36365
 
-#EXTINF:-1 group_id=12,1201 F1LM 1 FAMILY 2
-http://server.internext.tv:8080/gaurav/gaurav123/37988
