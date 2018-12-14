@@ -192,7 +192,7 @@ http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 #EXTINF:-1 group_id=4,402 Rèal Màdrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=4,402,MU TV 
+#EXTINF:-1 group_id=4,402 MÜ TV 
 http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8 
 
 #EXTINF:-1 group_id=5 logo="plugin_file://logos/foxs.png,501 F0X S1 (AUS)
