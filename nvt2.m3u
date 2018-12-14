@@ -229,23 +229,56 @@ http://server.internext.tv:8080/gaurav/gaurav123/36323
 #EXTINF:-1 group_id=11,1101 F0X SP0RTS 5
 http://server.internext.tv:8080/gaurav/gaurav123/36322
 
-#EXTINF:-1 group_id=11,1101 ZIGGO Golf
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Golf
 http://server.internext.tv:8080/gaurav/gaurav123/36348
 
-#EXTINF:-1 group_id=11,1101 Ziggo Sport Extra1
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Extra1
 http://server.internext.tv:8080/gaurav/gaurav123/36327
 
-#EXTINF:-1 group_id=11,1101 Ziggo Sport Extra2
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Extra2
 http://server.internext.tv:8080/gaurav/gaurav123/36341
 
-#EXTINF:-1 group_id=11,1101 Ziggo Sport Select HD
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Select HD
 http://server.internext.tv:8080/gaurav/gaurav123/36329
 
-#EXTINF:-1 group_id=11,1101 Ziggo Sport Select
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Select
 http://server.internext.tv:8080/gaurav/gaurav123/36346
 
-#EXTINF:-1 group_id=11,1101 ZIGGO Voetbal
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Voetbal
 http://server.internext.tv:8080/gaurav/gaurav123/36345
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS  1 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1157.m3u8
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS  2 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1156.m3u8
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS  3 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1155.m3u8
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS  4 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1154.m3u8
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS  5 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1153.m3u8
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS  6 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1152.m3u8
+
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Golf HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1122.m3u8
+
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1121.m3u8
+
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Racing HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1120.m3u8
+
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt Select HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1119.m3u8
+
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp0rt VOETBAL HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1118.m3u8
 
 #EXTINF:-1 group_id=11,1101 BTS1 HD
 http://server.internext.tv:8080/gaurav/gaurav123/3234
