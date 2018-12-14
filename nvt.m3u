@@ -114,3 +114,9 @@ http://103.194.171.37/vvv/s11/index.m3u8
 
 #EXTINF:-1 group_id=2,201 F0X SP0RTS 1 HD
 http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1157.m3u8
+
+#EXTINF:-1 group_id=2,201 Zigg0 Sp0rt Sèlect HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1119.m3u8
+
+#EXTINF:-1 group_id=2,201 Zigg0 Sp0rt V0ETBAL HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1118.m3u8
