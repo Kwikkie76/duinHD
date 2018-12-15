@@ -229,56 +229,42 @@ http://server.internext.tv:8080/gaurav/gaurav123/36323
 #EXTINF:-1 group_id=11,1101 F0X SP0RTS 5
 http://server.internext.tv:8080/gaurav/gaurav123/36322
 
-#EXTINF:-1 group_id=11,1101 Zigg0 S Golf
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp Golf
 http://server.internext.tv:8080/gaurav/gaurav123/36348
 
-#EXTINF:-1 group_id=11,1101 Zigg0 S Extra1
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp Extra1
 http://server.internext.tv:8080/gaurav/gaurav123/36327
 
-#EXTINF:-1 group_id=11,1101 Zigg0 S Extra2
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp Extra2
 http://server.internext.tv:8080/gaurav/gaurav123/36341
 
-#EXTINF:-1 group_id=11,1101 Zigg0 S Select
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp Select
 http://server.internext.tv:8080/gaurav/gaurav123/36329
 
-#EXTINF:-1 group_id=11,1101 Zigg0 S Select
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp Select
 http://server.internext.tv:8080/gaurav/gaurav123/36346
 
-#EXTINF:-1 group_id=11,1101 Zigg0 S V0etbal
+#EXTINF:-1 group_id=11,1101 Zigg0 Sp V0etbal
 http://server.internext.tv:8080/gaurav/gaurav123/36345
 
-#EXTINF:-1 group_id=11,1101 F0X S  1 30s laden
+#EXTINF:-1 group_id=11,1101 F0X S  1
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/45
 
-#EXTINF:-1 group_id=11,1101 F0X S  2 30s laden
+#EXTINF:-1 group_id=11,1101 F0X S  2
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/44
 
-#EXTINF:-1 group_id=11,1101 F0X S  3 30s laden
+#EXTINF:-1 group_id=11,1101 F0X S  3
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/43
 
-#EXTINF:-1 group_id=11,1101 F0X S  4 30s laden
+#EXTINF:-1 group_id=11,1101 F0X S  4
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/42
 
-#EXTINF:-1 group_id=11,1101 F0X S  5 30s laden
+#EXTINF:-1 group_id=11,1101 F0X S  5 
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/41
 
-#EXTINF:-1 group_id=11,1101 F0X S 6 30s laden
+#EXTINF:-1 group_id=11,1101 F0X S  6
 http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/40
 
-#EXTINF:-1 group_id=11,1101 Zigg0 S G0lf 30s laden
-http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1122.m3u8
-
-#EXTINF:-1 group_id=11,1101 Zigg0 S 30s laden
-http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1121.m3u8
-
-#EXTINF:-1 group_id=11,1101 Zigg0 S Ràcing 30s laden
-http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1120.m3u8
-
-#EXTINF:-1 group_id=11,1101 Zigg0 S Select 30s laden
-http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1119.m3u8
-
-#EXTINF:-1 group_id=11,1101 Zigg0 S V0ETBAL 30s laden
-http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1118.m3u8
 
 #EXTINF:-1 group_id=11,1102 BTS1 HD
 http://server.internext.tv:8080/gaurav/gaurav123/3234
