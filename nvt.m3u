@@ -112,8 +112,20 @@ http://103.194.171.37/vvv/s100/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 11
 http://103.194.171.37/vvv/s11/index.m3u8
 
+#EXTINF:-1 group_id=1,1
+http://iptv-line.com:6969/tommiii345@web.de/hBk9HfkeGW/3909
+
+#EXTINF:-1 group_id=1,2
+http://iptv-line.com:6969/tommiii345@web.de/hBk9HfkeGW/3908
+
+#EXTINF:-1 group_id=1,3
+http://iptv-line.com:6969/tommiii345@web.de/hBk9HfkeGW/3907
+
+#EXTINF:-1 group_id=1,4
+http://iptv-line.com:6969/tommiii345@web.de/hBk9HfkeGW/3905
+
 #EXTINF:-1 group_id=2,201 F0X S 1
-http://panelxtream.smartseyirhd.de:8080/garaveli/garaveli/45
+http://iptv-line.com:6969/tommiii345@web.de/hBk9HfkeGW/157
 
 #EXTINF:-1 group_id=2,201 Zigg0 S Sèlect HD
 http://server.internext.tv:8080/gaurav/gaurav123/36329
