@@ -111,27 +111,3 @@ http://103.194.171.37/vvv/s100/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 11
 http://103.194.171.37/vvv/s11/index.m3u8
-
-#EXTINF:-1 group_id=1,1
-http://server.internext.tv:8080/gaurav/gaurav123/36339
-
-#EXTINF:-1 group_id=1,1
-http://server.internext.tv:8080/gaurav/gaurav123/36357
-
-#EXTINF:-1 group_id=1,3
-http://server.internext.tv:8080/gaurav/gaurav123/36335
-
-#EXTINF:-1 group_id=1,4
-http://server.internext.tv:8080/gaurav/gaurav123/36355
-
-#EXTINF:-1 group_id=1,5
-http://server.internext.tv:8080/gaurav/gaurav123/36354
-
-#EXTINF:-1 group_id=1,6
-http://server.internext.tv:8080/gaurav/gaurav123/36336
-
-#EXTINF:-1 group_id=2,7
-http://server.internext.tv:8080/gaurav/gaurav123/36356
-
-#EXTINF:-1 group_id=2,8
-http://server.internext.tv:8080/gaurav/gaurav123/36362
