@@ -183,10 +183,10 @@ http://163.172.86.59:3135/1513/BT/index.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
 http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15738.ts
 
-#EXTINF:-1 group_id=4,491 PREMIÈR S1
+#EXTINF:-1 group_id=4,401 PREMIÈR S1
 http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7915.ts
 
-#EXTINF:-1 group_id=4,491 PREMIÈR S2
+#EXTINF:-1 group_id=4,401 PREMIÈR S2
 http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6568.ts
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
