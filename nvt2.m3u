@@ -186,14 +186,8 @@ http://45.58.62.92:8080
 #EXTINF:-1 group_id=5 logo="plugin_file://logos/foxs.png,501 F0X S2 (AUS)
 http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 
-#EXTINF:-1 group_id=5 logo="plugin_file://logos/foxs.png,501 F0X S HD
-http://103.242.13.90:5555/udp/239.4.1.47:10000
-
 #EXTINF:-1group_id=5,501 S0NY TEN1 HD (IND)
 http://163.172.211.93:8081/Ten/1/index.m3u8
-
-#EXTINF:-1group_id=5,501 S0NY TEN2 HD (IND)
-http://163.172.218.205:8081/2Ten/2/index.m3u8?token=MGNkNDJhZjcwNzM2NzQ4ZDcwNTQ2ZTNlOTE3ZDc1OTg6MTUzMzg5MDU4Mw==
 
 #EXTINF:-1 group_id=5,502 ASTR0 SùperSP0RT 3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
