@@ -180,7 +180,7 @@ http://livebar.pw/lba/123/g4/bt3sport.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 3 (alt)
 http://163.172.86.59:3135/1513/BT/index.m3u8
 
-EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
 http://163.172.86.59:3135/Espn/BT/index.m3u8
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
