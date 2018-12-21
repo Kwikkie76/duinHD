@@ -171,41 +171,8 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 1
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6649.ts
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 2
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/66753.ts
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 3
 http://163.172.86.59:3135/1513/BT/index.m3u8
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/15738.ts
-
-#EXTINF:-1 group_id=4,401 PREMIÈR S1
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7915.ts
-
-#EXTINF:-1 group_id=4,401 PREMIÈR S2
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6568.ts
-
-#EXTINF:-1 group_id=4,401 S'ky S Mix
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7925
-
-#EXTINF:-1 group_id=4,401 S'ky S Actíon
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7927
-
-#EXTINF:-1 group_id=4,401 Eír S1
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6612
-
-#EXTINF:-1 group_id=4,401 Eír S2
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6611
-
-#EXTINF:-1 group_id=4,401 Eléven S1
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/53155
-
-#EXTINF:-1 group_id=4,401 Eléven S2
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/53151
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
@@ -228,33 +195,5 @@ http://163.172.211.93:8081/Ten/1/index.m3u8
 #EXTINF:-1 group_id=5,502 ASTR0 SùperSP0RT 3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
-#EXTINF:-1 group_id=6,601 N'BÀ TV
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14338.ts
-
-#EXTINF:-1 group_id=6,601 N'HL N
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/14409
-
-#EXTINF:-1 group_id=6,601 Tennis
-http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7084.ts
-
-#EXTINF:-1 group_id=6,601 BEÍN S
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/4902
-
-#EXTINF:-1 group_id=6,601 NÈSN
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/34415
-
-#EXTINF:-1 group_id=6,602 TS'N1
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6353
-
-#EXTINF:-1 group_id=6,602 TS'N2
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6352
-
-#EXTINF:-1 group_id=6,602 TS'N3
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6351
-
-#EXTINF:-1 group_id=6,602 TS'N4
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6350
-
-#EXTINF:-1 group_id=6,602 TS'N5
-http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6349
-
+#EXTINF:-1 group_id=6,601 M'LB N
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
