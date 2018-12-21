@@ -189,6 +189,18 @@ http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7915.ts
 #EXTINF:-1 group_id=4,401 PREMIÈR S2
 http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/6568.ts
 
+#EXTINF:-1 group_id=4,401 S'ky S Mix
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7925
+
+#EXTINF:-1 group_id=4,401 S'ky S Actíon
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/7927
+
+#EXTINF:-1 group_id=4,401 Eír S1
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6612
+
+#EXTINF:-1 group_id=4,401 Eír S2
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6611
+
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 
@@ -209,12 +221,6 @@ http://163.172.211.93:8081/Ten/1/index.m3u8
 
 #EXTINF:-1 group_id=5,502 ASTR0 SùperSP0RT 3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
-
-#EXTINF:-1 group_id=6 logo="plugin_file://logos/MLB.png,603 MLBN HD1
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 group_id=6,603 MLBL
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 
 #EXTINF:-1 group_id=6,601 NBÀ TV
 http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14338.ts
