@@ -201,6 +201,12 @@ http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6612
 #EXTINF:-1 group_id=4,401 Eír S2
 http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/6611
 
+#EXTINF:-1 group_id=4,401 Eléven S1
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/53155
+
+#EXTINF:-1 group_id=4,401 Eléven S2
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/53151
+
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 
@@ -222,11 +228,17 @@ http://163.172.211.93:8081/Ten/1/index.m3u8
 #EXTINF:-1 group_id=5,502 ASTR0 SùperSP0RT 3
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
-#EXTINF:-1 group_id=6,601 NBÀ TV
+#EXTINF:-1 group_id=6,601 N'BÀ TV
 http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/14338.ts
+
+#EXTINF:-1 group_id=6,601 N'HL N
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/14409
 
 #EXTINF:-1 group_id=6,601 Tennis
 http://uk.msnpanel.pw:8080/live/lrwqp2tn5/tgd3r3u3h4/7084.ts
+
+#EXTINF:-1 group_id=6,601 BEÍN S
+http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/4902
 
 #EXTINF:-1 group_id=6,601 NÈSN
 http://uk.msnpanel.pw:80/lrwqp2tn5/tgd3r3u3h4/34415
