@@ -174,11 +174,32 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 1
+http://163.172.86.59:3135/INDtyu/aus/index.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 2
+https://stream.wicket.pw/app/sonyespnhd.m3u8
+
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 3
 http://163.172.86.59:3135/1513/BT/index.m3u8
 
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
 http://163.172.86.59:3135/Espn/BT/index.m3u8
+
+#EXTINF:-1 group_id=4,401 S'KY S Míx
+http://163.172.211.93:8081/Sky/Mix/index.m3u8
+
+#EXTINF:-1 group_id=4,401 S'KY S Maín
+http://flussonic3.royaliptvhd.com/UKSP:SKYSPORTSMAINEVENTSHD/mpegts?token=6Tj3ldeBG1
+
+#EXTINF:-1 group_id=4,401 S'KY S F00tball
+http://62.210.99.158:9989/live?channelId=125&deviceMac=00:1A:79:BE:3F:22&uid=767
+
+#EXTINF:-1 group_id=4,401 S'KY S F1
+http://92.14.111.173:8007/play/a011
+
+#EXTINF:-1 group_id=4,401 S'KY S Néws
+http://flussonic3.royaliptvhd.com/UKSP:SKYSPORTSNEWSHD/mpegts?token=6Tj3ldeBG1
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
@@ -209,6 +230,15 @@ http://109.248.236.41:4433/udp/238.1.1.61:1234
 
 #EXTINF:-1 group_id=5,501 Súper S0ccer
 http://210.210.155.35/uq2663/h/h20/index.m3u8
+
+#EXTINF:-1 group_id=5,502 S'KY S1 (Dui)
+http://92.60.237.33:17000/play/SkySport1
+
+#EXTINF:-1 group_id=5,502 S'KY S2 (Dui)
+http://92.60.237.33:17000/play/SkySport2
+
+#EXTINF:-1 group_id=5,502 S'KY S news (Dui)
+http://92.60.237.33:17000/play/SkySportNews
 
 #EXTINF:-1 group_id=6,601 M'LB N
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
