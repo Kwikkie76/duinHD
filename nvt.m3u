@@ -79,6 +79,12 @@ http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690
 #EXTINF:-1 group_id=0,110 Evenaar (BE)
 http://api.new.livestream.com/accounts/27755193/events/8469152/live.m3u8
 
+#EXTINF:-1 group_id=2,201 F0Xs 1
+http://51.15.182.233/hls/sebn4.m3u8
+
+#EXTINF:-1 group_id=2,201 Z1gg0 Sélect
+http://51.15.182.233/hls/sebn5.m3u8
+
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYF0.png,202 CYF0 1
 http://103.194.171.37/vvv/soso1/index.m3u8
 
