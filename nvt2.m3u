@@ -233,3 +233,93 @@ http://210.210.155.35/uq2663/h/h20/index.m3u8
 
 #EXTINF:-1 group_id=6,601 M'LB N
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 03
+http://194.67.220.30/hls/sebn3.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 04
+http://51.15.182.233/hls/sebn4.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 05
+http://51.15.182.233/hls/sebn5.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 06
+http://194.67.220.30/hls/sebn6.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 07
+http://51.15.182.233/hls/sebn7.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 08
+http://194.67.220.30/hls/sebn8.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 10
+http://194.67.220.30/hls/sebn10.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 11
+http://194.67.208.149/hls/101.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 12
+http://194.67.208.149/hls/102.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 13
+http://194.67.208.149/hls/103.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 14
+http://194.67.208.149/hls/104.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 15
+http://194.67.208.149/hls/105.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 16
+http://194.67.208.149/hls/106.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 17
+http://194.67.208.149/hls/107.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 18
+http://194.67.208.149/hls/108.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 19
+http://194.67.208.149/hls/109.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 20
+http://194.67.208.149/hls/110.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 21
+http://194.67.220.30/hls/111.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 22
+http://194.67.220.30/hls/112.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 23
+http://194.67.220.30/hls/113.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 24
+http://194.67.220.30/hls/114.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 25
+http://194.67.220.30/hls/115.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 26
+http://194.67.220.30/hls/116.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 27
+http://194.67.220.30/hls/117.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 28
+http://194.67.220.30/hls/118.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 29
+http://194.67.220.30/hls/119.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 30
+http://194.67.220.30/hls/120.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 31
+http://194.67.220.30/hls/121.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 32
+http://194.67.220.30/hls/122.m3u8
+
+#EXTINF:-1 group_id=11,1101 SÉBN 33
+http://194.67.220.30/hls/123.m3u8
