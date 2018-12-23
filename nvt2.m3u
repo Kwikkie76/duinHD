@@ -231,14 +231,5 @@ http://109.248.236.41:4433/udp/238.1.1.61:1234
 #EXTINF:-1 group_id=5,501 Súper S0ccer
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 
-#EXTINF:-1 group_id=5,502 S'KY S1 (Dui)
-http://92.60.237.33:17000/play/SkySport1
-
-#EXTINF:-1 group_id=5,502 S'KY S2 (Dui)
-http://92.60.237.33:17000/play/SkySport2
-
-#EXTINF:-1 group_id=5,502 S'KY S news (Dui)
-http://92.60.237.33:17000/play/SkySportNews
-
 #EXTINF:-1 group_id=6,601 M'LB N
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
