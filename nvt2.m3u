@@ -180,9 +180,6 @@ http://163.172.86.59:3135/INDtyu/aus/index.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 1 (ALT)
 http://stream.wicket.pw/app/sonyespnhd.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 2
-http://stream.wicket.pw/app/sonyespnhd.m3u8
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 3
 http://163.172.86.59:3135/1513/BT/index.m3u8
 
