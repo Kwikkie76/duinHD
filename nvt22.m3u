@@ -37,6 +37,8 @@ http://hello3.somalia1.tk/vvv/s222/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 3
 http://hello2.somalia1.tk/vvv/s3/index.m3u8
 
+
+
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 cyfo 4
 http://hello1.somalia1.tk/vvv/s4/index.m3u8
 
@@ -146,3 +148,76 @@ http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18411.ts
 
 #EXTINF:-1 group_id=6,601 EPSN U HD1
 http://vivid.ddns.net:25461/live/thePr0vider/USAcanUkCha/18410.ts
+
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 1
+http://163.172.86.59:3135/INDtyu/aus/index.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 1 (ALT)
+http://stream.wicket.pw/app/sonyespnhd.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 3
+http://163.172.86.59:3135/1513/BT/index.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
+http://163.172.86.59:3135/Espn/BT/index.m3u8
+
+#EXTINF:-1 group_id=4,401 S'KY S Míx
+http://62.210.99.158:9989/live?channelId=131&deviceMac=00:1A:79:BE:3F:22&uid=767
+
+#EXTINF:-1 group_id=4,401 S'KY S Míx.
+http://163.172.211.93:8081/Sky/Mix/index.m3u8
+
+#EXTINF:-1 group_id=4,401 S'KY S Maín
+http://flussonic3.royaliptvhd.com/UKSP:SKYSPORTSMAINEVENTSHD/mpegts?token=6Tj3ldeBG1
+
+#EXTINF:-1 group_id=4,401 S'KY S F00tball
+http://62.210.99.158:9989/live?channelId=125&deviceMac=00:1A:79:BE:3F:22&uid=767
+
+#EXTINF:-1 group_id=4,401 S'KY S F1
+http://92.14.111.173:8007/play/a011
+
+#EXTINF:-1 group_id=4,401 S'KY S Néws
+http://flussonic3.royaliptvhd.com/UKSP:SKYSPORTSNEWSHD/mpegts?token=6Tj3ldeBG1
+
+#EXTINF:-1 group_id=4,402 Chelseà TV
+http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+
+#EXTINF:-1 group_id=4,402 Rèal Màdrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group_id=4,402 MÜ TV 
+http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8 
+
+#EXTINF:-1 group_id=5,501 SÉVEN S (AUS)
+http://45.58.62.92:8080
+
+#EXTINF:-1 group_id=5 logo="plugin_file://logos/foxs.png,501 F0X S2 (AUS)
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+
+#EXTINF:-1group_id=5,501 S0NY TEN1 HD (IND)
+http://163.172.211.93:8081/Ten/1/index.m3u8
+
+#EXTINF:-1group_id=5,501 S0NY TEN1 HD (IND).
+http://163.172.86.59:3135/tEN/1sPOHd/index.m3u8
+
+#EXTINF:-1group_id=5,501 S0NY TEN2 HD
+http://163.172.218.205:8081/T/2/index.m3u8
+
+#EXTINF:-1group_id=5,501 S0NY SÍX (IND)
+http://163.172.218.205:8081/Six/HD/index.m3u8
+
+#EXTINF:-1group_id=5,501 PTV SPÓRTS (IND)
+http://flu1.podzone.net:9091/En/Sl/index.m3u8
+
+#EXTINF:-1group_id=5,501 Vìasat S
+http://109.248.236.41:4433/udp/238.1.1.50:1234
+
+#EXTINF:-1 group_id=5,501 ASTR0 SùperSP0RT 3
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:-1 group_id=5,501 Sètanta S+ (dual audio)
+http://109.248.236.41:4433/udp/238.1.1.61:1234
