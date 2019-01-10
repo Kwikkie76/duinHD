@@ -99,10 +99,10 @@ http://103.194.171.37/vvv/s100/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 11
 http://103.194.171.37/vvv/s11/index.m3u8
 
-#EXTINF:-1 group_id=2,201 F0Xs 1
+#EXTINF:-1 group_id=2,201 F0X/Z1GG0
 http://51.15.182.233/hls/sebn4.m3u8
 
-#EXTINF:-1 group_id=2,201 Z1gg0 Sélect
+#EXTINF:-1 group_id=2,201 Z1gg0/F0X
 http://51.15.182.233/hls/sebn5.m3u8
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
@@ -134,9 +134,6 @@ http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/
 
 #EXTINF:-1 group_id=3,301 Astr0
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
-#EXTINF:-1 group_id=3,301 Anime
-http://198.98.58.76:1935/live/est/chunklist_w1582100084.m3u8
 
 #EXTINF:-1 group_id=3,302 H0llywood M0vies 1
 http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
