@@ -174,7 +174,10 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS 1
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS1
+http://163.172.46.35:8080/ind/wi/index.m3u8
+
+#EXTINF:-1 group_id=4,401 BTS2
 http://stream.wicket.pw/app/sonyespnhd.m3u8
 
 #EXTINF:-1 group_id=4,401 S'KY S F1
@@ -189,8 +192,14 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?
 #EXTINF:-1 group_id=4,402 MÜ TV 
 http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8 
 
+#EXTINF:-1 group_id=4,403 0Lympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
 #EXTINF:-1 group_id=5,501 SÉVEN S (AUS)
 http://45.58.62.92:8080
+
+#EXTINF:-1group_id=5,501 S0NY TEN1 HD
+http://142.93.219.225:8081/Ten1HD/index.m3u8
 
 #EXTINF:-1group_id=5,501 S0NY TEN2 HD
 http://163.172.218.205:8081/T/2/index.m3u8
