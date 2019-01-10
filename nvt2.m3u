@@ -177,11 +177,23 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS1
 http://163.172.46.35:8080/ind/wi/index.m3u8
 
-#EXTINF:-1 group_id=4,401 BTS2
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS2
 http://stream.wicket.pw/app/sonyespnhd.m3u8
+
+#EXTINF:-1 group_id=4,401 Prèmiersp0rts1
+http://81.171.27.106:9002/play/a00c
+
+#EXTINF:-1 group_id=4,401 Prèmiersp0rts2
+http://81.171.27.106:9002/play/a014
 
 #EXTINF:-1 group_id=4,401 S'KY S F1
 http://92.14.111.173:8007/play/a011
+
+#EXTINF:-1 group_id=4,401 EìR Sp0rt
+http://81.171.27.106:9002/play/a00b
+
+#EXTINF:-1 group_id=4,401 Ràcing-uk
+http://81.171.27.106:9002/play/a00g
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
@@ -218,6 +230,9 @@ http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1 group_id=5,501 Sètanta S+ (dual audio)
 http://109.248.236.41:4433/udp/238.1.1.61:1234
+
+#EXTINF:-1 group_id=5,501 Sètanta S+ (dual audio) 2
+http://77.245.98.22:8000/play/401/index.m3u8
 
 #EXTINF:-1 group_id=5,501 Súper S0ccer
 http://210.210.155.35/uq2663/h/h20/index.m3u8
