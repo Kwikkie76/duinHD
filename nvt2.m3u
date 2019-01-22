@@ -174,17 +174,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS1
 http://163.172.46.35:8080/ind/wi/index.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS2
-http://stream.wicket.pw/app/sonyespnhd.m3u8
-
-#EXTINF:-1 group_id=4,401 Prèmiersp0rts1
-http://81.171.27.106:9002/play/a00c
-
 #EXTINF:-1 group_id=4,401 Prèmiersp0rts2
 http://81.171.27.106:9002/play/a014
-
-#EXTINF:-1 group_id=4,401 S'KY S F1
-http://92.14.111.173:8007/play/a011
 
 #EXTINF:-1 group_id=4,401 EìR Sp0rt
 http://81.171.27.106:9002/play/a00b
@@ -212,9 +203,6 @@ http://163.172.218.205:8081/T/1/index.m3u8
 
 #EXTINF:-1group_id=5,501 S0NY TEN2 HD
 http://163.172.218.205:8081/T/2/index.m3u8
-
-#EXTINF:-1group_id=5,501 S0NY SÍX (IND)
-http://163.172.218.205:8081/Six/HD/index.m3u8
 
 #EXTINF:-1group_id=5,501 PTV SPÓRTS (IND)
 http://flu1.podzone.net:9091/En/Sl/index.m3u8
