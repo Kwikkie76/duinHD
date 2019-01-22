@@ -99,10 +99,10 @@ http://103.194.171.37/vvv/s100/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 11
 http://103.194.171.37/vvv/s11/index.m3u8
 
-#EXTINF:-1 group_id=2,201 F0X/Z1GG0
+#EXTINF:-1 group_id=2,201 F0X/Z1GG0 1
 http://51.15.182.233/hls/sebn4.m3u8
 
-#EXTINF:-1 group_id=2,201 Z1gg0/F0X
+#EXTINF:-1 group_id=2,201 F0X/Z1GG0 2
 http://51.15.182.233/hls/sebn5.m3u8
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
@@ -208,7 +208,7 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 http://45.58.62.92:8080
 
 #EXTINF:-1group_id=5,501 S0NY TEN1 HD
-http://142.93.219.225:8081/Ten1HD/index.m3u8
+http://163.172.218.205:8081/T/1/index.m3u8
 
 #EXTINF:-1group_id=5,501 S0NY TEN2 HD
 http://163.172.218.205:8081/T/2/index.m3u8
@@ -228,7 +228,7 @@ http://103.242.13.90:5555/udp/239.4.1.148:10000
 #EXTINF:-1 group_id=5,501 Sètanta S+ (dual audio)
 http://109.248.236.41:4433/udp/238.1.1.61:1234
 
-#EXTINF:-1 group_id=5,501 Sètanta S+ (dual audio) 2
+#EXTINF:-1 group_id=5,501 Sètanta Sp (dual audio)
 http://77.245.98.22:8000/play/401/index.m3u8
 
 #EXTINF:-1 group_id=5,501 Súper S0ccer
