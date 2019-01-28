@@ -148,10 +148,25 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS1
-https://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
+http://vip7stream.pw/lba/123/g2/ukbtsport1.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS2
+http://vip7stream.pw/lba/123/g3/bt2.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS3
+http://vip7stream.pw/lba/123/g4/bt3sport.m3u8
+
+#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
+http://vip7stream.pw/lba/123/g6/espnbt.m3u8
 
 #EXTINF:-1 group_id=4,401 S'Ky s F1
 http://92.14.111.173:8007/play/a011
+
+#EXTINF:-1 group_id=4,401 S'Ky s MàinEv
+http://vip7stream.pw/lba/123/g5/skymainuk.m3u8
+
+#EXTINF:-1 group_id=4,401 S'Ky s PL
+http://163.172.61.99:8080/yu0k/skkiepmrlgeu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
