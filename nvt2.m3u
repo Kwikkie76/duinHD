@@ -123,24 +123,6 @@ http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/
 #EXTINF:-1 group_id=3,301 Astr0
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
-#EXTINF:-1 group_id=3,302 H0llywood M0vies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 group_id=3,302 H0llywood M0vies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 group_id=3,302 H0llywood M0vies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1 group_id=3,302 H0llywood M0vies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 group_id=3,302 H0llywood M0vies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 group_id=3,302 H0llywood M0vies 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
@@ -156,13 +138,7 @@ http://vip7stream.pw/lba/123/g4/bt3sport.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS EPSN
 http://vip7stream.pw/lba/123/g6/espnbt.m3u8
 
-#EXTINF:-1 group_id=4,401 S'Ky s F1
-http://92.14.111.173:8007/play/a011
-
-#EXTINF:-1 group_id=4,401 S'Ky s MàinEv
-http://vip7stream.pw/lba/123/g5/skymainuk.m3u8
-
-#EXTINF:-1 group_id=4,401 S'Ky s PL
+#EXTINF:-1 group_id=4,401 S'Ky s 
 http://163.172.61.99:8080/yu0k/skkiepmrlgeu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
