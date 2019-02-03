@@ -111,8 +111,17 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium Cinema
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB01 
+http://87.246.0.155:5286/tv_HBO
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB02
+http://87.246.0.155:5286/tv_HBO_2
+
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (Int)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB03
+http://87.246.0.155:5286/tv_HBO_3 
 
 #EXTINF:-1 group_id=3,301 My C1nema
 http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/S4/mnf.m3u8
