@@ -182,6 +182,9 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLB
 #EXTINF:-1 group_id=6,601 N`BÀ
 http://203.154.243.32:8088/live/nba/index.m3u8
 
+#EXTINF:-1 group_id=6,601 WTB
+http://203.154.243.32:8088/live/wtb/index.m3u8
+
 #EXTINF:-1 group_id=11,1101 SÉBN 03
 http://194.67.220.30/hls/sebn3.m3u8
 
