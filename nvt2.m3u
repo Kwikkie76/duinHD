@@ -43,7 +43,7 @@ http://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 http://d3slqp9xhts6qb.cloudfront.net/omroepbrabantTv/index.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/L1MBURG.png,102 L1MBURG
-http://livestreams.omroep.nl/live/regionaal/l1/l1tv/l1tv.isml/l1tv.m3u8?hash=749c8354dc5b6ed4e0d0b4f91fbf2579&protection=url
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVMeppel.png,103 RTV Meppel (Dr)
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
@@ -102,12 +102,6 @@ http://103.194.171.37/vvv/s100/index.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 11
 http://103.194.171.37/vvv/s11/index.m3u8
 
-#EXTINF:-1 group_id=2,201 F0X/Z1GG0 1
-http://51.15.182.233/hls/sebn4.m3u8
-
-#EXTINF:-1 group_id=2,201 F0X/Z1GG0 2
-http://51.15.182.233/hls/sebn5.m3u8
-
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/Sony.png,301 S0ny M0vie Channel (UK)
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
@@ -158,9 +152,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:-1 group_id=5,501 SÉVEN S (AUS)
 http://45.58.62.92:8080
-
-#EXTINF:-1group_id=5,501 S0NY SIX (IND)
-http://163.172.218.205:8081/T/1/index.m3u8
 
 #EXTINF:-1 group_id=5,501 Sètanta Sp (dual audio)
 http://77.245.98.22:8000/play/401/index.m3u8
