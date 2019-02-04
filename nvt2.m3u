@@ -3,7 +3,7 @@
 #EXTINF:-1 group_id=1,101 BVN
 http://190.13.120.112/streams/bvn.m3u8
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 Norderney 192 
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 192 Norderney  
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDrenthe.png,102 RTV Drenthe
