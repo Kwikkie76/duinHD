@@ -69,7 +69,7 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
 
-#EXTINF:-1 group_id=2,201 192 TV 
+#EXTINF:-1 group_id=1,101 192 TV 
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33909
 
 #EXTINF:-1 group_id=2,201 FOX S1 
@@ -254,12 +254,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 #EXTINF:-1 group_id=6,601 M'LB L
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-
-#EXTINF:-1 group_id=6,601 N`BÀ
-http://203.154.243.32:8088/live/nba/index.m3u8
-
-#EXTINF:-1 group_id=6,601 N'BA TV
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/5005
 
 #EXTINF:-1 group_id=6,601 T'SN 1
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4966
