@@ -72,22 +72,22 @@ http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.
 #EXTINF:-1 group_id=1,101 192 TV 
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33909
 
-#EXTINF:-1 group_id=2,201 FOX S1 
+#EXTINF:-1 group_id=2,201 F0X S1 
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33859
 
-#EXTINF:-1 group_id=2,201 FOX S2 
+#EXTINF:-1 group_id=2,201 F0X S2 
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33858
 
-#EXTINF:-1 group_id=2,201 FOX S3 
+#EXTINF:-1 group_id=2,201 F0X S3 
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33849
 
-#EXTINF:-1 group_id=2,201 FOX S4 
+#EXTINF:-1 group_id=2,201 F0X S4 
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33855
 
-#EXTINF:-1 group_id=2,201 FOX S5
+#EXTINF:-1 group_id=2,201 F0X S5
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33853
 
-#EXTINF:-1 group_id=2,201 Fox S6 
+#EXTINF:-1 group_id=2,201 F0x S6 
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33851
 
 #EXTINF:-1 group_id=2,201 Z1gg0 S eXtra 1
@@ -212,9 +212,6 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10290
 
 #EXTINF:-1 group_id=4,601 S'ky S  PL
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10286
-
-#EXTINF:-1 group_id=4,401 S'Ky s 
-http://163.172.61.99:8080/yu0k/skkiepmrlgeu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
