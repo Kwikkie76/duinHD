@@ -72,23 +72,71 @@ http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.
 #EXTINF:-1 group_id=1,101 192 TV 
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33909
 
-#EXTINF:-1 group_id=2,201 F0X S1 
+#EXTINF:-1 group_id=2,201 F0X S1.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33696
+
+#EXTINF:-1 group_id=2,201 F0X S1.2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33860
+
+#EXTINF:-1 group_id=2,201 F0X S1.3
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33859
 
-#EXTINF:-1 group_id=2,201 F0X S2 
+#EXTINF:-1 group_id=2,201 F0X S1.4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33850
+
+#EXTINF:-1 group_id=2,201 F0X S1.5
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33848
+
+#EXTINF:-1 group_id=2,201 F0X S2.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33695
+
+#EXTINF:-1 group_id=2,201 F0X S2.2
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33858
 
-#EXTINF:-1 group_id=2,201 F0X S3 
+#EXTINF:-1 group_id=2,201 F0X S2.3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33857
+
+#EXTINF:-1 group_id=2,201 F0X S3.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33693
+
+#EXTINF:-1 group_id=2,201 F0X S3.2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33856
+
+#EXTINF:-1 group_id=2,201 F0X S3.3
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33849
 
-#EXTINF:-1 group_id=2,201 F0X S4 
+#EXTINF:-1 group_id=2,201 F0X S3.4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33847
+
+#EXTINF:-1 group_id=2,201 F0X S4.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33690
+
+#EXTINF:-1 group_id=2,201 F0X S4.2
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33855
 
-#EXTINF:-1 group_id=2,201 F0X S5
+#EXTINF:-1 group_id=2,201 F0X S4.3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33854
+
+#EXTINF:-1 group_id=2,201 F0X S5.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33861
+
+#EXTINF:-1 group_id=2,201 F0X S5.2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33689
+
+#EXTINF:-1 group_id=2,201 F0X S5.3
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33853
 
-#EXTINF:-1 group_id=2,201 F0x S6 
+#EXTINF:-1 group_id=2,201 F0X S6.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33852
+
+#EXTINF:-1 group_id=2,201 F0X S6.2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33688
+
+#EXTINF:-1 group_id=2,201 F0X S6.3
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33851
+
+#EXTINF:-1 group_id=2,201 F0X S6.4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33846
 
 #EXTINF:-1 group_id=2,201 Z1gg0 S eXtra 1
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33712
