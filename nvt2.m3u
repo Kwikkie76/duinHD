@@ -138,26 +138,68 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33851
 #EXTINF:-1 group_id=2,201 F0X S6.4
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33846
 
-#EXTINF:-1 group_id=2,201 Z1gg0 S eXtra 1
+#EXTINF:-1 group_id=2,201 Z1GG0 X1.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33759
+
+#EXTINF:-1 group_id=2,201 Z1GG0 X1.2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33756
+
+#EXTINF:-1 group_id=2,201 Z1GG0 X1.3
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33712
 
-#EXTINF:-1 group_id=2,201 Z1gg0 S eXtra 2
+#EXTINF:-1 group_id=2,201 Z1GG0 X1.4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33780
+
+#EXTINF:-1 group_id=2,201 Z1GG0 X2.1
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33711
 
-#EXTINF:-1 group_id=2,201 Z1gg0 S G0lf
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33706
+#EXTINF:-1 group_id=2,201 Z1GG0 S1.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33757
 
-#EXTINF:-1 group_id=2,201 Z1gg0 S 
+#EXTINF:-1 group_id=2,201 Z1GG0 S1.2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33755
+
+#EXTINF:-1 group_id=2,201 Z1GG0 S1.3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33752
+
+#EXTINF:-1 group_id=2,201 Z1GG0 S1.4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33751
+
+#EXTINF:-1 group_id=2,201 Z1GG0 S1.5
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33704
 
-#EXTINF:-1 group_id=2,201 Z1gg0 S Ràcing
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33703
-
-#EXTINF:-1 group_id=2,201 Z1gg0 S sèlect 
+#EXTINF:-1 group_id=2,201 Z1GG0 S1.6
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33700
 
-#EXTINF:-1 group_id=2,201 Z1gg0 S V0etbal 
+#EXTINF:-1 group_id=2,201 Z1GG0 G1.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33754
+
+#EXTINF:-1 group_id=2,201 Z1GG0 G1.2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33758
+
+#EXTINF:-1 group_id=2,201 Z1GG0 G1.4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33706
+
+#EXTINF:-1 group_id=2,201 Z1GG0 G1.5
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33777s
+
+#EXTINF:-1 group_id=2,201 Z1GG0 R1.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33753
+
+#EXTINF:-1 group_id=2,201 Z1GG0 R1.2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33703
+
+#EXTINF:-1 group_id=2,201 Z1GG0 R1.3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33778
+
+#EXTINF:-1 group_id=2,201 Z1GG0 V1.1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33750
+
+#EXTINF:-1 group_id=2,201 Z1GG0 V1.2
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33698
+
+#EXTINF:-1 group_id=2,201 Z1GG0 V1.3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33779
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 1
 http://103.194.171.37/vvv/soso1/index.m3u8
