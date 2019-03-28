@@ -168,12 +168,6 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 #EXTINF:-1 group_id=6,601 F0x Sp0rts 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
-#EXTINF:-1  group_id=6,601 F0x Sp0rts Ràcing
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1  group_id=6,601 Stàdium
-http://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-
 #EXTINF:-1 group_id=11,1101 SÉBN 03
 http://194.67.220.30/hls/sebn3.m3u8
 
