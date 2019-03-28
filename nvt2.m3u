@@ -120,6 +120,12 @@ http://113.161.66.38:4022/rtp/232.84.1.19:8088
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
+#EXTINF:-1 group_id=4,401 BTS 1
+http://cdnak2.cast4u.info/channels/3/10803.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group_id=4,401 BTS 2
+http://185-8-178-139.livesports24.online/btsportsport2.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 
@@ -132,7 +138,7 @@ http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 #EXTINF:-1 group_id=4,403 0Lympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
-#EXTINF:-1 group_id=5,501 SÉVEN S (AUS)
+#EXTINF:-1 group_id=5,501 SÉVEN/F0X (AUS)
 http://45.58.62.92:8080
 
 #EXTINF:-1 group_id=5,501 Dsp0rts
@@ -155,6 +161,15 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 #EXTINF:-1 group_id=6,601 M'LB L
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+
+#EXTINF:-1 group_id=6,601 F0x Sp0rts 1
+http://23.237.22.82:8086/udp/127.0.0.1:56046
+ 
+#EXTINF:-1 group_id=6,601 F0x Sp0rts 2
+http://23.237.22.82:8086/udp/127.0.0.1:56047
+
+#EXTINF:-1  group_id=6,601 F0x Sp0rts Ràcing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
 #EXTINF:-1 group_id=11,1101 SÉBN 03
 http://194.67.220.30/hls/sebn3.m3u8
