@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group_id=1,101 BVN
-http://190.13.120.112/streams/bvn.m3u8
-
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 192 Norderney  
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
@@ -69,138 +66,6 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
 
-#EXTINF:-1 group_id=1,101 192 TV 
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33909
-
-#EXTINF:-1 group_id=2,201 F0X S1.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33696
-
-#EXTINF:-1 group_id=2,201 F0X S1.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33860
-
-#EXTINF:-1 group_id=2,201 F0X S1.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33859
-
-#EXTINF:-1 group_id=2,201 F0X S1.4
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33850
-
-#EXTINF:-1 group_id=2,201 F0X S1.5
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33848
-
-#EXTINF:-1 group_id=2,201 F0X S2.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33695
-
-#EXTINF:-1 group_id=2,201 F0X S2.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33858
-
-#EXTINF:-1 group_id=2,201 F0X S2.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33857
-
-#EXTINF:-1 group_id=2,201 F0X S3.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33693
-
-#EXTINF:-1 group_id=2,201 F0X S3.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33856
-
-#EXTINF:-1 group_id=2,201 F0X S3.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33849
-
-#EXTINF:-1 group_id=2,201 F0X S3.4
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33847
-
-#EXTINF:-1 group_id=2,201 F0X S4.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33690
-
-#EXTINF:-1 group_id=2,201 F0X S4.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33855
-
-#EXTINF:-1 group_id=2,201 F0X S4.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33854
-
-#EXTINF:-1 group_id=2,201 F0X S5.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33861
-
-#EXTINF:-1 group_id=2,201 F0X S5.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33689
-
-#EXTINF:-1 group_id=2,201 F0X S5.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33853
-
-#EXTINF:-1 group_id=2,201 F0X S6.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33852
-
-#EXTINF:-1 group_id=2,201 F0X S6.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33688
-
-#EXTINF:-1 group_id=2,201 F0X S6.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33851
-
-#EXTINF:-1 group_id=2,201 F0X S6.4
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33846
-
-#EXTINF:-1 group_id=2,201 Z1GG0 X1.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33759
-
-#EXTINF:-1 group_id=2,201 Z1GG0 X1.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33756
-
-#EXTINF:-1 group_id=2,201 Z1GG0 X1.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33712
-
-#EXTINF:-1 group_id=2,201 Z1GG0 X1.4
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33780
-
-#EXTINF:-1 group_id=2,201 Z1GG0 X2.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33711
-
-#EXTINF:-1 group_id=2,201 Z1GG0 S1.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33757
-
-#EXTINF:-1 group_id=2,201 Z1GG0 S1.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33755
-
-#EXTINF:-1 group_id=2,201 Z1GG0 S1.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33752
-
-#EXTINF:-1 group_id=2,201 Z1GG0 S1.6
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33751
-
-#EXTINF:-1 group_id=2,201 Z1GG0 S1.5
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33704
-
-#EXTINF:-1 group_id=2,201 Z1GG0 S1.4
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33700
-
-#EXTINF:-1 group_id=2,201 Z1GG0 G1.5
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33754
-
-#EXTINF:-1 group_id=2,201 Z1GG0 G1.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33758
-
-#EXTINF:-1 group_id=2,201 Z1GG0 G1.4
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33706
-
-#EXTINF:-1 group_id=2,201 Z1GG0 G1.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33777
-
-#EXTINF:-1 group_id=2,201 Z1GG0 R1.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33753
-
-#EXTINF:-1 group_id=2,201 Z1GG0 R1.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33703
-
-#EXTINF:-1 group_id=2,201 Z1GG0 R1.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33778
-
-#EXTINF:-1 group_id=2,201 Z1GG0 V1.1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33750
-
-#EXTINF:-1 group_id=2,201 Z1GG0 V1.2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33698
-
-#EXTINF:-1 group_id=2,201 Z1GG0 V1.3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33779
-
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 1
 http://103.194.171.37/vvv/soso1/index.m3u8
 
@@ -264,45 +129,6 @@ http://190.13.120.113/streams/syfy.m3u8
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21789
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21786
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21781
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/btsport.png,401 BTS ÈPSN
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21776
-
-#EXTINF:-1 group_id=4,601 Éleven S1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/24264
-
-#EXTINF:-1 group_id=4,601 Éleven S2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/24263
-
-#EXTINF:-1 group_id=4,601 S'ky S  Àction
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10321
-
-#EXTINF:-1 group_id=4,601 S'ky S  Àrena
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10318
-
-#EXTINF:-1 group_id=4,601 S'ky S  F00tball
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10306
-
-#EXTINF:-1 group_id=4,601 S'ky S  ME
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10299
-
-#EXTINF:-1 group_id=4,601 S'ky S  M1X
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10295
-
-#EXTINF:-1 group_id=4,601 S'ky S  News
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10290
-
-#EXTINF:-1 group_id=4,601 S'ky S  PL
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/10286
-
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 
@@ -338,33 +164,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 #EXTINF:-1 group_id=6,601 M'LB L
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-
-#EXTINF:-1 group_id=6,601 T'SN 1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4966
-
-#EXTINF:-1 group_id=6,601 T'SN 2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4965
-
-#EXTINF:-1 group_id=6,601 T'SN 3 HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4964
-
-#EXTINF:-1 group_id=6,601 T'SN 4
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4963
-
-#EXTINF:-1 group_id=6,601 SN W0rld
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/40671
-
-#EXTINF:-1 group_id=6,601,N'HL N
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6393
-
-#EXTINF:-1 group_id=6,601,B'EIN SPORTS 
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6389
-
-#EXTINF:-1 group_id=6,601,NB'A TV
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6391
-
-#EXTINF:-1 group_id=6,601,NÉSN
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6293
 
 #EXTINF:-1 group_id=11,1101 SÉBN 03
 http://194.67.220.30/hls/sebn3.m3u8
