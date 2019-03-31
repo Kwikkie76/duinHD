@@ -67,37 +67,37 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 1
-http://103.194.171.37/vvv/soso1/index.m3u8
+http://now.caimana.ml/vvv/soso1/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 2
-http://103.194.171.37/vvv/s2/index.m3u8
+http://now.caimana.ml/vvv/s2/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 3
-http://103.194.171.37/vvv/s33/index.m3u8
+http://now.caimana.ml/vvv/s33/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 4
-http://103.194.171.37/vvv/s4/index.m3u8
+http://now.caimana.ml/vvv/s4/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 5
 http://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=64000-video=145000.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 6
-http://103.194.171.37/vvv/s6/index.m3u8
+http://now.caimana.ml/vvv/s6/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 7
-http://103.194.171.37/vvv/s77/index.m3u8
+http://now.caimana.ml/vvv/s77/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 8
-http://103.194.171.37/vvv/s888/index.m3u8
+http://now.caimana.ml/vvv/s888/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 9
-http://103.194.171.37/vvv/s9/index.m3u8
+http://now.caimana.ml/vvv/s9/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 10
-http://103.194.171.37/vvv/s100/index.m3u8
+http://now.caimana.ml/vvv/s100/index.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 11
-http://103.194.171.37/vvv/s11/index.m3u8
+http://now.caimana.ml/vvv/s11/index.m3u8
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
@@ -173,93 +173,3 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
  
 #EXTINF:-1 group_id=6,601 F0x Sp0rts 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
-
-#EXTINF:-1 group_id=11,1101 SÉBN 03
-http://194.67.220.30/hls/sebn3.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 04
-http://51.15.182.233/hls/sebn4.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 05
-http://51.15.182.233/hls/sebn5.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 06
-http://194.67.220.30/hls/sebn6.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 07
-http://51.15.182.233/hls/sebn7.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 08
-http://194.67.220.30/hls/sebn8.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 10
-http://194.67.220.30/hls/sebn10.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 11
-http://194.67.208.149/hls/101.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 12
-http://194.67.208.149/hls/102.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 13
-http://194.67.208.149/hls/103.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 14
-http://194.67.208.149/hls/104.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 15
-http://194.67.208.149/hls/105.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 16
-http://194.67.208.149/hls/106.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 17
-http://194.67.208.149/hls/107.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 18
-http://194.67.208.149/hls/108.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 19
-http://194.67.208.149/hls/109.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 20
-http://194.67.208.149/hls/110.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 21
-http://194.67.220.30/hls/111.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 22
-http://194.67.220.30/hls/112.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 23
-http://194.67.220.30/hls/113.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 24
-http://194.67.220.30/hls/114.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 25
-http://194.67.220.30/hls/115.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 26
-http://194.67.220.30/hls/116.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 27
-http://194.67.220.30/hls/117.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 28
-http://194.67.220.30/hls/118.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 29
-http://194.67.220.30/hls/119.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 30
-http://194.67.220.30/hls/120.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 31
-http://194.67.220.30/hls/121.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 32
-http://194.67.220.30/hls/122.m3u8
-
-#EXTINF:-1 group_id=11,1101 SÉBN 33
-http://194.67.220.30/hls/123.m3u8
