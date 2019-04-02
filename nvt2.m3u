@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 192 Norderney  
+#EXTINF:-1 group_id=1 logo="plugin_file://logos/192TV.png,101 192 Norderney
 http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDrenthe.png,102 RTV Drenthe
@@ -111,8 +111,8 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 group_id=3,301 My C1nema
 http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 group_id=3,301 S'yfy 
-http://190.13.120.113/streams/syfy.m3u8 
+#EXTINF:-1 group_id=3,301 S'yfy
+http://190.13.120.113/streams/syfy.m3u8
 
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
@@ -129,8 +129,8 @@ http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 #EXTINF:-1 group_id=4,402 Rèal Màdrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group_id=4,402 MÜ TV 
-http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8 
+#EXTINF:-1 group_id=4,402 MÜ TV
+http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 
 #EXTINF:-1 group_id=4,403 0Lympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
@@ -158,9 +158,6 @@ http://203.154.243.32:8088/live/wtb/index.m3u8
 
 #EXTINF:-1 group_id=6,601 M'LB N
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 group_id=6,601 M'LB L
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 
 #EXTINF:-1 group_id=6,601 F0x Sp0rts 1
 http://23.237.22.82:8086/udp/127.0.0.1:56046
@@ -293,3 +290,72 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33696
 
 #EXTINF:-1 group_id=11,1101 F0X SP0RTs 2 HD 1080P
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33695
+
+#EXTINF:-1 group_id=11,1102 BTS 1 | UHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21789
+
+#EXTINF:-1 group_id=11,1102 BTS 2 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21786
+
+#EXTINF:-1 group_id=11,1102 BTS 3 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21781
+
+#EXTINF:-1 group_id=11,1102 BTS EPSN | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21776
+
+#EXTINF:-1 group_id=11,1102 BTS Extra 1 | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21772
+
+#EXTINF:-1 group_id=11,1102 BTS Extra 2 | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21771
+
+#EXTINF:-1 group_id=11,1102 BTS Extra 3 | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21770
+
+#EXTINF:-1 group_id=11,1102 BTS Extra 4 | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21769
+
+#EXTINF:-1 group_id=11,1102 BTS Extra 5 | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21768
+
+#EXTINF:-1 group_id=11,1102 BTSS 1 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21767
+
+#EXTINF:-1 group_id=11,1102 BTSS 2 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21765
+
+#EXTINF:-1 group_id=11,1102 BTSS 2 | UHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21764
+
+#EXTINF:-1 group_id=11,1102 BTSS 3 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21763
+
+#EXTINF:-1 group_id=11,1102 BTSS 3 | UHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21762
+
+#EXTINF:-1 group_id=11,1102 BTSS EPSN | UHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21761
+
+#EXTINF:-1 group_id=11,1102 BTSS EPSN | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21760
+
+#EXTINF:-1 group_id=11,1102 BTSS EXTRA 1 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21759
+
+#EXTINF:-1 group_id=11,1102 BTSS EXTRA 2 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21758
+
+#EXTINF:-1 group_id=11,1102 BTSS EXTRA 3 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21757
+
+#EXTINF:-1 group_id=11,1102 BTSS EXTRA 4 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21756
+
+#EXTINF:-1 group_id=11,1102 BTSS EXTRA 5 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21755
+
+#EXTINF:-1 group_id=11,1102 BTSS EXTRA 6 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21754
+
+#EXTINF:-1 group_id=11,1102 BTSS EXTRA 7 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21753
