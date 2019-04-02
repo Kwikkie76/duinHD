@@ -67,16 +67,16 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 1
-http://35.231.209.189/vvv/soso1/index.m3u8
+http://35.231.209.189/vvv/soso1/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 2
-http://35.231.209.189/vvv/s2/index.m3u8
+http://35.231.209.189/vvv/s2/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 3
-http://35.231.209.189/vvv/s33/index.m3u8
+http://35.231.209.189/vvv/s33/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 4
-http://35.231.209.189/vvv/s4/index.m3u8
+http://35.231.209.189/vvv/s4/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 5
 http://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=64000-video=145000.m3u8
@@ -85,19 +85,19 @@ http://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/l
 http://35.231.209.189/vvv/s6/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 7
-http://35.231.209.189/vvv/s77/index.m3u8
+http://35.231.209.189/vvv/s77/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 8
-http://35.231.209.189/vvv/s888/index.m3u8
+http://35.231.209.189/vvv/s888/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 9
-http://35.231.209.189/vvv/s9/index.m3u8
+http://35.231.209.189/vvv/s9/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 10
-http://35.231.209.189/vvv/s100/index.m3u8
+http://35.231.209.189/vvv/s100/playlist.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 11
-http://35.231.209.189/vvv/s11/index.m3u8
+http://35.231.209.189/vvv/s11/playlist.m3u8
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
