@@ -114,14 +114,8 @@ http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/
 #EXTINF:-1 group_id=3,301 S'yfy 
 http://190.13.120.113/streams/syfy.m3u8 
 
-#EXTINF:-1 group_id=3,301 HB0 1
-http://113.161.66.38:4022/rtp/232.84.1.19:8088
-
 #EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1 group_id=4,401 BS 1
-http://cdnak2.cast4u.info/channels/3/10803.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group_id=4,401 BTS 1
 http://185.125.230.172/btsportone.m3u8
@@ -173,3 +167,129 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
  
 #EXTINF:-1 group_id=6,601 F0x Sp0rts 2
 http://23.237.22.82:8086/udp/127.0.0.1:56047
+
+#EXTINF:-1 group_id=6,601 NBÀ TV1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6391
+
+#EXTINF:-1 group_id=6,601 NBÀ TV2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/7837
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 Extra 1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33759
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 Golf
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33758
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 Select
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33757
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT Extra 1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33756
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT FHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33755
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT GOLF
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33754
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT Racing FHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33753
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT SELECT 1 HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33752
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT Select HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33751
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT Voetbal
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33750
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT eXtra 1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33712
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT eXtra 2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33711
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT Golf
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33706
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33704
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT Racing
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33703
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT select HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33700
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 SP0RT Voetbal hd
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33698
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS 5
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33861
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 1 Full HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33860
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 1 HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33859
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 2 HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33858
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 2 INTERNATIONAL
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33857
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33693
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 3 EDV
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33856
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33690
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 4 HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33855
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 4 INTERNATIONAL
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33854
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 5
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33689
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 5 EDV HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33853
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 6
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33852
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 6 HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33688
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 6 INTERNATIONAL
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33851
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs EDL 1 HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33850
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs EDL 3 HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33849
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33848
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33847
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs6
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33846
+
+#EXTINF:-1 group_id=11,1101 Z1GG0 Golf HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33845
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTS HD 1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33696
+
+#EXTINF:-1 group_id=11,1101 F0X SP0RTs 2 HD 1080P
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/33695
