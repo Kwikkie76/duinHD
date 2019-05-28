@@ -66,6 +66,36 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://ngx.cr6.streamzilla.xlcdn.com/sz/ndc_mediagroep/wowza4/live/NDC3.smil/playlist.m3u8
 
+#EXTINF:-1,NL: F0x 0Sp0rts 1
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71208
+
+#EXTINF:-1,NL: F0x Sp0rts 2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71205
+
+#EXTINF:-1,NL: F0x Sp0rts 3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71203
+
+#EXTINF:-1,NL: F0x Sp0rts 4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71202
+
+#EXTINF:-1,NL: F0x Sp0rts 5
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71201
+
+#EXTINF:-1,NL: F0x Sp0rts 6
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71200
+
+#EXTINF:-1,NL: F1lm1 Action
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71224
+
+#EXTINF:-1,NL: F1lm1 Drama
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71221
+
+#EXTINF:-1,NL: F1lm1 Family
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71220
+
+#EXTINF:-1,NL: F1lm1 Premiere
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71218
+
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
@@ -111,3 +141,89 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6391
 #EXTINF:-1 group_id=6,601 NBÀ TV2
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/7837
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",EPSN USA
+http://espn.tmedia.me/cache/espn1_540.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",EPSN USA HD
+http://80.80.160.168/live/6/2500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png" tvg-id=" group-title="USA",EPSN 2 USA
+http://espn.tmedia.me/cache/espn2_540.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNNEWS.png" tvg-id=" group-title="USA",EPSN NEWS
+http://espn.tmedia.me/cache/espnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNU.png" tvg-id=" group-title="USAEPSN",EPSNU
+http://espn.tmedia.me/cache/espnu.m3u8
+
+#EXTINF:-1,US: BEIN SPORT | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6390
+
+#EXTINF:-1,US: BEIN SPORTS  | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6389
+
+#EXTINF:-1,US: beIN Sports HD 2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6760
+
+#EXTINF:-1,US: beIN Sports HD 9
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6756
+
+#EXTINF:-1,US: FOX SOCCER PLUS | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6354
+
+#EXTINF:-1,US: FOX SOCCER PLUS | SD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6353
+
+#EXTINF:-1,US: FOX SPORTS 1 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6352
+
+#EXTINF:-1,US: FOX SPORTS 1 | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6351
+
+#EXTINF:-1,US: FOX SPORTS 2 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6350
+
+#EXTINF:-1,US: FOX SPORTS 2 | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6349
+
+#EXTINF:-1,NBA LEAGUE PASS
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60221
+
+#EXTINF:-1,NBA LEAGUE PASS 10
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60212
+
+#EXTINF:-1,NBA LEAGUE PASS 11
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60211
+
+#EXTINF:-1,NBA LEAGUE PASS 12
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60210
+
+#EXTINF:-1,NBA LEAGUE PASS 13
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60209
+
+#EXTINF:-1,NBA LEAGUE PASS 14
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60208
+
+#EXTINF:-1,NBA LEAGUE PASS 2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60220
+
+#EXTINF:-1,NBA LEAGUE PASS 3
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60219
+
+#EXTINF:-1,NBA LEAGUE PASS 4
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60218
+
+#EXTINF:-1,NBA LEAGUE PASS 5
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60217
+
+#EXTINF:-1,NBA LEAGUE PASS 6
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60216
+
+#EXTINF:-1,NBA LEAGUE PASS 7
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60215
+
+#EXTINF:-1,NBA LEAGUE PASS 8
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60214
+
+#EXTINF:-1,NBA LEAGUE PASS 9
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60213
