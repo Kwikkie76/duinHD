@@ -156,17 +156,8 @@ http://espn.tmedia.me/cache/espnews.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNU.png" tvg-id=" group-title="USAEPSN",EPSNU
 http://espn.tmedia.me/cache/espnu.m3u8
 
-#EXTINF:-1,US: BE1N SPORT | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6390
-
 #EXTINF:-1,US: BE1N SPORTS  | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6389
-
-#EXTINF:-1,US: be1N Sports HD 2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6760
-
-#EXTINF:-1,US: be1N Sports HD 9
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6756
 
 #EXTINF:-1,US: F0X S0CCER PLUS | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6354
@@ -174,14 +165,8 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6354
 #EXTINF:-1,US: F0X S0CCER PLUS | SD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6353
 
-#EXTINF:-1,US: F0X SP0RTS 1 | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6352
-
 #EXTINF:-1,US: F0X SP0RTS 1 | HD*
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6351
-
-#EXTINF:-1,US: F0X SP0RTS 2 | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6350
 
 #EXTINF:-1,US: F0X SP0RTS 2 | HD*
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6349
