@@ -46,7 +46,7 @@ http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDordrecht.png,103 RTV Dordrecht (ZH)
-http://ms7.mx-cd.net/tv/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/media_w1929300909_b1894400_slNLD_16228.ts
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OpenRotterdam.png,103 OPEN Rotterdam (ZH)
 http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
@@ -64,40 +64,7 @@ http://cdn22d.streampartner.nl/podiumbv/podiumbv_1080p/chunklist_w1834726622.m3u
 http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
-http://cdn15.streampartner.nl/podiumbv_4/podiumbv_4_1080p/chunklist_w1485618279.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 1
-http://35.231.209.189/vvv/soso1/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 2
-http://35.231.209.189/vvv/s2/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 3
-http://35.231.209.189/vvv/s33/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 4
-http://35.231.209.189/vvv/s4/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 5
-http://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/live_aes-audio_track_0_dut=64000-video=145000.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 6
-http://35.231.209.189/vvv/s6/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 7
-http://35.231.209.189/vvv/s77/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 8
-http://35.231.209.189/vvv/s888/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 9
-http://35.231.209.189/vvv/s9/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 10
-http://35.231.209.189/vvv/s100/playlist.m3u8
-
-#EXTINF:-1 group_id=2 logo="plugin_file://logos/CYFO.png,202 CYF0 11
-http://35.231.209.189/vvv/s11/playlist.m3u8
+http://ngx.cr6.streamzilla.xlcdn.com/sz/ndc_mediagroep/wowza4/live/NDC3.smil/playlist.m3u8
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
@@ -110,18 +77,6 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1 group_id=3,301 My C1nema
 http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/S4/mnf.m3u8
-
-#EXTINF:-1 group_id=3,301 S'yfy
-http://190.13.120.113/streams/syfy.m3u8
-
-#EXTINF:-1 group_id=4 logo="plugin_file://logos/FLOW.png,401 Fl0w Sp0rts
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-
-#EXTINF:-1 group_id=4,401 BTS 1
-http://185.125.230.172/btsportone.m3u8
-
-#EXTINF:-1 group_id=4,401 BTS 2
-http://185-8-178-139.livesports24.online/btsportsport2.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group_id=4,402 Chelseà TV
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
@@ -144,26 +99,11 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1 group_id=5,501 Sp0rt Max
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 
-#EXTINF:-1 group_id=5,501 Sètanta Sp (dual audio)
-http://77.245.98.22:8000/play/401/index.m3u8
-
 #EXTINF:-1 group_id=5,501 Súper S0ccer
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 
-#EXTINF:-1 group_id=5,501 Sky Sport News
-http://88.152.15.230:7522/upnp/channelstream/117
-
-#EXTINF:-1 group_id=5,501 WTB
-http://203.154.243.32:8088/live/wtb/index.m3u8
-
 #EXTINF:-1 group_id=6,601 M'LB N
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 group_id=6,601 F0x Sp0rts 1
-http://23.237.22.82:8086/udp/127.0.0.1:56046
- 
-#EXTINF:-1 group_id=6,601 F0x Sp0rts 2
-http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 #EXTINF:-1 group_id=6,601 NBÀ TV1
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6391
@@ -171,35 +111,3 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6391
 #EXTINF:-1 group_id=6,601 NBÀ TV2
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/7837
 
-#EXTINF:-1 group_id=11,1102 BTS 1 | UHD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21789
-
-#EXTINF:-1 group_id=11,1102 BTS 2 | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21786
-
-#EXTINF:-1 group_id=11,1102 BTS 3 | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21781
-
-#EXTINF:-1 group_id=11,1102 BTS EPSN | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21776
-
-#EXTINF:-1 group_id=11,1102 BTSS 1 | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21767
-
-#EXTINF:-1 group_id=11,1102 BTSS 2 | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21765
-
-#EXTINF:-1 group_id=11,1102 BTSS 2 | UHD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21764
-
-#EXTINF:-1 group_id=11,1102 BTSS 3 | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21763
-
-#EXTINF:-1 group_id=11,1102 BTSS 3 | UHD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21762
-
-#EXTINF:-1 group_id=11,1102 BTSS EPSN | UHD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21761
-
-#EXTINF:-1 group_id=11,1102 BTSS EPSN | HD
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21760
