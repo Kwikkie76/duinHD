@@ -105,32 +105,71 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (Int)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
+#EXTINF:-1,CA: HB0
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/5029
+
+#EXTINF:-1,CA: HB0	CA: HB0 2
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/5026
+
 #EXTINF:-1 group_id=3,301 My C1nema
 http://210.210.155.35/session/e7e9511c-e9b5-11e8-9df0-ae449b204a5c/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 group_id=4,402 Chelseà TV
-http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+#EXTINF:-1,UK: Disc Sc1ence
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21585
 
-#EXTINF:-1 group_id=4,402 Rèal Màdrid TV
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,UK: Disc0very Channel
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21583
 
-#EXTINF:-1 group_id=4,402 MÜ TV
-http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+#EXTINF:-1,US: H1STORY HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/3426
 
-#EXTINF:-1 group_id=4,403 0Lympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,US: H1STORY 2 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/29423
 
-#EXTINF:-1 group_id=5,501 SÉVEN/F0X (AUS)
-http://45.58.62.92:8080
+#EXTINF:-1,UK: H2 | UHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/21553
 
-#EXTINF:-1 group_id=5,501 Dsp0rts
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
+#EXTINF:-1,US: SY-FY
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/3407
 
-#EXTINF:-1 group_id=5,501 Sp0rt Max
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1,CA: SP0RTSNET 360 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4986
 
-#EXTINF:-1 group_id=5,501 Súper S0ccer
-http://210.210.155.35/uq2663/h/h20/index.m3u8
+#EXTINF:-1,CA: SP0RTSNET EAST | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4985
+
+#EXTINF:-1,CA: SP0RTSNET ONTARIO | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4983
+
+#EXTINF:-1,CA: SP0RTSNET PACIFIC | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4982
+
+#EXTINF:-1,CA: SP0RTSNET ONE | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/75168
+
+#EXTINF:-1,CA: SP0RTSNET ONE | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/75167
+
+#EXTINF:-1,CA: Sp0rtsnet One | UHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/75166
+
+#EXTINF:-1,CA: SP0RTSNET WEST | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4981
+
+#EXTINF:-1,CA: Sp0rtsnet World | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/40671
+
+#EXTINF:-1,CA: TSN 1 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4966
+
+#EXTINF:-1,CA: TSN 2 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4965
+
+#EXTINF:-1,CA: TSN 3 HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4964
+
+#EXTINF:-1,CA: TSN 4 | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4963
 
 #EXTINF:-1 group_id=6,601 M'LB N
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
@@ -141,8 +180,23 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6391
 #EXTINF:-1 group_id=6,601 NBÀ TV2
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/7837
 
+#EXTINF:-1,NHL NETWORK | HD (24/7 Coverage)
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/5736
+
+#EXTINF:-1,US: NHL NETWORK | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6393
+
 #EXTINF:-1,US: TENNIS CHANNEL | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6277
+
+#EXTINF:-1,US: BE1N SPORTS  | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6389
+
+#EXTINF:-1,US: B1G TEN NETWORK (BTN) | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6388
+
+#EXTINF:-1,US: CBS SP0RTS NETWORK | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6387
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",EPSN USA
 http://espn.tmedia.me/cache/espn1_540.m3u8
@@ -165,6 +219,51 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6351
 #EXTINF:-1,US: F0X SP0RTS 2 | HD*
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6349
 
+#EXTINF:-1,US: NBC SP0RTS (Chicago) | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6304
+
+#EXTINF:-1,US: NBC SP0RTS BAY AREA | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6303
+
+#EXTINF:-1,US: NBC Sp0rts Network | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6302
+
+#EXTINF:-1,US: NBC Sp0rts Network | HD*
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6301
+
+#EXTINF:-1,US: NBC SP0RTS NEW ENGLAND | UHD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6300
+
+#EXTINF:-1,US: NBCSN | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6299
+
+#EXTINF:-1,US: NBCSN NORTHWEST | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6298
+
+#EXTINF:-1,US: NBCSN PHILADELPHIA  | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6297
+
+#EXTINF:-1,US: NBCSN Sport Philadelphia Plus
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/41332
+
+#EXTINF:-1,US: NBCSN WASHINGTON  | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6295
+
+#EXTINF:-1,US: NBCSN WASHINGTON | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6296
+
+#EXTINF:-1,US: NESN PLUS | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6294
+
+#EXTINF:-1,US: NEW ENGLAND SP0RTS NETWORK | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6293
+
+#EXTINF:-1,US: SP0RTS NETWORK (NY) | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6280
+
+#EXTINF:-1,US: SP0RTSNET LA (Los Angeles) | HD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6278
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="SPORTS",B1g Ten Network (USA)
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
 
@@ -174,29 +273,44 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="SPORTS",F0x Sp0rts Racing (USA)
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
+#EXTINF:-1 group_id=5,501 SÉVEN/F0X (AUS)
+http://45.58.62.92:8080
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="SPORTS",Rèd Büll TV (USA)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="SPORTS",Stad1um (USA)
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
-#EXTINF:-1,NBÀ LEÀGUE PÀSS
+#EXTINF:-1 group_id=5,501 Dsp0rts
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
+
+#EXTINF:-1,IE: E1R SPORT 1 | SD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/16279
+
+#EXTINF:-1,IE: E1R SPORT 2 | SD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/16278
+
+#EXTINF:-1,IE: PREM1ER SPORTS | SD
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/16277
+
+#EXTINF:-1 group_id=4,402 Chelseà TV
+http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+
+#EXTINF:-1 group_id=4,402 Rèal Màdrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group_id=4,402 MÜ TV
+http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+
+#EXTINF:-1 group_id=4,403 0Lympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:-1 group_id=5,501 Súper S0ccer
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+
+#EXTINF:-1,NBÀ LEÀGUE PÀSS 1
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60221
-
-#EXTINF:-1,NBÀ LEÀGUE PÀSS 10
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60212
-
-#EXTINF:-1,NBÀ LEÀGUE PÀSS 11
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60211
-
-#EXTINF:-1,NBÀ LEÀGUE PÀSS 12
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60210
-
-#EXTINF:-1,NBÀ LEÀGUE PÀSS 13
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60209
-
-#EXTINF:-1,NBÀ LEÀGUE PÀSS 14
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60208
 
 #EXTINF:-1,NBÀ LEÀGUE PÀSS 2
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60220
@@ -221,3 +335,18 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60214
 
 #EXTINF:-1,NBÀ LEÀGUE PÀSS 9
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60213
+
+#EXTINF:-1,NBÀ LEÀGUE PÀSS 10
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60212
+
+#EXTINF:-1,NBÀ LEÀGUE PÀSS 11
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60211
+
+#EXTINF:-1,NBÀ LEÀGUE PÀSS 12
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60210
+
+#EXTINF:-1,NBÀ LEÀGUE PÀSS 13
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60209
+
+#EXTINF:-1,NBÀ LEÀGUE PÀSS 14
+http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/60208
