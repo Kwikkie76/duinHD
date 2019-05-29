@@ -46,7 +46,7 @@ http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/_4REFuIBBY8W.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/RTVDordrecht.png,103 RTV Dordrecht (ZH)
-https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/media_w1929300909_b1894400_slNLD_16228.ts
+http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 
 #EXTINF:-1 group_id=1 logo="plugin_file://logos/OpenRotterdam.png,103 OPEN Rotterdam (ZH)
 http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
