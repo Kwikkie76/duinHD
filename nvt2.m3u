@@ -66,7 +66,7 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://ngx.cr6.streamzilla.xlcdn.com/sz/ndc_mediagroep/wowza4/live/NDC3.smil/playlist.m3u8
 
-#EXTINF:-1,NL: F0x 0Sp0rts 1
+#EXTINF:-1,NL: F0x Sp0rts 1
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71208
 
 #EXTINF:-1,NL: F0x Sp0rts 2
@@ -147,22 +147,22 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4982
 #EXTINF:-1,CA: SP0RTSNET ONE | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/75168
 
-#EXTINF:-1,CA:SPORTSNET WEST HD
+#EXTINF:-1,CA:SP0RTSNET WEST HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/17769
 
 #EXTINF:-1,CA: Sp0rtsnet World | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/40671
 
-#EXTINF:-1,CA: TSN 1 | HD
+#EXTINF:-1,CA: TSN1 | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4966
 
-#EXTINF:-1,CA: TSN 2 | HD
+#EXTINF:-1,CA: TSN2 | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4965
 
-#EXTINF:-1,CA: TSN 3 HD
+#EXTINF:-1,CA: TSN3 HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4964
 
-#EXTINF:-1,CA: TSN 4 | HD
+#EXTINF:-1,CA: TSN4 | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/4963
 
 #EXTINF:-1 group_id=6,601 M'LB N
@@ -174,13 +174,13 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6391
 #EXTINF:-1 group_id=6,601 NBÀ TV2
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/7837
 
-#EXTINF:-1,NHL NETWORK | HD (24/7 Coverage)
+#EXTINF:-1,NLH NETWORK | HD (24/7 Coverage)
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/5736
 
-#EXTINF:-1,US: NHL NETWORK | HD*
+#EXTINF:-1,US: NLH NETWORK | HD*
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6393
 
-#EXTINF:-1,US: TENNIS CHANNEL | HD
+#EXTINF:-1,US: TENN1S CHANNEL | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6277
 
 #EXTINF:-1,US: BE1N SPORTS  | HD
@@ -189,7 +189,7 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6389
 #EXTINF:-1,US: B1G TEN NETWORK (BTN) | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6388
 
-#EXTINF:-1,US: CBS SP0RTS NETWORK | HD
+#EXTINF:-1,US: CSB SP0RTS NETWORK | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6387
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",EPSN USA
@@ -213,34 +213,34 @@ http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6351
 #EXTINF:-1,US: F0X SP0RTS 2 | HD*
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6349
 
-#EXTINF:-1,US: NBC SP0RTS (Chicago) | HD
+#EXTINF:-1,US: NCB SP0RTS (Chicago) | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6304
 
-#EXTINF:-1,US: NBC SP0RTS BAY AREA | HD
+#EXTINF:-1,US: NCB SP0RTS BAY AREA | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6303
 
-#EXTINF:-1,US: NBCSN | HD
+#EXTINF:-1,US: NCBSN | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6299
 
-#EXTINF:-1,US: NBC SP0RTS NEW ENGLAND | UHD
+#EXTINF:-1,US: NCB SP0RTS NEW ENGLAND | UHD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6300
 
-#EXTINF:-1,US: NBCSN NORTHWEST | HD
+#EXTINF:-1,US: NCBSN NORTHWEST | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6298
 
-#EXTINF:-1,US: NBCSN PHILADELPHIA  | HD
+#EXTINF:-1,US: NCBSN PHILADELPHIA  | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6297
 
-#EXTINF:-1,US: NBCSN Sport Philadelphia Plus
+#EXTINF:-1,US: NCBSN Sport Philadelphia Plus
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/41332
 
 #EXTINF:-1,US: NBCSN WASHINGTON  | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6295
 
-#EXTINF:-1,US: NBCSN WASHINGTON | HD
+#EXTINF:-1,US: NCBSN WASHINGTON | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6296
 
-#EXTINF:-1,US: NESN PLUS | HD
+#EXTINF:-1,US: N3SN PLUS | HD
 http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/6294
 
 #EXTINF:-1,US: NEW ENGLAND SP0RTS NETWORK | HD
