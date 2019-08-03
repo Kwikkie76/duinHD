@@ -66,23 +66,46 @@ http://cdn22d.streampartner.nl/podiumbv_2/podiumbv_2/chunklist_w1707279112.m3u8
 #EXTINF:-1 group_id=2 logo="plugin_file://logos/PodiumTV.png,201 Podium.TV 3
 http://ngx.cr6.streamzilla.xlcdn.com/sz/ndc_mediagroep/wowza4/live/NDC3.smil/playlist.m3u8
 
+842	NL: FOX SPORT 1	Waiting	
+843	NL: FOX SPORT 2	
+844	NL: FOX SPORT 3	Waiting	
+845	NL: FOX SPORT 4	Waiting	
+846	NL: FOX SPORT 5	Waiting	
+847	NL: Fox Sports 2	Waiting	
+848	NL: Fox Sports 3	Waiting	
+849	NL: Fox Sports 4	Waiting	http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5821
+850	NL: Fox Sports 5	Waiting	
+1547	NL: FOX SPORTS 6	Waiting	
+
 #EXTINF:-1,NL: F0x Sp0rts 1
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71208
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/765
 
 #EXTINF:-1,NL: F0x Sp0rts 2
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71205
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/762
 
 #EXTINF:-1,NL: F0x Sp0rts 3
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71203
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/764
 
 #EXTINF:-1,NL: F0x Sp0rts 4
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71202
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/761
 
 #EXTINF:-1,NL: F0x Sp0rts 5
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71201
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/760
 
 #EXTINF:-1,NL: F0x Sp0rts 6
-http://thenew.tv:8000/U9ulyw2eyT/GFViuteUwg/71200
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/17504
+
+#EXTINF:-1,NL: F0x Sp0rts 2a
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5817
+
+#EXTINF:-1,NL: F0x Sp0rts 3a
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5816
+
+#EXTINF:-1,NL: F0x Sp0rts 4a
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5821
+
+#EXTINF:-1,NL: F0x Sp0rts 5a
+http://hdlivetv.tv:8000/1NADORONEIPTV/SKYPEEXCHANGE502/5815
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/FOX.png,301 F0x Premium C0medy (Asia)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
@@ -92,18 +115,6 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 
 #EXTINF:-1 group_id=3 logo="plugin_file://logos/hbo.png,301 HB0 2 (Int)
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" tvg-id=" group-title="USA",EPSN USA
-http://espn.tmedia.me/cache/espn1_540.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN2.png" tvg-id=" group-title="USA",EPSN 2 USA
-http://espn.tmedia.me/cache/espn2_540.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNNEWS.png" tvg-id=" group-title="USA",EPSN NEWS
-http://espn.tmedia.me/cache/espnews.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPNU.png" tvg-id=" group-title="USAEPSN",EPSNU
-http://espn.tmedia.me/cache/espnu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="SPORTS",B1g Ten Network (USA)
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
